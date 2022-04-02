@@ -494,7 +494,7 @@ rules:
 - RULE-SET,greatfire,PG-default
 - RULE-SET,telegramcidr,PG-default
 - RULE-SET,google,PG-default
-- RULE-SET,proxy,PG-defaut
+- RULE-SET,proxy,PG-default
 - RULE-SET,apple,PG-default
 - RULE-SET,icloud,PG-default
 - MATCH,PG-default
