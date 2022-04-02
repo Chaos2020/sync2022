@@ -344,7 +344,7 @@ proxies:
   Rank: 2708
 proxy-groups:
 - name: PG-default
-  type: fallback
+  type: url-test
   url: https://www.google.com
   interval: 200
   strategy: consistent-hashing
@@ -476,6 +476,9 @@ rules:
 - PROCESS-NAME,Folx,DIRECT
 - DOMAIN,clash.razord.top,PG-default
 - DOMAIN,yacd.haishan.me,PG-default
+- DOMAIN-SUFFIX,github.com
+- DOMAIN-SUFFIX,githubusercontents.com
+- RULE-SET,anting,PG-default
 - RULE-SET,private,DIRECT
 - RULE-SET,reject,REJECT
 - RULE-SET,direct,DIRECT
@@ -486,7 +489,7 @@ rules:
 - RULE-SET,greatfire,PG-default
 - RULE-SET,telegramcidr,PG-default
 - RULE-SET,google,PG-default
-- RULE-SET,proxy,PG-default
+- RULE-SET,proxy,PG-defaut
 - RULE-SET,apple,PG-default
 - RULE-SET,icloud,PG-default
 - MATCH,PG-default
