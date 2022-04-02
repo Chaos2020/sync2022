@@ -343,7 +343,7 @@ proxies:
   PFirstFoundDay: '2022-03-11T23:24:03.315205'
   Rank: 2708
 proxy-groups:
-  name: PG-default
+- name: PG-default
   type: fallback
   url: https://www.google.com
   interval: 200
