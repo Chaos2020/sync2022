@@ -47,6 +47,20 @@ proxies:
   UpdateDay: '2022-04-03T00:40:48.655978'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
   Rank: 15773
+- name: 101.91.121.247:50004@ss
+  server: 101.91.121.247
+  type: ss
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 50004
+  password: '4415934295'
+  cipher: aes-256-cfb
+  success_rate: 100.0
+  minimum: 10.05
+  maximum: 11.7
+  average: 10.68
+  UpdateDay: '2022-04-03T00:39:16.357496'
+  PFirstFoundDay: '2022-03-11T23:29:04.876882'
+  Rank: 13143
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -61,20 +75,6 @@ proxies:
   UpdateDay: '2022-04-02T21:34:14.076996'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
   Rank: 13125
-- name: 101.91.121.247:50004@ss
-  server: 101.91.121.247
-  type: ss
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 50004
-  password: '4415934295'
-  cipher: aes-256-cfb
-  success_rate: 100.0
-  minimum: 10.05
-  maximum: 11.7
-  average: 10.68
-  UpdateDay: '2022-04-03T00:39:16.357496'
-  PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 13043
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -104,7 +104,7 @@ proxies:
   average: 44.0
   UpdateDay: '2022-04-03T00:40:48.796517'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 8717
+  Rank: 8765
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -191,7 +191,7 @@ proxies:
   average: 84.17
   UpdateDay: '2022-03-26T15:30:36.038919'
   PFirstFoundDay: '2022-03-13T18:26:32.488088'
-  Rank: 6053
+  Rank: 5903
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -311,22 +311,7 @@ proxies:
   average: 76.3
   UpdateDay: '2022-04-02T21:34:15.921519'
   PFirstFoundDay: '2022-03-24T21:35:30.855768'
-  Rank: 3053
-- name: s4.upyun.online:12340@trojan
-  server: s4.upyun.online
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 12340
-  password: 4809af3e-b8f2-4f07-9cfb-79d0a7bb1219
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 26.49
-  maximum: 32.36
-  average: 28.94
-  UpdateDay: '2022-04-02T15:33:02.937949'
-  PFirstFoundDay: '2022-03-11T23:24:03.315205'
-  Rank: 2708
+  Rank: 3103
 - name: s3.upyun.online:12340@trojan
   server: s3.upyun.online
   type: trojan
@@ -342,6 +327,21 @@ proxies:
   UpdateDay: '2022-04-02T15:33:03.434058'
   PFirstFoundDay: '2022-03-13T18:25:54.765840'
   Rank: 2670
+- name: s4.upyun.online:12340@trojan
+  server: s4.upyun.online
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 12340
+  password: 4809af3e-b8f2-4f07-9cfb-79d0a7bb1219
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 26.49
+  maximum: 32.36
+  average: 28.94
+  UpdateDay: '2022-04-02T15:33:02.937949'
+  PFirstFoundDay: '2022-03-11T23:24:03.315205'
+  Rank: 2558
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -350,8 +350,8 @@ proxy-groups:
   strategy: consistent-hashing
   proxies:
   - 101.132.192.212:30003@ss
-  - music.desperadoj.com:30003@ss
   - 101.91.121.247:50004@ss
+  - music.desperadoj.com:30003@ss
   - cscu.wecanfly.top:51132@trojan
   - fsyd.wecanfly.top:51133@trojan
   - 106.180.225.69:1443@trojan
@@ -367,8 +367,8 @@ proxy-groups:
   - 184.168.127.50:443@trojan
   - 139.162.122.205:3845@vmess
   - 54.179.225.210:28443@trojan
-  - s4.upyun.online:12340@trojan
   - s3.upyun.online:12340@trojan
+  - s4.upyun.online:12340@trojan
   tolerance: 250
 rule-providers:
   anting:
