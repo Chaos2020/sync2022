@@ -371,6 +371,11 @@ proxy-groups:
   - s4.upyun.online:12340@trojan
   tolerance: 250
 rule-providers:
+  anting:
+    type: file
+    behavior: classical
+    path: ./ruleset/anting.yaml
+    interval: 86400
   reject:
     type: http
     behavior: domain
