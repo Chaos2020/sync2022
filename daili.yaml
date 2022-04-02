@@ -89,7 +89,7 @@ proxies:
   average: 38.41
   UpdateDay: '2022-04-03T00:40:48.777556'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 9648
+  Rank: 9708
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   port: 51133
