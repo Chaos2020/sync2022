@@ -476,8 +476,8 @@ rules:
 - PROCESS-NAME,Folx,DIRECT
 - DOMAIN,clash.razord.top,PG-default
 - DOMAIN,yacd.haishan.me,PG-default
-- DOMAIN-SUFFIX,github.com
-- DOMAIN-SUFFIX,githubusercontents.com
+- DOMAIN-SUFFIX,github.com,PG-default
+- DOMAIN-SUFFIX,githubusercontents.com,PG-default
 - RULE-SET,anting,PG-default
 - RULE-SET,private,DIRECT
 - RULE-SET,reject,REJECT
