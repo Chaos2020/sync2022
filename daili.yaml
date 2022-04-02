@@ -119,7 +119,7 @@ proxies:
   average: 117.15
   UpdateDay: '2022-04-02T21:35:09.505225'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 7966
+  Rank: 8016
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -191,7 +191,7 @@ proxies:
   average: 84.17
   UpdateDay: '2022-03-26T15:30:36.038919'
   PFirstFoundDay: '2022-03-13T18:26:32.488088'
-  Rank: 6203
+  Rank: 6053
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -311,7 +311,7 @@ proxies:
   average: 76.3
   UpdateDay: '2022-04-02T21:34:15.921519'
   PFirstFoundDay: '2022-03-24T21:35:30.855768'
-  Rank: 3003
+  Rank: 3053
 - name: s3.upyun.online:12340@trojan
   server: s3.upyun.online
   type: trojan
