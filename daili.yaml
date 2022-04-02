@@ -371,12 +371,6 @@ proxy-groups:
   - s4.upyun.online:12340@trojan
   tolerance: 250
 rule-providers:
-  anting:
-    type: file
-    behavior: classical
-    url: url
-    path: ./ruleset/anting.yaml
-    interval: 86400
   reject:
     type: http
     behavior: domain
@@ -482,7 +476,6 @@ rules:
 - PROCESS-NAME,Folx,DIRECT
 - DOMAIN,clash.razord.top,PG-default
 - DOMAIN,yacd.haishan.me,PG-default
-- RULE-SET,anting,PG-default
 - RULE-SET,private,DIRECT
 - RULE-SET,reject,REJECT
 - RULE-SET,direct,DIRECT
