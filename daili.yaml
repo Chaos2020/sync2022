@@ -191,7 +191,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 5906
+  Rank: 5954
 - name: 117.28.243.164:8007@ss
   server: 117.28.243.164
   type: ss
@@ -275,7 +275,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 3733
+  Rank: 3757
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
