@@ -133,7 +133,7 @@ proxies:
   average: 80.88
   UpdateDay: '2022-04-03T09:35:03.418997'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 7772
+  Rank: 7822
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -310,7 +310,7 @@ proxies:
   average: 70.5
   UpdateDay: '2022-04-03T09:34:22.967439'
   PFirstFoundDay: '2022-03-24T21:35:30.855768'
-  Rank: 3206
+  Rank: 3256
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
