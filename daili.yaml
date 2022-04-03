@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 16231
+  Rank: 16331
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -133,7 +133,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 7827
+  Rank: 7877
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -260,7 +260,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 3829
+  Rank: 3879
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -310,7 +310,7 @@ proxies:
   average: 75.6
   UpdateDay: '2022-04-03T15:12:03.911046'
   PFirstFoundDay: '2022-03-24T21:35:30.855768'
-  Rank: 3257
+  Rank: 3307
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
@@ -325,7 +325,7 @@ proxies:
   average: 72.76
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 2643
+  Rank: 2693
 - name: gdyd.xxcv.cc:42001@trojan
   server: gdyd.xxcv.cc
   type: trojan
