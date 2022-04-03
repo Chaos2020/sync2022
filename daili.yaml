@@ -88,7 +88,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 9818
+  Rank: 9856
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -118,7 +118,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 8126
+  Rank: 8176
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -161,7 +161,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 7489
+  Rank: 7477
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -191,7 +191,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 5998
+  Rank: 6040
 - name: 117.28.243.164:8007@ss
   server: 117.28.243.164
   type: ss
@@ -275,7 +275,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 3757
+  Rank: 3777
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -325,7 +325,7 @@ proxies:
   average: 72.76
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 2693
+  Rank: 2743
 - name: gdyd.xxcv.cc:42001@trojan
   server: gdyd.xxcv.cc
   type: trojan
@@ -340,7 +340,7 @@ proxies:
   average: 43.37
   UpdateDay: '2022-04-03T15:12:01.321465'
   PFirstFoundDay: '2022-03-24T21:35:30.949309'
-  Rank: 2460
+  Rank: 2510
 proxy-groups:
 - name: PG-default
   type: url-test
