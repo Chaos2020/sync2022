@@ -60,7 +60,7 @@ proxies:
   average: 10.72
   UpdateDay: '2022-04-03T12:30:41.297879'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 13451
+  Rank: 13551
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -177,7 +177,7 @@ proxies:
   average: 108.87
   UpdateDay: '2022-04-03T12:30:41.610379'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 6737
+  Rank: 6788
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -221,7 +221,7 @@ proxies:
   average: 41.81
   UpdateDay: '2022-04-03T09:34:05.119246'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 4824
+  Rank: 4872
 - alterId: 0
   cipher: auto
   http-opts:
@@ -326,7 +326,7 @@ proxies:
   average: 68.9
   UpdateDay: '2022-04-03T09:34:22.961893'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 2592
+  Rank: 2642
 - name: s4.upyun.online:12340@trojan
   server: s4.upyun.online
   type: trojan
