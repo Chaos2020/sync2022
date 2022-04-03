@@ -41,12 +41,12 @@ proxies:
   password: desperadoj.com_free_proxy_d39m
   cipher: aes-128-gcm
   success_rate: 100.0
-  minimum: 7.38
-  maximum: 9.01
-  average: 8.18
-  UpdateDay: '2022-04-03T06:35:30.885654'
+  minimum: 5.76
+  maximum: 7.23
+  average: 6.58
+  UpdateDay: '2022-04-03T09:35:02.972915'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 15951
+  Rank: 15953
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -54,12 +54,12 @@ proxies:
   cipher: aes-256-cfb
   password: '4415934295'
   success_rate: 100.0
-  minimum: 9.39
-  maximum: 11.47
-  average: 10.42
-  UpdateDay: '2022-04-03T06:35:26.579939'
+  minimum: 9.81
+  maximum: 9.98
+  average: 9.88
+  UpdateDay: '2022-04-03T09:34:59.034591'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 13448
+  Rank: 13450
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -68,12 +68,12 @@ proxies:
   password: desperadoj.com_free_proxy_d39m
   cipher: aes-128-gcm
   success_rate: 100.0
-  minimum: 6.68
-  maximum: 8.55
-  average: 7.77
-  UpdateDay: '2022-04-03T06:34:32.737251'
+  minimum: 6.96
+  maximum: 17.03
+  average: 10.36
+  UpdateDay: '2022-04-03T09:34:05.018071'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 13230
+  Rank: 13233
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -83,12 +83,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 39.39
-  maximum: 45.13
-  average: 42.69
-  UpdateDay: '2022-04-03T06:35:31.019684'
+  minimum: 34.88
+  maximum: 685.33
+  average: 251.72
+  UpdateDay: '2022-04-03T09:35:03.709877'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 9812
+  Rank: 9815
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   port: 51133
@@ -98,42 +98,42 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 35.56
-  maximum: 41.04
-  average: 38.05
-  UpdateDay: '2022-04-03T06:35:31.042365'
+  minimum: 35.94
+  maximum: 46.25
+  average: 39.58
+  UpdateDay: '2022-04-03T09:35:03.096459'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 8921
+  Rank: 8923
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
+  port: 1443
   type: trojan
   country: "\U0001F1EF\U0001F1F5 JP"
-  port: 1443
   password: 7x42LetRa0
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 44.31
-  maximum: 44.82
-  average: 44.59
-  UpdateDay: '2022-04-03T06:34:38.871591'
+  minimum: 75.74
+  maximum: 83.06
+  average: 80.12
+  UpdateDay: '2022-04-03T09:35:03.260012'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 8121
+  Rank: 8124
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
   type: trojan
   country: "\U0001F1F9\U0001F1FC TW"
-  password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 75.74
-  maximum: 88.13
-  average: 83.03
-  UpdateDay: '2022-04-03T06:35:31.749757'
+  minimum: 74.63
+  maximum: 86.74
+  average: 80.88
+  UpdateDay: '2022-04-03T09:35:03.418997'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 7718
+  Rank: 7772
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -146,37 +146,37 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 7497
+  Rank: 7545
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
-  country: "\U0001F1E8\U0001F1F3CN"
+  country: "\U0001F1E8\U0001F1F3 CN"
   port: 21089
   password: SfobRIcergHchqBFzzua
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 37.74
-  maximum: 55.14
-  average: 45.02
-  UpdateDay: '2022-04-03T06:32:25.421605'
+  minimum: 9.04
+  maximum: 46.08
+  average: 21.4
+  UpdateDay: '2022-04-03T09:34:05.058365'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 7409
+  Rank: 7461
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
-  port: 443
   type: trojan
   country: "\U0001F1EF\U0001F1F5 JP"
+  port: 443
   password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 53.34
-  maximum: 55.2
-  average: 54.17
-  UpdateDay: '2022-04-03T06:35:31.112859'
+  minimum: 50.93
+  maximum: 54.24
+  average: 52.78
+  UpdateDay: '2022-04-03T09:34:11.671356'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 6568
+  Rank: 6655
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -215,12 +215,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 38.81
-  maximum: 47.34
-  average: 43.17
-  UpdateDay: '2022-04-03T06:34:32.846318'
+  minimum: 37.26
+  maximum: 46.86
+  average: 41.81
+  UpdateDay: '2022-04-03T09:34:05.119246'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 4723
+  Rank: 4774
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -230,12 +230,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 38.1
-  maximum: 41.45
-  average: 40.12
-  UpdateDay: '2022-04-03T06:35:31.025324'
+  minimum: 39.01
+  maximum: 42.85
+  average: 40.89
+  UpdateDay: '2022-04-03T09:35:03.094187'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 3822
+  Rank: 3825
 - alterId: 0
   cipher: auto
   http-opts:
@@ -266,16 +266,16 @@ proxies:
   port: 443
   type: trojan
   country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
+  password: 36ebef7d1b1d6205fd0c55f28800e674
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 231.2
-  maximum: 233.48
-  average: 232.42
-  UpdateDay: '2022-04-03T06:35:32.388021'
+  minimum: 245.13
+  maximum: 250.39
+  average: 248.07
+  UpdateDay: '2022-04-03T09:35:04.276338'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 3702
+  Rank: 3729
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -305,12 +305,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 70.36
-  maximum: 75.14
-  average: 72.11
-  UpdateDay: '2022-04-03T06:34:50.013360'
+  minimum: 69.88
+  maximum: 71.01
+  average: 70.5
+  UpdateDay: '2022-04-03T09:34:22.967439'
   PFirstFoundDay: '2022-03-24T21:35:30.855768'
-  Rank: 3205
+  Rank: 3206
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
@@ -320,12 +320,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 68.97
-  maximum: 75.13
-  average: 71.35
-  UpdateDay: '2022-04-03T06:34:50.023926'
+  minimum: 68.77
+  maximum: 69.13
+  average: 68.9
+  UpdateDay: '2022-04-03T09:34:22.961893'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 2591
+  Rank: 2592
 - name: s4.upyun.online:12340@trojan
   server: s4.upyun.online
   type: trojan
