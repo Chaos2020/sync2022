@@ -59,7 +59,7 @@ proxies:
   average: 10.42
   UpdateDay: '2022-04-03T06:35:26.579939'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 13348
+  Rank: 13448
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -88,7 +88,7 @@ proxies:
   average: 42.69
   UpdateDay: '2022-04-03T06:35:31.019684'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 9712
+  Rank: 9812
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   port: 51133
@@ -161,7 +161,7 @@ proxies:
   average: 45.02
   UpdateDay: '2022-04-03T06:32:25.421605'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 7359
+  Rank: 7409
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -220,7 +220,7 @@ proxies:
   average: 43.17
   UpdateDay: '2022-04-03T06:34:32.846318'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 4673
+  Rank: 4723
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -275,7 +275,7 @@ proxies:
   average: 232.42
   UpdateDay: '2022-04-03T06:35:32.388021'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 3674
+  Rank: 3702
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -311,6 +311,21 @@ proxies:
   UpdateDay: '2022-04-03T06:34:50.013360'
   PFirstFoundDay: '2022-03-24T21:35:30.855768'
   Rank: 3205
+- name: 3.0.180.140:28443@trojan
+  server: 3.0.180.140
+  type: trojan
+  country: "\U0001F1F8\U0001F1EC SG"
+  port: 28443
+  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 68.97
+  maximum: 75.13
+  average: 71.35
+  UpdateDay: '2022-04-03T06:34:50.023926'
+  PFirstFoundDay: '2022-03-24T21:35:30.727560'
+  Rank: 2591
 - name: s4.upyun.online:12340@trojan
   server: s4.upyun.online
   type: trojan
@@ -326,21 +341,6 @@ proxies:
   UpdateDay: '2022-04-02T15:33:02.937949'
   PFirstFoundDay: '2022-03-11T23:24:03.315205'
   Rank: 2558
-- name: 3.0.180.140:28443@trojan
-  server: 3.0.180.140
-  type: trojan
-  country: "\U0001F1F8\U0001F1EC SG"
-  port: 28443
-  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 68.97
-  maximum: 75.13
-  average: 71.35
-  UpdateDay: '2022-04-03T06:34:50.023926'
-  PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 2541
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -366,8 +366,8 @@ proxy-groups:
   - 184.168.127.50:443@trojan
   - 139.162.122.205:3845@vmess
   - 54.179.225.210:28443@trojan
-  - s4.upyun.online:12340@trojan
   - 3.0.180.140:28443@trojan
+  - s4.upyun.online:12340@trojan
   tolerance: 250
 rule-providers:
   anting:
