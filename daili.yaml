@@ -73,7 +73,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 13385
+  Rank: 13485
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -340,7 +340,7 @@ proxies:
   average: 43.37
   UpdateDay: '2022-04-03T15:12:01.321465'
   PFirstFoundDay: '2022-03-24T21:35:30.949309'
-  Rank: 2410
+  Rank: 2460
 proxy-groups:
 - name: PG-default
   type: url-test
