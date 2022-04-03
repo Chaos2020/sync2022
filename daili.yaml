@@ -46,7 +46,7 @@ proxies:
   average: 6.58
   UpdateDay: '2022-04-03T09:35:02.972915'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 15953
+  Rank: 16053
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -146,7 +146,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 7545
+  Rank: 7518
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -176,7 +176,7 @@ proxies:
   average: 52.78
   UpdateDay: '2022-04-03T09:34:11.671356'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 6655
+  Rank: 6736
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -220,22 +220,7 @@ proxies:
   average: 41.81
   UpdateDay: '2022-04-03T09:34:05.119246'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 4774
-- name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
-  server: jp-tyo-04-tr.cdn.savoy.click
-  port: 889
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: SfobRIcergHchqBFzzua
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 39.01
-  maximum: 42.85
-  average: 40.89
-  UpdateDay: '2022-04-03T09:35:03.094187'
-  PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 3825
+  Rank: 4824
 - alterId: 0
   cipher: auto
   http-opts:
@@ -260,7 +245,22 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 3807
+  Rank: 3829
+- name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
+  server: jp-tyo-04-tr.cdn.savoy.click
+  port: 889
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: SfobRIcergHchqBFzzua
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 39.01
+  maximum: 42.85
+  average: 40.89
+  UpdateDay: '2022-04-03T09:35:03.094187'
+  PFirstFoundDay: '2022-03-20T12:36:16.101193'
+  Rank: 3825
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -361,8 +361,8 @@ proxy-groups:
   - gzcm.v2hub.top:19321@trojan
   - 117.28.243.164:8007@ss
   - gzcm.v2hub.top:19221@trojan
-  - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
+  - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 184.168.127.50:443@trojan
   - 139.162.122.205:3845@vmess
   - 54.179.225.210:28443@trojan
