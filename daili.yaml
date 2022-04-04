@@ -47,6 +47,19 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
   Rank: 16406
+- name: 101.91.121.247:50004@ss
+  server: 101.91.121.247
+  port: 50004
+  type: ss
+  cipher: aes-256-cfb
+  password: '4415934295'
+  success_rate: 100.0
+  minimum: 11.42
+  maximum: 2415.91
+  average: 1152.24
+  UpdateDay: '2022-04-03T15:12:52.040309'
+  PFirstFoundDay: '2022-03-11T23:29:04.876882'
+  Rank: 13882
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -61,19 +74,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
   Rank: 13860
-- name: 101.91.121.247:50004@ss
-  server: 101.91.121.247
-  port: 50004
-  type: ss
-  cipher: aes-256-cfb
-  password: '4415934295'
-  success_rate: 100.0
-  minimum: 11.42
-  maximum: 2415.91
-  average: 1152.24
-  UpdateDay: '2022-04-03T15:12:52.040309'
-  PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 13830
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -133,7 +133,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 7927
+  Rank: 7977
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -236,6 +236,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
   Rank: 4077
+- name: 184.168.127.50:443@trojan
+  server: 184.168.127.50
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: a3fa58b581353bb375d2ddad0f327938
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 249.13
+  maximum: 250.39
+  average: 249.82
+  UpdateDay: '2022-04-03T15:12:56.077596'
+  PFirstFoundDay: '2022-03-16T00:32:54.032660'
+  Rank: 3805
 - alterId: 0
   cipher: auto
   http-opts:
@@ -260,22 +275,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 3823
-- name: 184.168.127.50:443@trojan
-  server: 184.168.127.50
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 249.13
-  maximum: 250.39
-  average: 249.82
-  UpdateDay: '2022-04-03T15:12:56.077596'
-  PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 3805
+  Rank: 3689
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -340,7 +340,7 @@ proxies:
   average: 74.12
   UpdateDay: '2022-04-03T15:12:37.055590'
   PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 2596
+  Rank: 2646
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -349,8 +349,8 @@ proxy-groups:
   strategy: consistent-hashing
   proxies:
   - 101.132.192.212:30003@ss
-  - music.desperadoj.com:30003@ss
   - 101.91.121.247:50004@ss
+  - music.desperadoj.com:30003@ss
   - cscu.wecanfly.top:51132@trojan
   - fsyd.wecanfly.top:51133@trojan
   - 106.180.225.69:1443@trojan
@@ -362,8 +362,8 @@ proxy-groups:
   - gzcm.v2hub.top:19221@trojan
   - 117.28.243.164:8007@ss
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
-  - 35.153.162.49:27080@vmess
   - 184.168.127.50:443@trojan
+  - 35.153.162.49:27080@vmess
   - 139.162.122.205:3845@vmess
   - 54.179.225.210:28443@trojan
   - 3.0.180.140:28443@trojan
