@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 14165
+  Rank: 14265
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -148,7 +148,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 7898
+  Rank: 7993
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -207,20 +207,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
   Rank: 5091
-- name: 117.28.243.164:8007@ss
-  server: 117.28.243.164
-  type: ss
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 8007
-  password: passinfo123
-  cipher: rc4-md5
-  success_rate: 100.0
-  minimum: 82.37
-  maximum: 86.98
-  average: 84.17
-  UpdateDay: '2022-03-26T15:30:36.038919'
-  PFirstFoundDay: '2022-03-13T18:26:32.488088'
-  Rank: 4253
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -235,7 +221,21 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 4227
+  Rank: 4277
+- name: 117.28.243.164:8007@ss
+  server: 117.28.243.164
+  type: ss
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 8007
+  password: passinfo123
+  cipher: rc4-md5
+  success_rate: 100.0
+  minimum: 82.37
+  maximum: 86.98
+  average: 84.17
+  UpdateDay: '2022-03-26T15:30:36.038919'
+  PFirstFoundDay: '2022-03-13T18:26:32.488088'
+  Rank: 4103
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -250,7 +250,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 3913
+  Rank: 3941
 - alterId: 0
   cipher: auto
   http-opts:
@@ -360,8 +360,8 @@ proxy-groups:
   - 210.152.13.168:443@trojan
   - gzcm.v2hub.top:19321@trojan
   - gzcm.v2hub.top:19221@trojan
-  - 117.28.243.164:8007@ss
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
+  - 117.28.243.164:8007@ss
   - 184.168.127.50:443@trojan
   - 35.153.162.49:27080@vmess
   - 54.179.225.210:28443@trojan
