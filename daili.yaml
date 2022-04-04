@@ -46,20 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 16676
-- name: 101.91.121.247:50004@ss
-  server: 101.91.121.247
-  port: 50004
-  type: ss
-  cipher: aes-256-cfb
-  password: '4415934295'
-  success_rate: 100.0
-  minimum: 11.42
-  maximum: 2415.91
-  average: 1152.24
-  UpdateDay: '2022-04-03T15:12:52.040309'
-  PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 13982
+  Rank: 16746
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -73,7 +60,20 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 13930
+  Rank: 14000
+- name: 101.91.121.247:50004@ss
+  server: 101.91.121.247
+  port: 50004
+  type: ss
+  cipher: aes-256-cfb
+  password: '4415934295'
+  success_rate: 100.0
+  minimum: 11.42
+  maximum: 2415.91
+  average: 1152.24
+  UpdateDay: '2022-04-03T15:12:52.040309'
+  PFirstFoundDay: '2022-03-11T23:29:04.876882'
+  Rank: 13982
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -148,7 +148,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 7685
+  Rank: 7735
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -176,7 +176,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 6995
+  Rank: 7076
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -349,8 +349,8 @@ proxy-groups:
   strategy: consistent-hashing
   proxies:
   - 101.132.192.212:30003@ss
-  - 101.91.121.247:50004@ss
   - music.desperadoj.com:30003@ss
+  - 101.91.121.247:50004@ss
   - cscu.wecanfly.top:51132@trojan
   - fsyd.wecanfly.top:51133@trojan
   - 106.180.225.69:1443@trojan
