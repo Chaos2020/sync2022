@@ -88,7 +88,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 10257
+  Rank: 10299
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -221,7 +221,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 4415
+  Rank: 4463
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -310,7 +310,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 3449
+  Rank: 3519
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
@@ -340,7 +340,7 @@ proxies:
   average: 74.12
   UpdateDay: '2022-04-03T15:12:37.055590'
   PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 2946
+  Rank: 2996
 proxy-groups:
 - name: PG-default
   type: url-test
