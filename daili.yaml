@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 17021
+  Rank: 17066
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -118,7 +118,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 8858
+  Rank: 8948
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -133,7 +133,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 8319
+  Rank: 8367
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -161,7 +161,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 7894
+  Rank: 7939
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -191,7 +191,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 6516
+  Rank: 6564
 - name: gzcm.v2hub.top:19221@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -290,7 +290,7 @@ proxies:
   average: 75.6
   UpdateDay: '2022-04-03T15:12:03.911046'
   PFirstFoundDay: '2022-03-24T21:35:30.855768'
-  Rank: 3557
+  Rank: 3607
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
