@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 17241
+  Rank: 17316
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -236,7 +236,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4019
+  Rank: 4039
 - alterId: 0
   cipher: auto
   http-opts:
@@ -261,7 +261,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 3905
+  Rank: 3931
 - name: 117.28.243.164:8007@ss
   server: 117.28.243.164
   type: ss
