@@ -133,7 +133,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 8448
+  Rank: 8523
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -340,7 +340,7 @@ proxies:
   average: 74.12
   UpdateDay: '2022-04-03T15:12:37.055590'
   PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 3088
+  Rank: 3138
 proxy-groups:
 - name: PG-default
   type: url-test
