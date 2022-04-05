@@ -118,7 +118,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 8763
+  Rank: 8858
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -206,7 +206,7 @@ proxies:
   average: 40.6
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 5139
+  Rank: 5187
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -222,20 +222,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
   Rank: 4327
-- name: 117.28.243.164:8007@ss
-  server: 117.28.243.164
-  type: ss
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 8007
-  password: passinfo123
-  cipher: rc4-md5
-  success_rate: 100.0
-  minimum: 82.37
-  maximum: 86.98
-  average: 84.17
-  UpdateDay: '2022-03-26T15:30:36.038919'
-  PFirstFoundDay: '2022-03-13T18:26:32.488088'
-  Rank: 4103
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -250,7 +236,21 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 3969
+  Rank: 3995
+- name: 117.28.243.164:8007@ss
+  server: 117.28.243.164
+  type: ss
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 8007
+  password: passinfo123
+  cipher: rc4-md5
+  success_rate: 100.0
+  minimum: 82.37
+  maximum: 86.98
+  average: 84.17
+  UpdateDay: '2022-03-26T15:30:36.038919'
+  PFirstFoundDay: '2022-03-13T18:26:32.488088'
+  Rank: 3953
 - alterId: 0
   cipher: auto
   http-opts:
@@ -361,8 +361,8 @@ proxy-groups:
   - gzcm.v2hub.top:19321@trojan
   - gzcm.v2hub.top:19221@trojan
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
-  - 117.28.243.164:8007@ss
   - 184.168.127.50:443@trojan
+  - 117.28.243.164:8007@ss
   - 35.153.162.49:27080@vmess
   - 54.179.225.210:28443@trojan
   - 139.162.122.205:3845@vmess
