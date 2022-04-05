@@ -103,7 +103,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 9381
+  Rank: 9431
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -206,7 +206,7 @@ proxies:
   average: 40.6
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 5187
+  Rank: 5233
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -261,7 +261,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 3867
+  Rank: 3905
 - name: 117.28.243.164:8007@ss
   server: 117.28.243.164
   type: ss
@@ -310,7 +310,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 3499
+  Rank: 3449
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
