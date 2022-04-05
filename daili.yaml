@@ -118,7 +118,22 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 9218
+  Rank: 9318
+- name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
+  server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 21089
+  password: SfobRIcergHchqBFzzua
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 9.82
+  maximum: 51.93
+  average: 33.98
+  UpdateDay: '2022-04-03T15:12:01.307812'
+  PFirstFoundDay: '2022-03-13T18:25:41.957547'
+  Rank: 8448
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -134,21 +149,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
   Rank: 8367
-- name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
-  server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 21089
-  password: SfobRIcergHchqBFzzua
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 9.82
-  maximum: 51.93
-  average: 33.98
-  UpdateDay: '2022-04-03T15:12:01.307812'
-  PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 8348
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -176,7 +176,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 7723
+  Rank: 7788
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -310,7 +310,7 @@ proxies:
   average: 84.17
   UpdateDay: '2022-03-26T15:30:36.038919'
   PFirstFoundDay: '2022-03-13T18:26:32.488088'
-  Rank: 3503
+  Rank: 3353
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
@@ -325,7 +325,7 @@ proxies:
   average: 72.76
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 3193
+  Rank: 3243
 - name: 13.213.36.49:28443@trojan
   server: 13.213.36.49
   type: trojan
@@ -340,7 +340,7 @@ proxies:
   average: 74.12
   UpdateDay: '2022-04-03T15:12:37.055590'
   PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 3038
+  Rank: 3088
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -354,8 +354,8 @@ proxy-groups:
   - cscu.wecanfly.top:51132@trojan
   - fsyd.wecanfly.top:51133@trojan
   - 106.180.225.69:1443@trojan
-  - 2.58.242.43:443@trojan
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
+  - 2.58.242.43:443@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
   - 210.152.13.168:443@trojan
   - gzcm.v2hub.top:19321@trojan
