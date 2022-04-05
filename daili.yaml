@@ -275,7 +275,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 3743
+  Rank: 3791
 - name: 54.179.225.210:28443@trojan
   server: 54.179.225.210
   type: trojan
