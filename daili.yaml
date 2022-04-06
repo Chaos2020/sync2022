@@ -326,7 +326,7 @@ proxies:
   average: 72.76
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 3311
+  Rank: 3361
 - name: 54.179.43.172:28443@trojan
   password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
   port: 28443
