@@ -221,7 +221,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 4747
+  Rank: 4797
 - alterId: 0
   cipher: auto
   http-opts:
@@ -326,7 +326,7 @@ proxies:
   average: 72.76
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 3411
+  Rank: 3457
 - name: 54.179.43.172:28443@trojan
   password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
   port: 28443
