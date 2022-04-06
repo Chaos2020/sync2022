@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 14318
+  Rank: 14418
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -161,7 +161,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 8467
+  Rank: 8517
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -221,7 +221,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 4659
+  Rank: 4709
 - alterId: 0
   cipher: auto
   http-opts:
@@ -246,7 +246,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 4163
+  Rank: 4211
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -296,7 +296,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 3561
+  Rank: 3636
 - name: 13.213.36.49:28443@trojan
   server: 13.213.36.49
   type: trojan
@@ -311,21 +311,7 @@ proxies:
   average: 74.12
   UpdateDay: '2022-04-03T15:12:37.055590'
   PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 3376
-- name: 117.28.243.164:8007@ss
-  server: 117.28.243.164
-  type: ss
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 8007
-  password: passinfo123
-  cipher: rc4-md5
-  success_rate: 100.0
-  minimum: 82.37
-  maximum: 86.98
-  average: 84.17
-  UpdateDay: '2022-03-26T15:30:36.038919'
-  PFirstFoundDay: '2022-03-13T18:26:32.488088'
-  Rank: 3353
+  Rank: 3426
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
@@ -341,6 +327,20 @@ proxies:
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
   Rank: 3265
+- name: 117.28.243.164:8007@ss
+  server: 117.28.243.164
+  type: ss
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 8007
+  password: passinfo123
+  cipher: rc4-md5
+  success_rate: 100.0
+  minimum: 82.37
+  maximum: 86.98
+  average: 84.17
+  UpdateDay: '2022-03-26T15:30:36.038919'
+  PFirstFoundDay: '2022-03-13T18:26:32.488088'
+  Rank: 3203
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -366,8 +366,8 @@ proxy-groups:
   - 54.179.225.210:28443@trojan
   - 139.162.122.205:3845@vmess
   - 13.213.36.49:28443@trojan
-  - 117.28.243.164:8007@ss
   - 3.0.180.140:28443@trojan
+  - 117.28.243.164:8007@ss
   tolerance: 250
 rules:
 - MATCH,PG-default
