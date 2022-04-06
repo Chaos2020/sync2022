@@ -103,7 +103,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 9653
+  Rank: 9691
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -118,7 +118,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 9508
+  Rank: 9593
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -133,7 +133,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 8578
+  Rank: 8620
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -221,7 +221,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 4709
+  Rank: 4747
 - alterId: 0
   cipher: auto
   http-opts:
