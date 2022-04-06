@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 17416
+  Rank: 17486
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 14152
+  Rank: 14218
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -236,7 +236,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4135
+  Rank: 4159
 - alterId: 0
   cipher: auto
   http-opts:
@@ -296,7 +296,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 3621
+  Rank: 3541
 - name: 117.28.243.164:8007@ss
   server: 117.28.243.164
   type: ss
@@ -311,6 +311,21 @@ proxies:
   UpdateDay: '2022-03-26T15:30:36.038919'
   PFirstFoundDay: '2022-03-13T18:26:32.488088'
   Rank: 3353
+- name: 13.213.36.49:28443@trojan
+  server: 13.213.36.49
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  port: 28443
+  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 72.27
+  maximum: 77.48
+  average: 74.12
+  UpdateDay: '2022-04-03T15:12:37.055590'
+  PFirstFoundDay: '2022-03-25T03:36:12.961032'
+  Rank: 3280
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
@@ -326,21 +341,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
   Rank: 3265
-- name: 13.213.36.49:28443@trojan
-  server: 13.213.36.49
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  port: 28443
-  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 72.27
-  maximum: 77.48
-  average: 74.12
-  UpdateDay: '2022-04-03T15:12:37.055590'
-  PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 3230
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -366,8 +366,8 @@ proxy-groups:
   - 54.179.225.210:28443@trojan
   - 139.162.122.205:3845@vmess
   - 117.28.243.164:8007@ss
-  - 3.0.180.140:28443@trojan
   - 13.213.36.49:28443@trojan
+  - 3.0.180.140:28443@trojan
   tolerance: 250
 rules:
 - MATCH,PG-default
