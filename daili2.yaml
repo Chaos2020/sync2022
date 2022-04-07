@@ -89,6 +89,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
   Rank: 10891
+- name: 106.180.225.69:1443@trojan
+  server: 106.180.225.69
+  type: trojan
+  country: "\U0001F1EF\U0001F1F5 JP"
+  port: 1443
+  password: 7x42LetRa0
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 107.46
+  maximum: 112.45
+  average: 109.24
+  UpdateDay: '2022-04-03T15:12:01.570799'
+  PFirstFoundDay: '2022-03-11T23:05:01.549769'
+  Rank: 10130
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -104,21 +119,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
   Rank: 10099
-- name: 106.180.225.69:1443@trojan
-  server: 106.180.225.69
-  type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
-  port: 1443
-  password: 7x42LetRa0
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 107.46
-  maximum: 112.45
-  average: 109.24
-  UpdateDay: '2022-04-03T15:12:01.570799'
-  PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 10035
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -133,7 +133,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 8845
+  Rank: 8895
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -297,21 +297,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:03.911046'
   PFirstFoundDay: '2022-03-24T21:35:30.855768'
   Rank: 3603
-- name: 13.213.36.49:28443@trojan
-  server: 13.213.36.49
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  port: 28443
-  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 72.27
-  maximum: 77.48
-  average: 74.12
-  UpdateDay: '2022-04-03T15:12:37.055590'
-  PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 3426
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
@@ -327,6 +312,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
   Rank: 3357
+- name: 13.213.36.49:28443@trojan
+  server: 13.213.36.49
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  port: 28443
+  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 72.27
+  maximum: 77.48
+  average: 74.12
+  UpdateDay: '2022-04-03T15:12:37.055590'
+  PFirstFoundDay: '2022-03-25T03:36:12.961032'
+  Rank: 3276
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -353,8 +353,8 @@ proxy-groups:
   - music.desperadoj.com:30003@ss
   - 101.91.121.247:50004@ss
   - cscu.wecanfly.top:51132@trojan
-  - fsyd.wecanfly.top:51133@trojan
   - 106.180.225.69:1443@trojan
+  - fsyd.wecanfly.top:51133@trojan
   - 2.58.242.43:443@trojan
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
@@ -366,8 +366,8 @@ proxy-groups:
   - 184.168.127.50:443@trojan
   - 139.162.122.205:3845@vmess
   - 54.179.225.210:28443@trojan
-  - 13.213.36.49:28443@trojan
   - 3.0.180.140:28443@trojan
+  - 13.213.36.49:28443@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   tolerance: 250
 rules:
