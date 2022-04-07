@@ -133,7 +133,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 8763
+  Rank: 8813
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -206,7 +206,7 @@ proxies:
   average: 40.6
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 5165
+  Rank: 5015
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -296,7 +296,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 3681
+  Rank: 3731
 - name: 13.213.36.49:28443@trojan
   server: 13.213.36.49
   type: trojan
@@ -327,21 +327,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
   Rank: 3507
-- name: 54.179.43.172:28443@trojan
-  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
-  port: 28443
-  server: 54.179.43.172
-  skip-cert-verify: true
+- name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
+  server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 20089
+  password: SfobRIcergHchqBFzzua
+  skip-cert-verify: true
   udp: true
-  uuid: 0a598cb2-fbcc-02b9-4736-c0856eedefaf
   success_rate: 100.0
-  minimum: 74.61
-  maximum: 79.47
-  average: 76.24
-  UpdateDay: '2022-03-28T18:34:53.433941'
-  PFirstFoundDay: '2022-03-24T21:35:30.821731'
-  Rank: 3006
+  minimum: 37.41
+  maximum: 46.1
+  average: 40.55
+  UpdateDay: '2022-03-31T21:34:41.122621'
+  PFirstFoundDay: '2022-03-13T18:26:01.142104'
+  Rank: 2963
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -368,7 +368,7 @@ proxy-groups:
   - 139.162.122.205:3845@vmess
   - 13.213.36.49:28443@trojan
   - 3.0.180.140:28443@trojan
-  - 54.179.43.172:28443@trojan
+  - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   tolerance: 250
 rule-providers:
   anting:
