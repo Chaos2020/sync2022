@@ -221,7 +221,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 4897
+  Rank: 4947
 - alterId: 0
   cipher: auto
   http-opts:
@@ -296,7 +296,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 3731
+  Rank: 3681
 - name: 13.213.36.49:28443@trojan
   server: 13.213.36.49
   type: trojan
@@ -341,7 +341,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 2963
+  Rank: 3009
 proxy-groups:
 - name: PG-default
   type: url-test
