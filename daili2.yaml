@@ -88,7 +88,22 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 10843
+  Rank: 10891
+- name: fsyd.wecanfly.top:51133@trojan
+  server: fsyd.wecanfly.top
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 51133
+  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 38.67
+  maximum: 45.59
+  average: 41.23
+  UpdateDay: '2022-04-03T15:12:01.312309'
+  PFirstFoundDay: '2022-03-13T18:26:04.261665'
+  Rank: 10061
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -104,21 +119,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
   Rank: 10035
-- name: fsyd.wecanfly.top:51133@trojan
-  server: fsyd.wecanfly.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 51133
-  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 38.67
-  maximum: 45.59
-  average: 41.23
-  UpdateDay: '2022-04-03T15:12:01.312309'
-  PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 10021
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -296,7 +296,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 3684
+  Rank: 3659
 - name: 13.213.36.49:28443@trojan
   server: 13.213.36.49
   type: trojan
@@ -341,7 +341,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 3009
+  Rank: 3064
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -353,8 +353,8 @@ proxy-groups:
   - music.desperadoj.com:30003@ss
   - 101.91.121.247:50004@ss
   - cscu.wecanfly.top:51132@trojan
-  - 106.180.225.69:1443@trojan
   - fsyd.wecanfly.top:51133@trojan
+  - 106.180.225.69:1443@trojan
   - 2.58.242.43:443@trojan
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
