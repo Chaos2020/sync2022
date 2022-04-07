@@ -118,7 +118,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 9873
+  Rank: 9963
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -246,7 +246,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 4377
+  Rank: 4423
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -276,7 +276,7 @@ proxies:
   average: 75.6
   UpdateDay: '2022-04-03T15:12:03.911046'
   PFirstFoundDay: '2022-03-24T21:35:30.855768'
-  Rank: 3903
+  Rank: 3753
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
