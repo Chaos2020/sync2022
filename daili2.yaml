@@ -246,7 +246,7 @@ proxies:
   average: 40.6
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 4565
+  Rank: 4415
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -349,7 +349,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 2516
+  Rank: 2542
 proxy-groups:
 - name: PG-default
   type: url-test
