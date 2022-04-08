@@ -148,7 +148,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 8918
+  Rank: 8966
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -335,21 +335,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
   Rank: 2457
-- name: 54.179.225.210:28443@trojan
-  server: 54.179.225.210
+- name: 13.213.36.49:28443@trojan
+  server: 13.213.36.49
   type: trojan
-  country: "\U0001F1F8\U0001F1EC SG"
+  country: "\U0001F1FA\U0001F1F8 US"
   port: 28443
   password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 73.11
-  maximum: 78.1
-  average: 75.6
-  UpdateDay: '2022-04-03T15:12:03.911046'
-  PFirstFoundDay: '2022-03-24T21:35:30.855768'
-  Rank: 2403
+  minimum: 72.27
+  maximum: 77.48
+  average: 74.12
+  UpdateDay: '2022-04-03T15:12:37.055590'
+  PFirstFoundDay: '2022-03-25T03:36:12.961032'
+  Rank: 2376
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -376,7 +376,7 @@ proxy-groups:
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - 45.32.94.166:31676@vmess
   - 3.0.180.140:28443@trojan
-  - 54.179.225.210:28443@trojan
+  - 13.213.36.49:28443@trojan
   tolerance: 250
 rule-providers:
   anting:
