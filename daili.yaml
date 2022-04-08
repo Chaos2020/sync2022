@@ -88,7 +88,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 11401
+  Rank: 11457
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -103,7 +103,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 10571
+  Rank: 10646
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -133,20 +133,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 9183
-- name: fkgfw-prod.i.sxl.cn:443@ss
-  server: fkgfw-prod.i.sxl.cn
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: E4DNMf73kHPrd8Qq7aqGPf7f
-  success_rate: 100.0
-  minimum: 6.43
-  maximum: 254.08
-  average: 89.1
-  UpdateDay: '2022-03-24T18:35:12.668742'
-  PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 8803
+  Rank: 9229
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -161,7 +148,20 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 8743
+  Rank: 8838
+- name: fkgfw-prod.i.sxl.cn:443@ss
+  server: fkgfw-prod.i.sxl.cn
+  port: 443
+  type: ss
+  cipher: aes-256-cfb
+  password: E4DNMf73kHPrd8Qq7aqGPf7f
+  success_rate: 100.0
+  minimum: 6.43
+  maximum: 254.08
+  average: 89.1
+  UpdateDay: '2022-03-24T18:35:12.668742'
+  PFirstFoundDay: '2022-03-19T12:33:06.851449'
+  Rank: 8803
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -191,7 +191,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 5782
+  Rank: 5632
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -261,7 +261,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4297
+  Rank: 4327
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -297,21 +297,6 @@ proxies:
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
   Rank: 3290
-- name: 54.179.225.210:28443@trojan
-  server: 54.179.225.210
-  type: trojan
-  country: "\U0001F1F8\U0001F1EC SG"
-  port: 28443
-  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 73.11
-  maximum: 78.1
-  average: 75.6
-  UpdateDay: '2022-04-03T15:12:03.911046'
-  PFirstFoundDay: '2022-03-24T21:35:30.855768'
-  Rank: 2553
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -350,6 +335,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
   Rank: 2457
+- name: 54.179.225.210:28443@trojan
+  server: 54.179.225.210
+  type: trojan
+  country: "\U0001F1F8\U0001F1EC SG"
+  port: 28443
+  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 73.11
+  maximum: 78.1
+  average: 75.6
+  UpdateDay: '2022-04-03T15:12:03.911046'
+  PFirstFoundDay: '2022-03-24T21:35:30.855768'
+  Rank: 2403
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -364,8 +364,8 @@ proxy-groups:
   - 106.180.225.69:1443@trojan
   - fsyd.wecanfly.top:51133@trojan
   - 2.58.242.43:443@trojan
-  - fkgfw-prod.i.sxl.cn:443@ss
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
+  - fkgfw-prod.i.sxl.cn:443@ss
   - 210.152.13.168:443@trojan
   - gzcm.v2hub.top:19321@trojan
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
@@ -374,9 +374,9 @@ proxy-groups:
   - 184.168.127.50:443@trojan
   - 139.162.122.205:3845@vmess
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
-  - 54.179.225.210:28443@trojan
   - 45.32.94.166:31676@vmess
   - 3.0.180.140:28443@trojan
+  - 54.179.225.210:28443@trojan
   tolerance: 250
 rule-providers:
   anting:
