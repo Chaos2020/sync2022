@@ -118,7 +118,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 10449
+  Rank: 10493
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -177,21 +177,6 @@ proxies:
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
   Rank: 8823
-- name: gzcm.v2hub.top:19321@trojan
-  server: gzcm.v2hub.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 19321
-  password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.31
-  maximum: 42.2
-  average: 40.52
-  UpdateDay: '2022-04-02T15:34:33.698502'
-  PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 5332
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -207,6 +192,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
   Rank: 5253
+- name: gzcm.v2hub.top:19321@trojan
+  server: gzcm.v2hub.top
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 19321
+  password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 37.31
+  maximum: 42.2
+  average: 40.52
+  UpdateDay: '2022-04-02T15:34:33.698502'
+  PFirstFoundDay: '2022-03-14T10:28:30.408415'
+  Rank: 5182
 - alterId: 0
   cipher: auto
   http-opts:
@@ -231,7 +231,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 4753
+  Rank: 4803
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -320,21 +320,6 @@ proxies:
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
   Rank: 2596
-- name: 13.213.36.49:28443@trojan
-  server: 13.213.36.49
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  port: 28443
-  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 72.27
-  maximum: 77.48
-  average: 74.12
-  UpdateDay: '2022-04-03T15:12:37.055590'
-  PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 2076
 - name: 3.0.180.140:28443@trojan
   server: 3.0.180.140
   type: trojan
@@ -350,6 +335,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:03.913765'
   PFirstFoundDay: '2022-03-24T21:35:30.727560'
   Rank: 2007
+- name: 13.213.36.49:28443@trojan
+  server: 13.213.36.49
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  port: 28443
+  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 72.27
+  maximum: 77.48
+  average: 74.12
+  UpdateDay: '2022-04-03T15:12:37.055590'
+  PFirstFoundDay: '2022-03-25T03:36:12.961032'
+  Rank: 1926
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -367,16 +367,16 @@ proxy-groups:
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - 210.152.13.168:443@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
-  - gzcm.v2hub.top:19321@trojan
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
+  - gzcm.v2hub.top:19321@trojan
   - 35.153.162.49:27080@vmess
   - 184.168.127.50:443@trojan
   - gzcm.v2hub.top:19221@trojan
   - 139.162.122.205:3845@vmess
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - 45.32.94.166:31676@vmess
-  - 13.213.36.49:28443@trojan
   - 3.0.180.140:28443@trojan
+  - 13.213.36.49:28443@trojan
   tolerance: 250
 rule-providers:
   anting:
