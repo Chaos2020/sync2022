@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 15610
+  Rank: 15710
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -148,7 +148,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 9183
+  Rank: 9259
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -334,22 +334,22 @@ proxies:
   average: 74.12
   UpdateDay: '2022-04-03T15:12:37.055590'
   PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 1926
-- name: 3.0.180.140:28443@trojan
-  server: 3.0.180.140
+  Rank: 1776
+- name: 72.167.45.6:443@trojan
+  server: 72.167.45.6
+  port: 443
   type: trojan
-  country: "\U0001F1F8\U0001F1EC SG"
-  port: 28443
-  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: a3fa58b581353bb375d2ddad0f327938
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 68.99
-  maximum: 75.26
-  average: 72.76
-  UpdateDay: '2022-04-03T15:12:03.913765'
-  PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 1707
+  minimum: 179.21
+  maximum: 224.93
+  average: 209.02
+  UpdateDay: '2022-04-03T15:12:55.953934'
+  PFirstFoundDay: '2022-03-31T09:34:10.783687'
+  Rank: 1717
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -376,7 +376,7 @@ proxy-groups:
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - 45.32.94.166:31676@vmess
   - 13.213.36.49:28443@trojan
-  - 3.0.180.140:28443@trojan
+  - 72.167.45.6:443@trojan
   tolerance: 250
 rules:
 - MATCH,PG-default
