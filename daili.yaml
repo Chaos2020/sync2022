@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 15137
+  Rank: 15225
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -103,7 +103,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 11375
+  Rank: 11475
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -191,7 +191,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 5391
+  Rank: 5441
 - alterId: 0
   cipher: auto
   http-opts:
@@ -296,7 +296,7 @@ proxies:
   average: 40.6
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 3515
+  Rank: 3365
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -320,6 +320,21 @@ proxies:
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
   Rank: 2642
+- name: 72.167.45.6:443@trojan
+  server: 72.167.45.6
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: a3fa58b581353bb375d2ddad0f327938
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 179.21
+  maximum: 224.93
+  average: 209.02
+  UpdateDay: '2022-04-03T15:12:55.953934'
+  PFirstFoundDay: '2022-03-31T09:34:10.783687'
+  Rank: 1791
 - name: 13.213.36.49:28443@trojan
   server: 13.213.36.49
   type: trojan
@@ -335,21 +350,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:37.055590'
   PFirstFoundDay: '2022-03-25T03:36:12.961032'
   Rank: 1776
-- name: 72.167.45.6:443@trojan
-  server: 72.167.45.6
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 179.21
-  maximum: 224.93
-  average: 209.02
-  UpdateDay: '2022-04-03T15:12:55.953934'
-  PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 1765
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -375,8 +375,8 @@ proxy-groups:
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - gzcm.v2hub.top:19221@trojan
   - 45.32.94.166:31676@vmess
-  - 13.213.36.49:28443@trojan
   - 72.167.45.6:443@trojan
+  - 13.213.36.49:28443@trojan
   tolerance: 250
 rule-providers:
   anting:
