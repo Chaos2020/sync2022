@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 19127
+  Rank: 19227
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 15535
+  Rank: 15610
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -118,7 +118,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 10399
+  Rank: 10449
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -281,7 +281,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 3795
+  Rank: 3845
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -320,21 +320,6 @@ proxies:
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
   Rank: 2596
-- name: 3.0.180.140:28443@trojan
-  server: 3.0.180.140
-  type: trojan
-  country: "\U0001F1F8\U0001F1EC SG"
-  port: 28443
-  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 68.99
-  maximum: 75.26
-  average: 72.76
-  UpdateDay: '2022-04-03T15:12:03.913765'
-  PFirstFoundDay: '2022-03-24T21:35:30.727560'
-  Rank: 2157
 - name: 13.213.36.49:28443@trojan
   server: 13.213.36.49
   type: trojan
@@ -350,6 +335,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:37.055590'
   PFirstFoundDay: '2022-03-25T03:36:12.961032'
   Rank: 2076
+- name: 3.0.180.140:28443@trojan
+  server: 3.0.180.140
+  type: trojan
+  country: "\U0001F1F8\U0001F1EC SG"
+  port: 28443
+  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 68.99
+  maximum: 75.26
+  average: 72.76
+  UpdateDay: '2022-04-03T15:12:03.913765'
+  PFirstFoundDay: '2022-03-24T21:35:30.727560'
+  Rank: 2007
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -375,8 +375,8 @@ proxy-groups:
   - 139.162.122.205:3845@vmess
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - 45.32.94.166:31676@vmess
-  - 3.0.180.140:28443@trojan
   - 13.213.36.49:28443@trojan
+  - 3.0.180.140:28443@trojan
   tolerance: 250
 rules:
 - MATCH,PG-default
