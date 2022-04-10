@@ -88,7 +88,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 12468
+  Rank: 12543
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -133,7 +133,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 9779
+  Rank: 9829
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -148,7 +148,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 9607
+  Rank: 9677
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -232,21 +232,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
   Rank: 4477
-- name: gzcm.v2hub.top:19321@trojan
-  server: gzcm.v2hub.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 19321
-  password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.31
-  maximum: 42.2
-  average: 40.52
-  UpdateDay: '2022-04-02T15:34:33.698502'
-  PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 4282
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -266,7 +251,22 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 4270
+  Rank: 4290
+- name: gzcm.v2hub.top:19321@trojan
+  server: gzcm.v2hub.top
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 19321
+  password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 37.31
+  maximum: 42.2
+  average: 40.52
+  UpdateDay: '2022-04-02T15:34:33.698502'
+  PFirstFoundDay: '2022-03-14T10:28:30.408415'
+  Rank: 4282
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -334,7 +334,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 1791
+  Rank: 1835
 - name: 13.213.36.49:28443@trojan
   server: 13.213.36.49
   type: trojan
@@ -370,8 +370,8 @@ proxy-groups:
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
   - 184.168.127.50:443@trojan
-  - gzcm.v2hub.top:19321@trojan
   - 139.162.122.205:3845@vmess
+  - gzcm.v2hub.top:19321@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - gzcm.v2hub.top:19221@trojan
   - 45.32.94.166:31676@vmess
