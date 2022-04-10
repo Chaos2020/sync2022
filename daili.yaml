@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 15320
+  Rank: 15415
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -216,7 +216,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 5049
+  Rank: 5069
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -231,7 +231,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 4732
+  Rank: 4582
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -266,7 +266,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 4159
+  Rank: 4229
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -319,7 +319,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 2642
+  Rank: 2692
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
