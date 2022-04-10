@@ -88,7 +88,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 12393
+  Rank: 12468
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -134,6 +134,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
   Rank: 9779
+- name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
+  server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 21089
+  password: SfobRIcergHchqBFzzua
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 9.82
+  maximum: 51.93
+  average: 33.98
+  UpdateDay: '2022-04-03T15:12:01.307812'
+  PFirstFoundDay: '2022-03-13T18:25:41.957547'
+  Rank: 9607
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -149,21 +164,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
   Rank: 9581
-- name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
-  server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 21089
-  password: SfobRIcergHchqBFzzua
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 9.82
-  maximum: 51.93
-  average: 33.98
-  UpdateDay: '2022-04-03T15:12:01.307812'
-  PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 9537
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -216,7 +216,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 5113
+  Rank: 5149
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -246,7 +246,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 4432
+  Rank: 4282
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -281,7 +281,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 3799
+  Rank: 3869
 - name: gzcm.v2hub.top:19221@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -364,8 +364,8 @@ proxy-groups:
   - 106.180.225.69:1443@trojan
   - fsyd.wecanfly.top:51133@trojan
   - 2.58.242.43:443@trojan
-  - 210.152.13.168:443@trojan
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
+  - 210.152.13.168:443@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
