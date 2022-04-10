@@ -133,7 +133,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 9877
+  Rank: 9927
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -251,7 +251,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 4290
+  Rank: 4333
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -335,21 +335,27 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
   Rank: 1883
-- name: 13.213.36.49:28443@trojan
-  server: 13.213.36.49
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  port: 28443
-  password: a7d0812a-f8e3-45f9-9a57-b2b3392d765b
+- name: mg01.nfeng6.pp.ua:63078@vmess
+  server: mg01.nfeng6.pp.ua
+  port: 63078
+  type: vmess
+  uuid: ba22a02b-4178-39a7-b748-4d0c03b9a674
+  alterId: 0
+  cipher: auto
+  tls: true
   skip-cert-verify: true
+  network: ws
+  ws-path: /t.me/nfeng6
+  ws-headers:
+    Host: mg01.nfeng6.pp.ua
   udp: true
   success_rate: 100.0
-  minimum: 72.27
-  maximum: 77.48
-  average: 74.12
-  UpdateDay: '2022-04-03T15:12:37.055590'
-  PFirstFoundDay: '2022-03-25T03:36:12.961032'
-  Rank: 1326
+  minimum: 7.48
+  maximum: 15.22
+  average: 11.58
+  UpdateDay: '2022-04-03T15:12:55.782261'
+  PFirstFoundDay: '2022-04-03T15:12:55.782265'
+  Rank: 1201
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -376,7 +382,7 @@ proxy-groups:
   - gzcm.v2hub.top:19221@trojan
   - 45.32.94.166:31676@vmess
   - 72.167.45.6:443@trojan
-  - 13.213.36.49:28443@trojan
+  - mg01.nfeng6.pp.ua:63078@vmess
   tolerance: 250
 rule-providers:
   anting:
