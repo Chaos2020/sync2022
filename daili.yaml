@@ -176,7 +176,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 9425
+  Rank: 9515
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -231,7 +231,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4477
+  Rank: 4503
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -266,7 +266,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 4282
+  Rank: 4132
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
