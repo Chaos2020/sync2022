@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 15903
+  Rank: 15998
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -88,7 +88,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 12787
+  Rank: 12875
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -148,7 +148,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 9762
+  Rank: 9857
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -231,7 +231,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4503
+  Rank: 4527
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -252,21 +252,6 @@ proxies:
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
   Rank: 4333
-- name: gzcm.v2hub.top:19321@trojan
-  server: gzcm.v2hub.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 19321
-  password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.31
-  maximum: 42.2
-  average: 40.52
-  UpdateDay: '2022-04-02T15:34:33.698502'
-  PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 3982
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -282,6 +267,21 @@ proxies:
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
   Rank: 3914
+- name: gzcm.v2hub.top:19321@trojan
+  server: gzcm.v2hub.top
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 19321
+  password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 37.31
+  maximum: 42.2
+  average: 40.52
+  UpdateDay: '2022-04-02T15:34:33.698502'
+  PFirstFoundDay: '2022-03-14T10:28:30.408415'
+  Rank: 3832
 - name: gzcm.v2hub.top:19221@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -319,7 +319,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 2818
+  Rank: 2860
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -377,8 +377,8 @@ proxy-groups:
   - 35.153.162.49:27080@vmess
   - 184.168.127.50:443@trojan
   - 139.162.122.205:3845@vmess
-  - gzcm.v2hub.top:19321@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
+  - gzcm.v2hub.top:19321@trojan
   - gzcm.v2hub.top:19221@trojan
   - 45.32.94.166:31676@vmess
   - 72.167.45.6:443@trojan
