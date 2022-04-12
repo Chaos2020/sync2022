@@ -319,7 +319,7 @@ proxies:
   average: 40.6
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 2615
+  Rank: 2465
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
