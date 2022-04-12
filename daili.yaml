@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 20172
+  Rank: 20240
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -118,7 +118,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 11013
+  Rank: 11063
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -246,7 +246,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 4324
+  Rank: 4379
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -319,7 +319,7 @@ proxies:
   average: 40.6
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 2465
+  Rank: 2315
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -355,7 +355,7 @@ proxies:
   average: 11.58
   UpdateDay: '2022-04-03T15:12:55.782261'
   PFirstFoundDay: '2022-04-03T15:12:55.782265'
-  Rank: 1587
+  Rank: 1437
 proxy-groups:
 - name: PG-default
   type: url-test
