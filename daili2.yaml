@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 16666
+  Rank: 16766
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -119,6 +119,19 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
   Rank: 11593
+- name: fkgfw-prod.i.sxl.cn:443@ss
+  server: fkgfw-prod.i.sxl.cn
+  port: 443
+  type: ss
+  cipher: aes-256-cfb
+  password: E4DNMf73kHPrd8Qq7aqGPf7f
+  success_rate: 100.0
+  minimum: 6.43
+  maximum: 254.08
+  average: 89.1
+  UpdateDay: '2022-03-24T18:35:12.668742'
+  PFirstFoundDay: '2022-03-19T12:33:06.851449'
+  Rank: 10600
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -134,19 +147,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
   Rank: 10554
-- name: fkgfw-prod.i.sxl.cn:443@ss
-  server: fkgfw-prod.i.sxl.cn
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: E4DNMf73kHPrd8Qq7aqGPf7f
-  success_rate: 100.0
-  minimum: 6.43
-  maximum: 254.08
-  average: 89.1
-  UpdateDay: '2022-03-24T18:35:12.668742'
-  PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 10500
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -251,7 +251,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 4513
+  Rank: 4497
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -304,7 +304,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 2639
+  Rank: 2689
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -334,7 +334,7 @@ proxies:
   average: 40.6
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 1565
+  Rank: 1415
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -363,8 +363,8 @@ proxy-groups:
   - cscu.wecanfly.top:51132@trojan
   - 106.180.225.69:1443@trojan
   - fsyd.wecanfly.top:51133@trojan
-  - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
+  - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - 2.58.242.43:443@trojan
   - 210.152.13.168:443@trojan
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
