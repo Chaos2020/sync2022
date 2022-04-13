@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 20730
+  Rank: 20805
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 17405
+  Rank: 17505
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -216,7 +216,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 5927
+  Rank: 5975
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -231,7 +231,22 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 5189
+  Rank: 5289
+- name: 184.168.127.50:443@trojan
+  server: 184.168.127.50
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: a3fa58b581353bb375d2ddad0f327938
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 249.13
+  maximum: 250.39
+  average: 249.82
+  UpdateDay: '2022-04-03T15:12:56.077596'
+  PFirstFoundDay: '2022-03-16T00:32:54.032660'
+  Rank: 4527
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -251,21 +266,6 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 4497
-- name: 184.168.127.50:443@trojan
-  server: 184.168.127.50
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 249.13
-  maximum: 250.39
-  average: 249.82
-  UpdateDay: '2022-04-03T15:12:56.077596'
-  PFirstFoundDay: '2022-03-16T00:32:54.032660'
   Rank: 4497
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
@@ -319,22 +319,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 2032
-- name: gzcm.v2hub.top:19221@trojan
-  server: gzcm.v2hub.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 19221
-  password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.18
-  maximum: 45.07
-  average: 40.6
-  UpdateDay: '2022-04-03T15:12:01.311294'
-  PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 1415
+  Rank: 1882
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -350,6 +335,20 @@ proxies:
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
   Rank: 1391
+- name: 14.29.124.168:25218@ss
+  server: 14.29.124.168
+  type: ss
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 25218
+  password: QazEdcTgb159@$*
+  cipher: aes-128-cfb
+  success_rate: 100.0
+  minimum: 32.36
+  maximum: 36.56
+  average: 34.98
+  UpdateDay: '2022-04-03T15:09:35.420142'
+  PFirstFoundDay: '2022-03-31T15:33:04.544856'
+  Rank: 1319
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -370,13 +369,13 @@ proxy-groups:
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
-  - 139.162.122.205:3845@vmess
   - 184.168.127.50:443@trojan
+  - 139.162.122.205:3845@vmess
   - 45.32.94.166:31676@vmess
   - 72.167.45.6:443@trojan
   - gzcm.v2hub.top:19321@trojan
-  - gzcm.v2hub.top:19221@trojan
   - 45.9.10.103:443@trojan
+  - 14.29.124.168:25218@ss
   tolerance: 250
 rule-providers:
   anting:
