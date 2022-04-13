@@ -191,7 +191,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 6115
+  Rank: 6165
 - alterId: 0
   cipher: auto
   http-opts:
@@ -289,7 +289,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 3040
+  Rank: 3020
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -304,7 +304,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 2517
+  Rank: 2539
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -319,7 +319,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 2332
+  Rank: 2182
 - name: gzcm.v2hub.top:19221@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -335,20 +335,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.311294'
   PFirstFoundDay: '2022-03-14T10:28:30.211351'
   Rank: 1715
-- name: 14.29.124.168:25218@ss
-  server: 14.29.124.168
-  type: ss
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 25218
-  password: QazEdcTgb159@$*
-  cipher: aes-128-cfb
+- name: 45.9.10.103:443@trojan
+  server: 45.9.10.103
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  port: 443
+  password: WpfQAbO2wg
+  skip-cert-verify: true
+  udp: true
   success_rate: 100.0
-  minimum: 32.36
-  maximum: 36.56
-  average: 34.98
-  UpdateDay: '2022-04-03T15:09:35.420142'
-  PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1319
+  minimum: 160.41
+  maximum: 164.63
+  average: 162.13
+  UpdateDay: '2022-03-30T11:21:53.634848'
+  PFirstFoundDay: '2022-03-23T09:35:36.105483'
+  Rank: 1341
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -375,7 +376,7 @@ proxy-groups:
   - 72.167.45.6:443@trojan
   - gzcm.v2hub.top:19321@trojan
   - gzcm.v2hub.top:19221@trojan
-  - 14.29.124.168:25218@ss
+  - 45.9.10.103:443@trojan
   tolerance: 250
 rule-providers:
   anting:
