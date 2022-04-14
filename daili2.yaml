@@ -132,21 +132,6 @@ proxies:
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
   Rank: 10916
-- name: fsyd.wecanfly.top:51133@trojan
-  server: fsyd.wecanfly.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 51133
-  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 38.67
-  maximum: 45.59
-  average: 41.23
-  UpdateDay: '2022-04-03T15:12:01.312309'
-  PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 10543
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -161,7 +146,22 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 10521
+  Rank: 10537
+- name: fsyd.wecanfly.top:51133@trojan
+  server: fsyd.wecanfly.top
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 51133
+  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 38.67
+  maximum: 45.59
+  average: 41.23
+  UpdateDay: '2022-04-03T15:12:01.312309'
+  PFirstFoundDay: '2022-03-13T18:26:04.261665'
+  Rank: 10393
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -176,7 +176,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 10251
+  Rank: 10301
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -231,7 +231,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 5644
+  Rank: 5699
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -266,7 +266,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 4528
+  Rank: 4524
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -319,7 +319,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 1591
+  Rank: 1641
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -348,7 +348,7 @@ proxies:
   average: 40.52
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 1282
+  Rank: 1132
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -363,8 +363,8 @@ proxy-groups:
   - 106.180.225.69:1443@trojan
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
-  - fsyd.wecanfly.top:51133@trojan
   - 2.58.242.43:443@trojan
+  - fsyd.wecanfly.top:51133@trojan
   - 210.152.13.168:443@trojan
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
