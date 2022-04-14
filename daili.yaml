@@ -103,7 +103,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 13239
+  Rank: 13327
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -232,21 +232,6 @@ proxies:
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
   Rank: 5389
-- name: 184.168.127.50:443@trojan
-  server: 184.168.127.50
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 249.13
-  maximum: 250.39
-  average: 249.82
-  UpdateDay: '2022-04-03T15:12:56.077596'
-  PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4555
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -266,7 +251,22 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 4492
+  Rank: 4573
+- name: 184.168.127.50:443@trojan
+  server: 184.168.127.50
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: a3fa58b581353bb375d2ddad0f327938
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 249.13
+  maximum: 250.39
+  average: 249.82
+  UpdateDay: '2022-04-03T15:12:56.077596'
+  PFirstFoundDay: '2022-03-16T00:32:54.032660'
+  Rank: 4555
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -369,8 +369,8 @@ proxy-groups:
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
-  - 184.168.127.50:443@trojan
   - 139.162.122.205:3845@vmess
+  - 184.168.127.50:443@trojan
   - 45.32.94.166:31676@vmess
   - 72.167.45.6:443@trojan
   - gzcm.v2hub.top:19321@trojan
