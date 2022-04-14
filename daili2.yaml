@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 17505
+  Rank: 17605
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -231,7 +231,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 5389
+  Rank: 5464
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
