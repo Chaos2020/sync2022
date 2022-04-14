@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 20805
+  Rank: 20905
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 17605
+  Rank: 17675
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -103,22 +103,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 13327
-- name: fsyd.wecanfly.top:51133@trojan
-  server: fsyd.wecanfly.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 51133
-  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 38.67
-  maximum: 45.59
-  average: 41.23
-  UpdateDay: '2022-04-03T15:12:01.312309'
-  PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 11143
+  Rank: 13378
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -134,6 +119,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
   Rank: 11090
+- name: fsyd.wecanfly.top:51133@trojan
+  server: fsyd.wecanfly.top
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 51133
+  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 38.67
+  maximum: 45.59
+  average: 41.23
+  UpdateDay: '2022-04-03T15:12:01.312309'
+  PFirstFoundDay: '2022-03-13T18:26:04.261665'
+  Rank: 10993
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -191,7 +191,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 6165
+  Rank: 6215
 - alterId: 0
   cipher: auto
   http-opts:
@@ -289,7 +289,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 3124
+  Rank: 3148
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -305,21 +305,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
   Rank: 2719
-- name: gzcm.v2hub.top:19321@trojan
-  server: gzcm.v2hub.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 19321
-  password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.31
-  maximum: 42.2
-  average: 40.52
-  UpdateDay: '2022-04-02T15:34:33.698502'
-  PFirstFoundDay: '2022-03-14T10:28:30.408415'
-  Rank: 1582
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -348,7 +333,22 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1412
+  Rank: 1439
+- name: gzcm.v2hub.top:19321@trojan
+  server: gzcm.v2hub.top
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 19321
+  password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 37.31
+  maximum: 42.2
+  average: 40.52
+  UpdateDay: '2022-04-02T15:34:33.698502'
+  PFirstFoundDay: '2022-03-14T10:28:30.408415'
+  Rank: 1432
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -361,8 +361,8 @@ proxy-groups:
   - 101.91.121.247:50004@ss
   - cscu.wecanfly.top:51132@trojan
   - 106.180.225.69:1443@trojan
-  - fsyd.wecanfly.top:51133@trojan
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
+  - fsyd.wecanfly.top:51133@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
   - 2.58.242.43:443@trojan
   - 210.152.13.168:443@trojan
@@ -373,9 +373,9 @@ proxy-groups:
   - 184.168.127.50:443@trojan
   - 45.32.94.166:31676@vmess
   - 72.167.45.6:443@trojan
-  - gzcm.v2hub.top:19321@trojan
   - 45.9.10.103:443@trojan
   - 14.29.124.168:25218@ss
+  - gzcm.v2hub.top:19321@trojan
   tolerance: 250
 rule-providers:
   anting:
