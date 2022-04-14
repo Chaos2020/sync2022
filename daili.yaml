@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 20905
+  Rank: 21005
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -118,7 +118,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 11090
+  Rank: 11175
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -231,7 +231,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 5464
+  Rank: 5564
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -319,7 +319,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 1491
+  Rank: 1541
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
