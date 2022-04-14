@@ -146,7 +146,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 10693
+  Rank: 10543
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -232,6 +232,21 @@ proxies:
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
   Rank: 5644
+- name: 184.168.127.50:443@trojan
+  server: 184.168.127.50
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: a3fa58b581353bb375d2ddad0f327938
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 249.13
+  maximum: 250.39
+  average: 249.82
+  UpdateDay: '2022-04-03T15:12:56.077596'
+  PFirstFoundDay: '2022-03-16T00:32:54.032660'
+  Rank: 4549
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -251,22 +266,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 4564
-- name: 184.168.127.50:443@trojan
-  server: 184.168.127.50
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 249.13
-  maximum: 250.39
-  average: 249.82
-  UpdateDay: '2022-04-03T15:12:56.077596'
-  PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4549
+  Rank: 4528
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -333,7 +333,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1531
+  Rank: 1581
 - name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -369,8 +369,8 @@ proxy-groups:
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
-  - 139.162.122.205:3845@vmess
   - 184.168.127.50:443@trojan
+  - 139.162.122.205:3845@vmess
   - 45.32.94.166:31676@vmess
   - 72.167.45.6:443@trojan
   - 45.9.10.103:443@trojan
