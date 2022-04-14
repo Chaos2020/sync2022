@@ -246,7 +246,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4553
+  Rank: 4555
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -289,7 +289,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 3120
+  Rank: 3124
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -320,6 +320,20 @@ proxies:
   UpdateDay: '2022-04-02T15:34:33.698502'
   PFirstFoundDay: '2022-03-14T10:28:30.408415'
   Rank: 1882
+- name: 14.29.124.168:25218@ss
+  server: 14.29.124.168
+  type: ss
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 25218
+  password: QazEdcTgb159@$*
+  cipher: aes-128-cfb
+  success_rate: 100.0
+  minimum: 32.36
+  maximum: 36.56
+  average: 34.98
+  UpdateDay: '2022-04-03T15:09:35.420142'
+  PFirstFoundDay: '2022-03-31T15:33:04.544856'
+  Rank: 1412
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -335,20 +349,6 @@ proxies:
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
   Rank: 1391
-- name: 14.29.124.168:25218@ss
-  server: 14.29.124.168
-  type: ss
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 25218
-  password: QazEdcTgb159@$*
-  cipher: aes-128-cfb
-  success_rate: 100.0
-  minimum: 32.36
-  maximum: 36.56
-  average: 34.98
-  UpdateDay: '2022-04-03T15:09:35.420142'
-  PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1365
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -374,8 +374,8 @@ proxy-groups:
   - 45.32.94.166:31676@vmess
   - 72.167.45.6:443@trojan
   - gzcm.v2hub.top:19321@trojan
-  - 45.9.10.103:443@trojan
   - 14.29.124.168:25218@ss
+  - 45.9.10.103:443@trojan
   tolerance: 250
 rules:
 - MATCH,PG-default
