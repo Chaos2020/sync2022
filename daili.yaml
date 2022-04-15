@@ -176,7 +176,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 9493
+  Rank: 9343
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -266,7 +266,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 4593
+  Rank: 4443
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -305,20 +305,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
   Rank: 3041
-- name: 14.29.124.168:25218@ss
-  server: 14.29.124.168
-  type: ss
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 25218
-  password: QazEdcTgb159@$*
-  cipher: aes-128-cfb
-  success_rate: 100.0
-  minimum: 32.36
-  maximum: 36.56
-  average: 34.98
-  UpdateDay: '2022-04-03T15:09:35.420142'
-  PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1847
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -333,7 +319,21 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 1839
+  Rank: 1889
+- name: 14.29.124.168:25218@ss
+  server: 14.29.124.168
+  type: ss
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 25218
+  password: QazEdcTgb159@$*
+  cipher: aes-128-cfb
+  success_rate: 100.0
+  minimum: 32.36
+  maximum: 36.56
+  average: 34.98
+  UpdateDay: '2022-04-03T15:09:35.420142'
+  PFirstFoundDay: '2022-03-31T15:33:04.544856'
+  Rank: 1847
 - name: gzcm.v2hub.top:19221@trojan
   server: gzcm.v2hub.top
   type: trojan
@@ -373,8 +373,8 @@ proxy-groups:
   - 139.162.122.205:3845@vmess
   - 45.32.94.166:31676@vmess
   - 72.167.45.6:443@trojan
-  - 14.29.124.168:25218@ss
   - 45.9.10.103:443@trojan
+  - 14.29.124.168:25218@ss
   - gzcm.v2hub.top:19221@trojan
   tolerance: 250
 rule-providers:
