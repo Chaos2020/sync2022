@@ -131,7 +131,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 11344
+  Rank: 11439
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -161,7 +161,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 10492
+  Rank: 10542
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -216,7 +216,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 6131
+  Rank: 6181
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -231,7 +231,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 5959
+  Rank: 6049
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -304,7 +304,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 2943
+  Rank: 2993
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -318,7 +318,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1796
+  Rank: 1847
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -333,22 +333,22 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 1789
-- name: gzcm.v2hub.top:19221@trojan
+  Rank: 1839
+- name: gzcm.v2hub.top:19321@trojan
   server: gzcm.v2hub.top
   type: trojan
   country: "\U0001F1E8\U0001F1F3 CN"
-  port: 19221
+  port: 19321
   password: da8f4c57-d022-3ccc-ae2a-a70256d68c32
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 37.18
-  maximum: 45.07
-  average: 40.6
-  UpdateDay: '2022-04-03T15:12:01.311294'
-  PFirstFoundDay: '2022-03-14T10:28:30.211351'
-  Rank: 815
+  minimum: 37.31
+  maximum: 42.2
+  average: 40.52
+  UpdateDay: '2022-04-02T15:34:33.698502'
+  PFirstFoundDay: '2022-03-14T10:28:30.408415'
+  Rank: 682
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -375,7 +375,7 @@ proxy-groups:
   - 72.167.45.6:443@trojan
   - 14.29.124.168:25218@ss
   - 45.9.10.103:443@trojan
-  - gzcm.v2hub.top:19221@trojan
+  - gzcm.v2hub.top:19321@trojan
   tolerance: 250
 rule-providers:
   anting:
