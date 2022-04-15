@@ -131,7 +131,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 11517
+  Rank: 11617
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -231,7 +231,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 6229
+  Rank: 6319
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -304,7 +304,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 3091
+  Rank: 3141
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
