@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 17564
+  Rank: 17664
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -118,7 +118,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 12071
+  Rank: 12171
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -131,7 +131,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 12027
+  Rank: 12122
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -231,7 +231,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 6469
+  Rank: 6519
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -333,7 +333,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1981
+  Rank: 2031
 - name: mg01.nfeng6.pp.ua:63078@vmess
   server: mg01.nfeng6.pp.ua
   port: 63078
