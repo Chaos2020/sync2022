@@ -103,7 +103,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 13773
+  Rank: 13873
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -131,7 +131,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 11717
+  Rank: 11780
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -191,22 +191,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 6519
-- name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
-  server: jp-tyo-04-tr.cdn.savoy.click
-  port: 889
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: SfobRIcergHchqBFzzua
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.66
-  maximum: 47.63
-  average: 42.17
-  UpdateDay: '2022-04-03T15:12:55.518679'
-  PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 6391
+  Rank: 6597
 - alterId: 0
   cipher: auto
   http-opts:
@@ -231,7 +216,22 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 6359
+  Rank: 6405
+- name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
+  server: jp-tyo-04-tr.cdn.savoy.click
+  port: 889
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: SfobRIcergHchqBFzzua
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 37.66
+  maximum: 47.63
+  average: 42.17
+  UpdateDay: '2022-04-03T15:12:55.518679'
+  PFirstFoundDay: '2022-03-20T12:36:16.101193'
+  Rank: 6391
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -333,7 +333,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1882
+  Rank: 1912
 - name: mg01.nfeng6.pp.ua:63078@vmess
   server: mg01.nfeng6.pp.ua
   port: 63078
@@ -373,8 +373,8 @@ proxy-groups:
   - 210.152.13.168:443@trojan
   - fsyd.wecanfly.top:51133@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
-  - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
+  - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 184.168.127.50:443@trojan
   - 139.162.122.205:3845@vmess
   - 45.32.94.166:31676@vmess
