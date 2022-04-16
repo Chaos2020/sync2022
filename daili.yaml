@@ -103,7 +103,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 14187
+  Rank: 14287
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -246,7 +246,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4665
+  Rank: 4689
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
