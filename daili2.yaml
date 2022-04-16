@@ -333,7 +333,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1847
+  Rank: 1882
 - name: mg01.nfeng6.pp.ua:63078@vmess
   server: mg01.nfeng6.pp.ua
   port: 63078
@@ -354,7 +354,7 @@ proxies:
   average: 11.58
   UpdateDay: '2022-04-03T15:12:55.782261'
   PFirstFoundDay: '2022-04-03T15:12:55.782265'
-  Rank: 735
+  Rank: 787
 proxy-groups:
 - name: PG-default
   type: url-test
