@@ -246,7 +246,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4651
+  Rank: 4665
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -266,7 +266,7 @@ proxies:
   average: 43.29
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 3693
+  Rank: 3543
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -281,7 +281,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 3337
+  Rank: 3387
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -319,7 +319,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 2229
+  Rank: 2279
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -354,7 +354,7 @@ proxies:
   average: 11.58
   UpdateDay: '2022-04-03T15:12:55.782261'
   PFirstFoundDay: '2022-04-03T15:12:55.782265'
-  Rank: 899
+  Rank: 749
 proxy-groups:
 - name: PG-default
   type: url-test
