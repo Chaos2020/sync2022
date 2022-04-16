@@ -161,7 +161,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 10740
+  Rank: 10746
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -246,7 +246,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4615
+  Rank: 4639
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -267,6 +267,21 @@ proxies:
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
   Rank: 3843
+- name: 72.167.45.6:443@trojan
+  server: 72.167.45.6
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: a3fa58b581353bb375d2ddad0f327938
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 179.21
+  maximum: 224.93
+  average: 209.02
+  UpdateDay: '2022-04-03T15:12:55.953934'
+  PFirstFoundDay: '2022-03-31T09:34:10.783687'
+  Rank: 3337
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -289,22 +304,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 3366
-- name: 72.167.45.6:443@trojan
-  server: 72.167.45.6
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 179.21
-  maximum: 224.93
-  average: 209.02
-  UpdateDay: '2022-04-03T15:12:55.953934'
-  PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 3337
+  Rank: 3272
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -333,7 +333,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 1914
+  Rank: 1936
 - name: mg01.nfeng6.pp.ua:63078@vmess
   server: mg01.nfeng6.pp.ua
   port: 63078
@@ -377,8 +377,8 @@ proxy-groups:
   - 35.153.162.49:27080@vmess
   - 184.168.127.50:443@trojan
   - 139.162.122.205:3845@vmess
-  - 45.32.94.166:31676@vmess
   - 72.167.45.6:443@trojan
+  - 45.32.94.166:31676@vmess
   - 45.9.10.103:443@trojan
   - 14.29.124.168:25218@ss
   - mg01.nfeng6.pp.ua:63078@vmess
