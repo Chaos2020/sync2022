@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 17764
+  Rank: 17864
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -88,7 +88,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 15014
+  Rank: 15056
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -132,6 +132,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
   Rank: 12338
+- name: 210.152.13.168:443@trojan
+  server: 210.152.13.168
+  type: trojan
+  country: "\U0001F1EF\U0001F1F5 JP"
+  port: 443
+  password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 207.98
+  maximum: 1239.4
+  average: 552.65
+  UpdateDay: '2022-04-03T15:12:02.916500'
+  PFirstFoundDay: '2022-03-21T15:31:51.301146'
+  Rank: 11236
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -147,21 +162,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
   Rank: 11217
-- name: 210.152.13.168:443@trojan
-  server: 210.152.13.168
-  type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
-  port: 443
-  password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 207.98
-  maximum: 1239.4
-  average: 552.65
-  UpdateDay: '2022-04-03T15:12:02.916500'
-  PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 11196
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -363,8 +363,8 @@ proxy-groups:
   - 106.180.225.69:1443@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
-  - 2.58.242.43:443@trojan
   - 210.152.13.168:443@trojan
+  - 2.58.242.43:443@trojan
   - fsyd.wecanfly.top:51133@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - 35.153.162.49:27080@vmess
