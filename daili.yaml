@@ -131,7 +131,22 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 12287
+  Rank: 12338
+- name: 2.58.242.43:443@trojan
+  server: 2.58.242.43
+  port: 443
+  type: trojan
+  country: "\U0001F1F9\U0001F1FC TW"
+  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 73.87
+  maximum: 79.68
+  average: 76.35
+  UpdateDay: '2022-04-03T15:12:55.576128'
+  PFirstFoundDay: '2022-03-14T21:36:22.498526'
+  Rank: 11207
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -147,21 +162,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
   Rank: 11196
-- name: 2.58.242.43:443@trojan
-  server: 2.58.242.43
-  port: 443
-  type: trojan
-  country: "\U0001F1F9\U0001F1FC TW"
-  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 73.87
-  maximum: 79.68
-  average: 76.35
-  UpdateDay: '2022-04-03T15:12:55.576128'
-  PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 11159
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -231,7 +231,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 6579
+  Rank: 6619
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -246,7 +246,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4709
+  Rank: 4707
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -261,7 +261,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 3513
+  Rank: 3557
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -334,27 +334,21 @@ proxies:
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
   Rank: 1907
-- name: mg01.nfeng6.pp.ua:63078@vmess
-  server: mg01.nfeng6.pp.ua
-  port: 63078
-  type: vmess
-  uuid: ba22a02b-4178-39a7-b748-4d0c03b9a674
-  alterId: 0
-  cipher: auto
-  tls: true
+- name: www.zx07.top:443@trojan
+  server: www.zx07.top
+  port: 443
+  type: trojan
+  country: "\U0001F1ED\U0001F1F0 HK"
+  password: L1qNeGrY58ApwrRA
   skip-cert-verify: true
-  network: ws
-  ws-path: /t.me/nfeng6
-  ws-headers:
-    Host: mg01.nfeng6.pp.ua
   udp: true
   success_rate: 100.0
-  minimum: 7.48
-  maximum: 15.22
-  average: 11.58
-  UpdateDay: '2022-04-03T15:12:55.782261'
-  PFirstFoundDay: '2022-04-03T15:12:55.782265'
-  Rank: 299
+  minimum: 39.21
+  maximum: 1062.26
+  average: 383.46
+  UpdateDay: '2022-04-03T15:12:56.476885'
+  PFirstFoundDay: '2022-03-13T18:24:17.598383'
+  Rank: 208
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -369,8 +363,8 @@ proxy-groups:
   - 106.180.225.69:1443@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
-  - 210.152.13.168:443@trojan
   - 2.58.242.43:443@trojan
+  - 210.152.13.168:443@trojan
   - fsyd.wecanfly.top:51133@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - 35.153.162.49:27080@vmess
@@ -381,7 +375,7 @@ proxy-groups:
   - 139.162.122.205:3845@vmess
   - 45.9.10.103:443@trojan
   - 14.29.124.168:25218@ss
-  - mg01.nfeng6.pp.ua:63078@vmess
+  - www.zx07.top:443@trojan
   tolerance: 250
 rule-providers:
   anting:
