@@ -146,7 +146,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 11501
+  Rank: 11551
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -162,21 +162,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
   Rank: 11371
-- name: fsyd.wecanfly.top:51133@trojan
-  server: fsyd.wecanfly.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 51133
-  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 38.67
-  maximum: 45.59
-  average: 41.23
-  UpdateDay: '2022-04-03T15:12:01.312309'
-  PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 7243
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -192,6 +177,21 @@ proxies:
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
   Rank: 7113
+- name: fsyd.wecanfly.top:51133@trojan
+  server: fsyd.wecanfly.top
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 51133
+  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 38.67
+  maximum: 45.59
+  average: 41.23
+  UpdateDay: '2022-04-03T15:12:01.312309'
+  PFirstFoundDay: '2022-03-13T18:26:04.261665'
+  Rank: 7093
 - alterId: 0
   cipher: auto
   http-opts:
@@ -261,7 +261,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 3917
+  Rank: 3967
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -319,7 +319,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 2475
+  Rank: 2525
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -365,8 +365,8 @@ proxy-groups:
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - 2.58.242.43:443@trojan
   - 210.152.13.168:443@trojan
-  - fsyd.wecanfly.top:51133@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
+  - fsyd.wecanfly.top:51133@trojan
   - 35.153.162.49:27080@vmess
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 184.168.127.50:443@trojan
