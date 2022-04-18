@@ -146,7 +146,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 11551
+  Rank: 11601
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -192,6 +192,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
   Rank: 7093
+- name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
+  server: jp-tyo-04-tr.cdn.savoy.click
+  port: 889
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: SfobRIcergHchqBFzzua
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 37.66
+  maximum: 47.63
+  average: 42.17
+  UpdateDay: '2022-04-03T15:12:55.518679'
+  PFirstFoundDay: '2022-03-20T12:36:16.101193'
+  Rank: 6905
 - alterId: 0
   cipher: auto
   http-opts:
@@ -217,21 +232,6 @@ proxies:
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
   Rank: 6871
-- name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
-  server: jp-tyo-04-tr.cdn.savoy.click
-  port: 889
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: SfobRIcergHchqBFzzua
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.66
-  maximum: 47.63
-  average: 42.17
-  UpdateDay: '2022-04-03T15:12:55.518679'
-  PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 6855
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -284,7 +284,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 3274
+  Rank: 3124
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -333,22 +333,22 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 2004
-- name: share.softbank.mjj-home.com:443@trojan
-  server: share.softbank.mjj-home.com
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
+  Rank: 2054
+- name: tky3.ssgnode.ga:443@trojan
+  server: tky3.ssgnode.ga
   port: 443
-  password: share.mjj-home.com
+  type: trojan
+  country: "\U0001F1EF\U0001F1F5 JP"
+  password: bcYWVzLTI1Ni1nY206Q1VuZFNabll23115_5a451f03
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 135.45
-  maximum: 140.96
-  average: 138.41
-  UpdateDay: '2022-04-03T15:12:37.239849'
-  PFirstFoundDay: '2022-03-12T03:14:53.059988'
-  Rank: 928
+  minimum: 46.49
+  maximum: 70.64
+  average: 55.16
+  UpdateDay: '2022-04-03T15:12:55.575970'
+  PFirstFoundDay: '2022-03-31T03:35:27.638826'
+  Rank: 976
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -367,15 +367,15 @@ proxy-groups:
   - 210.152.13.168:443@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - fsyd.wecanfly.top:51133@trojan
-  - 35.153.162.49:27080@vmess
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
+  - 35.153.162.49:27080@vmess
   - 184.168.127.50:443@trojan
   - 72.167.45.6:443@trojan
   - 45.32.94.166:31676@vmess
   - 139.162.122.205:3845@vmess
   - 45.9.10.103:443@trojan
   - 14.29.124.168:25218@ss
-  - share.softbank.mjj-home.com:443@trojan
+  - tky3.ssgnode.ga:443@trojan
   tolerance: 250
 rules:
 - MATCH,PG-default
