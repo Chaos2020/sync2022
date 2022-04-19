@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 23828
+  Rank: 23928
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 18527
+  Rank: 18627
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -88,7 +88,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 15287
+  Rank: 15387
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -131,7 +131,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 12654
+  Rank: 12724
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -161,7 +161,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 11546
+  Rank: 11596
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -246,7 +246,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4859
+  Rank: 4883
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -300,6 +300,20 @@ proxies:
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
   Rank: 2674
+- name: 14.29.124.168:25218@ss
+  server: 14.29.124.168
+  type: ss
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 25218
+  password: QazEdcTgb159@$*
+  cipher: aes-128-cfb
+  success_rate: 100.0
+  minimum: 32.36
+  maximum: 36.56
+  average: 34.98
+  UpdateDay: '2022-04-03T15:09:35.420142'
+  PFirstFoundDay: '2022-03-31T15:33:04.544856'
+  Rank: 2205
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -320,20 +334,6 @@ proxies:
   UpdateDay: '2022-04-03T15:10:30.136043'
   PFirstFoundDay: '2022-03-25T03:32:43.804338'
   Rank: 2193
-- name: 14.29.124.168:25218@ss
-  server: 14.29.124.168
-  type: ss
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 25218
-  password: QazEdcTgb159@$*
-  cipher: aes-128-cfb
-  success_rate: 100.0
-  minimum: 32.36
-  maximum: 36.56
-  average: 34.98
-  UpdateDay: '2022-04-03T15:09:35.420142'
-  PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 2191
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -373,8 +373,8 @@ proxy-groups:
   - 72.167.45.6:443@trojan
   - 45.9.10.103:443@trojan
   - 45.32.94.166:31676@vmess
-  - 139.162.122.205:3845@vmess
   - 14.29.124.168:25218@ss
+  - 139.162.122.205:3845@vmess
   - tky3.ssgnode.ga:443@trojan
   tolerance: 250
 rules:
