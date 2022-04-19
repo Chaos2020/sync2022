@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 24028
+  Rank: 24128
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 20485
+  Rank: 20560
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -132,6 +132,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
   Rank: 12790
+- name: 210.152.13.168:443@trojan
+  server: 210.152.13.168
+  type: trojan
+  country: "\U0001F1EF\U0001F1F5 JP"
+  port: 443
+  password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 207.98
+  maximum: 1239.4
+  average: 552.65
+  UpdateDay: '2022-04-03T15:12:02.916500'
+  PFirstFoundDay: '2022-03-21T15:31:51.301146'
+  Rank: 11776
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -147,21 +162,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
   Rank: 11697
-- name: 210.152.13.168:443@trojan
-  server: 210.152.13.168
-  type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
-  port: 443
-  password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 207.98
-  maximum: 1239.4
-  average: 552.65
-  UpdateDay: '2022-04-03T15:12:02.916500'
-  PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 11676
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -231,7 +231,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 6193
+  Rank: 6043
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -276,7 +276,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 2923
+  Rank: 2973
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -313,7 +313,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 2247
+  Rank: 2293
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -363,8 +363,8 @@ proxy-groups:
   - cscu.wecanfly.top:51132@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
-  - 2.58.242.43:443@trojan
   - 210.152.13.168:443@trojan
+  - 2.58.242.43:443@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - 35.153.162.49:27080@vmess
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
