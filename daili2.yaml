@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 18441
+  Rank: 18527
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -191,7 +191,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 6965
+  Rank: 6937
 - alterId: 0
   cipher: auto
   http-opts:
@@ -231,7 +231,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 6493
+  Rank: 6343
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -246,7 +246,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 4805
+  Rank: 4831
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -262,6 +262,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
   Rank: 4053
+- name: 45.9.10.103:443@trojan
+  server: 45.9.10.103
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  port: 443
+  password: WpfQAbO2wg
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 160.41
+  maximum: 164.63
+  average: 162.13
+  UpdateDay: '2022-03-30T11:21:53.634848'
+  PFirstFoundDay: '2022-03-23T09:35:36.105483'
+  Rank: 2773
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -284,22 +299,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 2824
-- name: 45.9.10.103:443@trojan
-  server: 45.9.10.103
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  port: 443
-  password: WpfQAbO2wg
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 160.41
-  maximum: 164.63
-  average: 162.13
-  UpdateDay: '2022-03-30T11:21:53.634848'
-  PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 2723
+  Rank: 2674
 - name: 139.162.122.205:3845@vmess
   server: 139.162.122.205
   type: vmess
@@ -333,7 +333,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 2176
+  Rank: 2191
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -371,8 +371,8 @@ proxy-groups:
   - fsyd.wecanfly.top:51133@trojan
   - 184.168.127.50:443@trojan
   - 72.167.45.6:443@trojan
-  - 45.32.94.166:31676@vmess
   - 45.9.10.103:443@trojan
+  - 45.32.94.166:31676@vmess
   - 139.162.122.205:3845@vmess
   - 14.29.124.168:25218@ss
   - tky3.ssgnode.ga:443@trojan
