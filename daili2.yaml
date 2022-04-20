@@ -216,7 +216,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 7019
+  Rank: 7069
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -305,7 +305,7 @@ proxies:
   average: 55.16
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 1871
+  Rank: 1916
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
