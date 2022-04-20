@@ -176,7 +176,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 8141
+  Rank: 8241
 - alterId: 0
   cipher: auto
   http-opts:
@@ -261,7 +261,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 4227
+  Rank: 4277
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
