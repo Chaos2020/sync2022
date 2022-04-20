@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 24554
+  Rank: 24654
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -88,7 +88,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 16065
+  Rank: 16165
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -131,7 +131,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 12980
+  Rank: 13028
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -146,7 +146,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 12041
+  Rank: 12136
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -306,6 +306,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
   Rank: 1916
+- name: www.zx07.top:443@trojan
+  server: www.zx07.top
+  port: 443
+  type: trojan
+  country: "\U0001F1ED\U0001F1F0 HK"
+  password: L1qNeGrY58ApwrRA
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 39.21
+  maximum: 1062.26
+  average: 383.46
+  UpdateDay: '2022-04-03T15:12:56.476885'
+  PFirstFoundDay: '2022-03-13T18:24:17.598383'
+  Rank: 1528
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -328,22 +343,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 1624
-- name: www.zx07.top:443@trojan
-  server: www.zx07.top
-  port: 443
-  type: trojan
-  country: "\U0001F1ED\U0001F1F0 HK"
-  password: L1qNeGrY58ApwrRA
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 39.21
-  maximum: 1062.26
-  average: 383.46
-  UpdateDay: '2022-04-03T15:12:56.476885'
-  PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 1528
+  Rank: 1474
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -369,8 +369,8 @@ proxy-groups:
   - 45.9.10.103:443@trojan
   - 14.29.124.168:25218@ss
   - tky3.ssgnode.ga:443@trojan
-  - 45.32.94.166:31676@vmess
   - www.zx07.top:443@trojan
+  - 45.32.94.166:31676@vmess
   tolerance: 250
 rules:
 - MATCH,PG-default
