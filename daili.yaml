@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 24316
+  Rank: 24391
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -176,7 +176,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 7841
+  Rank: 7941
 - alterId: 0
   cipher: auto
   http-opts:
@@ -290,7 +290,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 2367
+  Rank: 2402
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
@@ -328,27 +328,22 @@ proxies:
   average: 55.16
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 1765
-- name: 139.162.122.205:3845@vmess
-  server: 139.162.122.205
-  type: vmess
-  country: "\U0001F1EF\U0001F1F5\u3010426\u8282\u70B9\u6C60\u3011JP"
-  port: 3845
-  uuid: 76d5c6e3-c74c-3406-b9e8-9859d0a71c56
-  alterId: 0
-  cipher: auto
-  network: tcp
-  ws-path: /
-  http-opts: {}
-  h2-opts: {}
+  Rank: 1810
+- name: www.zx07.top:443@trojan
+  server: www.zx07.top
+  port: 443
+  type: trojan
+  country: "\U0001F1ED\U0001F1F0 HK"
+  password: L1qNeGrY58ApwrRA
   skip-cert-verify: true
+  udp: true
   success_rate: 100.0
-  minimum: 37.27
-  maximum: 49.58
-  average: 43.29
-  UpdateDay: '2022-04-03T15:10:30.136043'
-  PFirstFoundDay: '2022-03-25T03:32:43.804338'
-  Rank: 1593
+  minimum: 39.21
+  maximum: 1062.26
+  average: 383.46
+  UpdateDay: '2022-04-03T15:12:56.476885'
+  PFirstFoundDay: '2022-03-13T18:24:17.598383'
+  Rank: 1460
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -375,7 +370,7 @@ proxy-groups:
   - 14.29.124.168:25218@ss
   - 45.32.94.166:31676@vmess
   - tky3.ssgnode.ga:443@trojan
-  - 139.162.122.205:3845@vmess
+  - www.zx07.top:443@trojan
   tolerance: 250
 rule-providers:
   anting:
