@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 24484
+  Rank: 24554
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 18801
+  Rank: 18795
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -88,7 +88,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 15718
+  Rank: 15808
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -103,7 +103,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 13892
+  Rank: 13742
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -116,7 +116,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 13437
+  Rank: 13512
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -161,7 +161,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 11743
+  Rank: 11793
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -231,7 +231,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 5743
+  Rank: 5593
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -305,7 +305,7 @@ proxies:
   average: 55.16
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 1810
+  Rank: 1860
 - name: 45.32.94.166:31676@vmess
   server: 45.32.94.166
   type: vmess
