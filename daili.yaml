@@ -343,7 +343,7 @@ proxies:
   average: 184.93
   UpdateDay: '2022-04-03T15:11:46.455138'
   PFirstFoundDay: '2022-03-11T20:15:20.514654'
-  Rank: 1474
+  Rank: 1324
 proxy-groups:
 - name: PG-default
   type: url-test
