@@ -102,6 +102,21 @@ proxies:
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
   Rank: 13991
+- name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
+  server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 21089
+  password: SfobRIcergHchqBFzzua
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 9.82
+  maximum: 51.93
+  average: 33.98
+  UpdateDay: '2022-04-03T15:12:01.307812'
+  PFirstFoundDay: '2022-03-13T18:25:41.957547'
+  Rank: 13358
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -117,21 +132,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
   Rank: 13292
-- name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
-  server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 21089
-  password: SfobRIcergHchqBFzzua
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 9.82
-  maximum: 51.93
-  average: 33.98
-  UpdateDay: '2022-04-03T15:12:01.307812'
-  PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13258
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -231,7 +231,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 5293
+  Rank: 5143
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -276,7 +276,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 3337
+  Rank: 3387
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -348,8 +348,8 @@ proxy-groups:
   - 101.91.121.247:50004@ss
   - 106.180.225.69:1443@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
-  - cscu.wecanfly.top:51132@trojan
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
+  - cscu.wecanfly.top:51132@trojan
   - 2.58.242.43:443@trojan
   - 210.152.13.168:443@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
