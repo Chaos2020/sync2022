@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 21408
+  Rank: 21483
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -101,7 +101,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 13950
+  Rank: 13991
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -246,7 +246,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5123
+  Rank: 5125
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -290,7 +290,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 2660
+  Rank: 2650
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
