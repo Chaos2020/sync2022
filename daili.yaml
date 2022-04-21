@@ -131,7 +131,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13194
+  Rank: 13222
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -176,7 +176,22 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 8521
+  Rank: 8621
+- name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
+  server: jp-tyo-04-tr.cdn.savoy.click
+  port: 889
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: SfobRIcergHchqBFzzua
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 37.66
+  maximum: 47.63
+  average: 42.17
+  UpdateDay: '2022-04-03T15:12:55.518679'
+  PFirstFoundDay: '2022-03-20T12:36:16.101193'
+  Rank: 7259
 - alterId: 0
   cipher: auto
   http-opts:
@@ -201,22 +216,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 7223
-- name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
-  server: jp-tyo-04-tr.cdn.savoy.click
-  port: 889
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: SfobRIcergHchqBFzzua
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.66
-  maximum: 47.63
-  average: 42.17
-  UpdateDay: '2022-04-03T15:12:55.518679'
-  PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 7209
+  Rank: 7249
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -290,7 +290,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 2516
+  Rank: 2571
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -353,8 +353,8 @@ proxy-groups:
   - 210.152.13.168:443@trojan
   - 2.58.242.43:443@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
-  - 35.153.162.49:27080@vmess
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
+  - 35.153.162.49:27080@vmess
   - fsyd.wecanfly.top:51133@trojan
   - 184.168.127.50:443@trojan
   - 72.167.45.6:443@trojan
