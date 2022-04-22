@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 25459
+  Rank: 25559
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 19468
+  Rank: 19554
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -88,7 +88,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 16795
+  Rank: 16850
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -101,7 +101,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 14143
+  Rank: 14126
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -116,7 +116,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13643
+  Rank: 13694
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -231,7 +231,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5213
+  Rank: 5231
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -261,7 +261,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 4493
+  Rank: 4531
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -276,7 +276,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 3631
+  Rank: 3681
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -291,6 +291,21 @@ proxies:
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
   Rank: 2822
+- name: www.tokyo2023.ga:443@trojan
+  server: www.tokyo2023.ga
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: 4f7dc540-d244-4e64-af21-4b5bb300add3
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 36.85
+  maximum: 46.75
+  average: 40.27
+  UpdateDay: '2022-04-03T15:12:55.497151'
+  PFirstFoundDay: '2022-03-14T10:29:40.191643'
+  Rank: 2470
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -306,21 +321,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
   Rank: 2437
-- name: www.tokyo2023.ga:443@trojan
-  server: www.tokyo2023.ga
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: 4f7dc540-d244-4e64-af21-4b5bb300add3
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 36.85
-  maximum: 46.75
-  average: 40.27
-  UpdateDay: '2022-04-03T15:12:55.497151'
-  PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 2370
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -360,8 +360,8 @@ proxy-groups:
   - 72.167.45.6:443@trojan
   - 45.9.10.103:443@trojan
   - 14.29.124.168:25218@ss
-  - tky3.ssgnode.ga:443@trojan
   - www.tokyo2023.ga:443@trojan
+  - tky3.ssgnode.ga:443@trojan
   - www.zx07.top:443@trojan
   tolerance: 250
 rules:
