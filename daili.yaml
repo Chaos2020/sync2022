@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 19645
+  Rank: 19740
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -117,21 +117,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
   Rank: 13749
-- name: cscu.wecanfly.top:51132@trojan
-  server: cscu.wecanfly.top
-  port: 51132
+- name: 210.152.13.168:443@trojan
+  server: 210.152.13.168
   type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
+  country: "\U0001F1EF\U0001F1F5 JP"
+  port: 443
+  password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 34.89
-  maximum: 46.11
-  average: 39.38
-  UpdateDay: '2022-04-03T15:12:55.533673'
-  PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 12542
+  minimum: 207.98
+  maximum: 1239.4
+  average: 552.65
+  UpdateDay: '2022-04-03T15:12:02.916500'
+  PFirstFoundDay: '2022-03-21T15:31:51.301146'
+  Rank: 12616
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -147,21 +147,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
   Rank: 12521
-- name: 210.152.13.168:443@trojan
-  server: 210.152.13.168
+- name: cscu.wecanfly.top:51132@trojan
+  server: cscu.wecanfly.top
+  port: 51132
   type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
-  port: 443
-  password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 207.98
-  maximum: 1239.4
-  average: 552.65
-  UpdateDay: '2022-04-03T15:12:02.916500'
-  PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 12521
+  minimum: 34.89
+  maximum: 46.11
+  average: 39.38
+  UpdateDay: '2022-04-03T15:12:55.533673'
+  PFirstFoundDay: '2022-03-13T18:25:19.181411'
+  Rank: 12392
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -201,7 +201,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 7589
+  Rank: 7637
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -232,6 +232,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
   Rank: 5231
+- name: 72.167.45.6:443@trojan
+  server: 72.167.45.6
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: a3fa58b581353bb375d2ddad0f327938
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 179.21
+  maximum: 224.93
+  average: 209.02
+  UpdateDay: '2022-04-03T15:12:55.953934'
+  PFirstFoundDay: '2022-03-31T09:34:10.783687'
+  Rank: 4581
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -247,21 +262,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
   Rank: 4543
-- name: 72.167.45.6:443@trojan
-  server: 72.167.45.6
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 179.21
-  maximum: 224.93
-  average: 209.02
-  UpdateDay: '2022-04-03T15:12:55.953934'
-  PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 4531
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -305,7 +305,7 @@ proxies:
   average: 40.27
   UpdateDay: '2022-04-03T15:12:55.497151'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 2470
+  Rank: 2570
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -349,15 +349,15 @@ proxy-groups:
   - 106.180.225.69:1443@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
-  - cscu.wecanfly.top:51132@trojan
-  - 2.58.242.43:443@trojan
   - 210.152.13.168:443@trojan
+  - 2.58.242.43:443@trojan
+  - cscu.wecanfly.top:51132@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - 35.153.162.49:27080@vmess
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 184.168.127.50:443@trojan
-  - fsyd.wecanfly.top:51133@trojan
   - 72.167.45.6:443@trojan
+  - fsyd.wecanfly.top:51133@trojan
   - 45.9.10.103:443@trojan
   - 14.29.124.168:25218@ss
   - www.tokyo2023.ga:443@trojan
