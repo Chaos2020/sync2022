@@ -305,7 +305,7 @@ proxies:
   average: 55.16
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 2494
+  Rank: 2512
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
