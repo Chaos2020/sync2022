@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 19377
+  Rank: 19468
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -216,7 +216,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 7251
+  Rank: 7231
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -290,7 +290,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 2808
+  Rank: 2852
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
