@@ -88,7 +88,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 17140
+  Rank: 17225
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -101,7 +101,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 14060
+  Rank: 14026
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -277,20 +277,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
   Rank: 3793
-- name: 14.29.124.168:25218@ss
-  server: 14.29.124.168
-  type: ss
-  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
-  port: 25218
-  password: QazEdcTgb159@$*
-  cipher: aes-128-cfb
-  success_rate: 100.0
-  minimum: 32.36
-  maximum: 36.56
-  average: 34.98
-  UpdateDay: '2022-04-03T15:09:35.420142'
-  PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 2896
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -305,7 +291,21 @@ proxies:
   average: 40.27
   UpdateDay: '2022-04-03T15:12:55.497151'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 2894
+  Rank: 2985
+- name: 14.29.124.168:25218@ss
+  server: 14.29.124.168
+  type: ss
+  country: "\U0001F1E8\U0001F1F3\u3010426\u8282\u70B9\u6C60\u3011CN"
+  port: 25218
+  password: QazEdcTgb159@$*
+  cipher: aes-128-cfb
+  success_rate: 100.0
+  minimum: 32.36
+  maximum: 36.56
+  average: 34.98
+  UpdateDay: '2022-04-03T15:09:35.420142'
+  PFirstFoundDay: '2022-03-31T15:33:04.544856'
+  Rank: 2896
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -320,7 +320,7 @@ proxies:
   average: 55.16
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 2659
+  Rank: 2759
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -335,7 +335,7 @@ proxies:
   average: 383.46
   UpdateDay: '2022-04-03T15:12:56.476885'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 2568
+  Rank: 2630
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -359,8 +359,8 @@ proxy-groups:
   - 72.167.45.6:443@trojan
   - 45.9.10.103:443@trojan
   - fsyd.wecanfly.top:51133@trojan
-  - 14.29.124.168:25218@ss
   - www.tokyo2023.ga:443@trojan
+  - 14.29.124.168:25218@ss
   - tky3.ssgnode.ga:443@trojan
   - www.zx07.top:443@trojan
   tolerance: 250
