@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 22278
+  Rank: 22378
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -73,7 +73,7 @@ proxies:
   average: 1152.24
   UpdateDay: '2022-04-03T15:12:52.040309'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 19840
+  Rank: 19940
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -161,7 +161,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 12392
+  Rank: 12242
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -276,7 +276,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 3829
+  Rank: 3879
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -305,7 +305,22 @@ proxies:
   average: 40.27
   UpdateDay: '2022-04-03T15:12:55.497151'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 2570
+  Rank: 2670
+- name: tky3.ssgnode.ga:443@trojan
+  server: tky3.ssgnode.ga
+  port: 443
+  type: trojan
+  country: "\U0001F1EF\U0001F1F5 JP"
+  password: bcYWVzLTI1Ni1nY206Q1VuZFNabll23115_5a451f03
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 46.49
+  maximum: 70.64
+  average: 55.16
+  UpdateDay: '2022-04-03T15:12:55.575970'
+  PFirstFoundDay: '2022-03-31T03:35:27.638826'
+  Rank: 2480
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -321,21 +336,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:56.476885'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
   Rank: 2404
-- name: tky3.ssgnode.ga:443@trojan
-  server: tky3.ssgnode.ga
-  port: 443
-  type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
-  password: bcYWVzLTI1Ni1nY206Q1VuZFNabll23115_5a451f03
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 46.49
-  maximum: 70.64
-  average: 55.16
-  UpdateDay: '2022-04-03T15:12:55.575970'
-  PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 2387
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -361,8 +361,8 @@ proxy-groups:
   - 45.9.10.103:443@trojan
   - 14.29.124.168:25218@ss
   - www.tokyo2023.ga:443@trojan
-  - www.zx07.top:443@trojan
   - tky3.ssgnode.ga:443@trojan
+  - www.zx07.top:443@trojan
   tolerance: 250
 rules:
 - MATCH,PG-default
