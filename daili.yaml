@@ -176,7 +176,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 9257
+  Rank: 9357
 - alterId: 0
   cipher: auto
   http-opts:
@@ -246,7 +246,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 4631
+  Rank: 4669
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -261,7 +261,7 @@ proxies:
   average: 41.23
   UpdateDay: '2022-04-03T15:12:01.312309'
   PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 4543
+  Rank: 4393
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -305,7 +305,7 @@ proxies:
   average: 40.27
   UpdateDay: '2022-04-03T15:12:55.497151'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 2670
+  Rank: 2738
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
