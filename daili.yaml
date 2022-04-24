@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 23168
+  Rank: 23238
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -101,7 +101,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 14404
+  Rank: 14418
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -131,7 +131,7 @@ proxies:
   average: 76.35
   UpdateDay: '2022-04-03T15:12:55.576128'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 13021
+  Rank: 13071
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -261,7 +261,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 4179
+  Rank: 4229
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -276,7 +276,7 @@ proxies:
   average: 40.27
   UpdateDay: '2022-04-03T15:12:55.497151'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 3369
+  Rank: 3469
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -291,7 +291,7 @@ proxies:
   average: 55.16
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 3342
+  Rank: 3437
 - name: fsyd.wecanfly.top:51133@trojan
   server: fsyd.wecanfly.top
   type: trojan
@@ -335,7 +335,7 @@ proxies:
   average: 383.46
   UpdateDay: '2022-04-03T15:12:56.476885'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 2909
+  Rank: 2985
 proxy-groups:
 - name: PG-default
   type: url-test
