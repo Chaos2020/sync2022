@@ -46,7 +46,7 @@ proxies:
   average: 7.73
   UpdateDay: '2022-04-03T15:12:55.357368'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 26444
+  Rank: 26514
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 23338
+  Rank: 23433
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -116,7 +116,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13208
+  Rank: 13242
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -146,7 +146,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 12707
+  Rank: 12753
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -201,7 +201,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 7835
+  Rank: 7863
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -216,7 +216,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 7287
+  Rank: 7337
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -246,7 +246,7 @@ proxies:
   average: 209.02
   UpdateDay: '2022-04-03T15:12:55.953934'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 4865
+  Rank: 4913
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -307,21 +307,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:56.476885'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
   Rank: 3046
-- name: fsyd.wecanfly.top:51133@trojan
-  server: fsyd.wecanfly.top
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  port: 51133
-  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 38.67
-  maximum: 45.59
-  average: 41.23
-  UpdateDay: '2022-04-03T15:12:01.312309'
-  PFirstFoundDay: '2022-03-13T18:26:04.261665'
-  Rank: 3043
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -336,6 +321,21 @@ proxies:
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
   Rank: 2990
+- name: fsyd.wecanfly.top:51133@trojan
+  server: fsyd.wecanfly.top
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  port: 51133
+  password: 5eaea1b9-b977-3391-b7cb-370addb40ce2
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 38.67
+  maximum: 45.59
+  average: 41.23
+  UpdateDay: '2022-04-03T15:12:01.312309'
+  PFirstFoundDay: '2022-03-13T18:26:04.261665'
+  Rank: 2893
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -361,8 +361,8 @@ proxy-groups:
   - www.tokyo2023.ga:443@trojan
   - tky3.ssgnode.ga:443@trojan
   - www.zx07.top:443@trojan
-  - fsyd.wecanfly.top:51133@trojan
   - 14.29.124.168:25218@ss
+  - fsyd.wecanfly.top:51133@trojan
   tolerance: 250
 rules:
 - MATCH,PG-default
