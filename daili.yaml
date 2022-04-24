@@ -88,7 +88,7 @@ proxies:
   average: 109.24
   UpdateDay: '2022-04-03T15:12:01.570799'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 17495
+  Rank: 17595
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -176,7 +176,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 9735
+  Rank: 9835
 - alterId: 0
   cipher: auto
   http-opts:
@@ -216,7 +216,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 7487
+  Rank: 7535
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -261,7 +261,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 4229
+  Rank: 4275
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -321,7 +321,7 @@ proxies:
   average: 138.41
   UpdateDay: '2022-04-03T15:12:37.239849'
   PFirstFoundDay: '2022-03-12T03:14:53.059988'
-  Rank: 3059
+  Rank: 3149
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -335,7 +335,7 @@ proxies:
   average: 34.98
   UpdateDay: '2022-04-03T15:09:35.420142'
   PFirstFoundDay: '2022-03-31T15:33:04.544856'
-  Rank: 3024
+  Rank: 3074
 proxy-groups:
 - name: PG-default
   type: url-test
