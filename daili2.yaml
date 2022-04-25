@@ -60,7 +60,7 @@ proxies:
   average: 10.48
   UpdateDay: '2022-04-03T15:12:01.215763'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 23986
+  Rank: 24086
 - name: 101.91.121.247:50004@ss
   server: 101.91.121.247
   port: 50004
@@ -131,7 +131,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13441
+  Rank: 13479
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -146,7 +146,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 12932
+  Rank: 13007
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -261,7 +261,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 4573
+  Rank: 4623
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -277,6 +277,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
   Rank: 4091
+- name: www.zx07.top:443@trojan
+  server: www.zx07.top
+  port: 443
+  type: trojan
+  country: "\U0001F1ED\U0001F1F0 HK"
+  password: L1qNeGrY58ApwrRA
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 39.21
+  maximum: 1062.26
+  average: 383.46
+  UpdateDay: '2022-04-03T15:12:56.476885'
+  PFirstFoundDay: '2022-03-13T18:24:17.598383'
+  Rank: 3720
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -292,21 +307,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.497151'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
   Rank: 3668
-- name: www.zx07.top:443@trojan
-  server: www.zx07.top
-  port: 443
-  type: trojan
-  country: "\U0001F1ED\U0001F1F0 HK"
-  password: L1qNeGrY58ApwrRA
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 39.21
-  maximum: 1062.26
-  average: 383.46
-  UpdateDay: '2022-04-03T15:12:56.476885'
-  PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 3620
 - name: share.softbank.mjj-home.com:443@trojan
   server: share.softbank.mjj-home.com
   type: trojan
@@ -321,7 +321,7 @@ proxies:
   average: 138.41
   UpdateDay: '2022-04-03T15:12:37.239849'
   PFirstFoundDay: '2022-03-12T03:14:53.059988'
-  Rank: 3605
+  Rank: 3455
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -333,7 +333,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 3079
+  Rank: 3172
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -357,8 +357,8 @@ proxy-groups:
   - 72.167.45.6:443@trojan
   - 45.9.10.103:443@trojan
   - tky3.ssgnode.ga:443@trojan
-  - www.tokyo2023.ga:443@trojan
   - www.zx07.top:443@trojan
+  - www.tokyo2023.ga:443@trojan
   - share.softbank.mjj-home.com:443@trojan
   - www.ggchk.ga:443@trojan
   tolerance: 250
