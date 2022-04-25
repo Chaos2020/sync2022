@@ -116,7 +116,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13276
+  Rank: 13356
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -176,7 +176,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 9835
+  Rank: 9935
 - alterId: 0
   cipher: auto
   http-opts:
@@ -201,7 +201,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 7891
+  Rank: 7935
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -216,7 +216,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 7535
+  Rank: 7581
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -231,7 +231,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5333
+  Rank: 5355
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -261,7 +261,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 4275
+  Rank: 4325
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -276,7 +276,7 @@ proxies:
   average: 55.16
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 3732
+  Rank: 3832
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
