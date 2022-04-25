@@ -176,7 +176,7 @@ proxies:
   average: 40.55
   UpdateDay: '2022-03-31T21:34:41.122621'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 9935
+  Rank: 10028
 - alterId: 0
   cipher: auto
   http-opts:
@@ -201,7 +201,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 7935
+  Rank: 7981
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -231,7 +231,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5355
+  Rank: 5377
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -306,7 +306,7 @@ proxies:
   average: 383.46
   UpdateDay: '2022-04-03T15:12:56.476885'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 3186
+  Rank: 3286
 - name: share.softbank.mjj-home.com:443@trojan
   server: share.softbank.mjj-home.com
   type: trojan
