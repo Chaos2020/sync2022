@@ -101,7 +101,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 14553
+  Rank: 14593
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -276,7 +276,7 @@ proxies:
   average: 55.16
   UpdateDay: '2022-04-03T15:12:55.575970'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 3932
+  Rank: 4007
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -292,6 +292,21 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.497151'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
   Rank: 3586
+- name: www.zx07.top:443@trojan
+  server: www.zx07.top
+  port: 443
+  type: trojan
+  country: "\U0001F1ED\U0001F1F0 HK"
+  password: L1qNeGrY58ApwrRA
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 39.21
+  maximum: 1062.26
+  average: 383.46
+  UpdateDay: '2022-04-03T15:12:56.476885'
+  PFirstFoundDay: '2022-03-13T18:24:17.598383'
+  Rank: 3527
 - name: share.softbank.mjj-home.com:443@trojan
   server: share.softbank.mjj-home.com
   type: trojan
@@ -307,21 +322,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:37.239849'
   PFirstFoundDay: '2022-03-12T03:14:53.059988'
   Rank: 3503
-- name: www.zx07.top:443@trojan
-  server: www.zx07.top
-  port: 443
-  type: trojan
-  country: "\U0001F1ED\U0001F1F0 HK"
-  password: L1qNeGrY58ApwrRA
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 39.21
-  maximum: 1062.26
-  average: 383.46
-  UpdateDay: '2022-04-03T15:12:56.476885'
-  PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 3434
 - name: 14.29.124.168:25218@ss
   server: 14.29.124.168
   type: ss
@@ -360,8 +360,8 @@ proxy-groups:
   - 45.9.10.103:443@trojan
   - tky3.ssgnode.ga:443@trojan
   - www.tokyo2023.ga:443@trojan
-  - share.softbank.mjj-home.com:443@trojan
   - www.zx07.top:443@trojan
+  - share.softbank.mjj-home.com:443@trojan
   - 14.29.124.168:25218@ss
   tolerance: 250
 rule-providers:
