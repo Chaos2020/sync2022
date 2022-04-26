@@ -177,7 +177,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 9692
+  Rank: 9542
 - alterId: 0
   cipher: auto
   http-opts:
@@ -277,7 +277,7 @@ proxies:
   average: 36.74
   UpdateDay: '2022-04-26T15:32:19.505150'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 4376
+  Rank: 4433
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -319,7 +319,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 3358
+  Rank: 3458
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -334,7 +334,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 3179
+  Rank: 3245
 proxy-groups:
 - name: PG-default
   type: url-test
