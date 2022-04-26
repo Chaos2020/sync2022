@@ -74,7 +74,7 @@ proxies:
   average: 10.49
   UpdateDay: '2022-04-26T12:31:50.728294'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 21293
+  Rank: 21352
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -117,7 +117,7 @@ proxies:
   average: 75.35
   UpdateDay: '2022-04-26T12:31:51.188294'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 13663
+  Rank: 13713
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -162,7 +162,7 @@ proxies:
   average: 42.93
   UpdateDay: '2022-04-26T12:30:27.828190'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 10485
+  Rank: 10585
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -307,7 +307,7 @@ proxies:
   average: 46.98
   UpdateDay: '2022-04-26T12:31:51.195375'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 3671
+  Rank: 3764
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
