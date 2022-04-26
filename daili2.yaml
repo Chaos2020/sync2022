@@ -46,7 +46,7 @@ proxies:
   average: 7.19
   UpdateDay: '2022-04-27T00:32:19.353275'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 27684
+  Rank: 27784
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -102,7 +102,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 15041
+  Rank: 15141
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -162,7 +162,7 @@ proxies:
   average: 42.15
   UpdateDay: '2022-04-27T00:32:19.485988'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 10847
+  Rank: 10942
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -177,7 +177,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 9392
+  Rank: 9242
 - alterId: 0
   cipher: auto
   http-opts:
@@ -319,7 +319,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 3458
+  Rank: 3551
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
