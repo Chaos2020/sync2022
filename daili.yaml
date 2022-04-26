@@ -307,7 +307,7 @@ proxies:
   average: 45.17
   UpdateDay: '2022-04-26T15:31:49.864024'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 3765
+  Rank: 3840
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
