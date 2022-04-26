@@ -46,7 +46,7 @@ proxies:
   average: 7.22
   UpdateDay: '2022-04-27T03:30:30.396003'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 27785
+  Rank: 27860
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -74,7 +74,7 @@ proxies:
   average: 11.16
   UpdateDay: '2022-04-27T03:31:50.541348'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 21844
+  Rank: 21944
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -162,7 +162,7 @@ proxies:
   average: 40.77
   UpdateDay: '2022-04-27T03:31:51.034072'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 10944
+  Rank: 11044
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -292,7 +292,7 @@ proxies:
   average: 41.71
   UpdateDay: '2022-04-27T03:31:51.041211'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 4003
+  Rank: 4103
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
