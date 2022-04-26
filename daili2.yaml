@@ -89,7 +89,7 @@ proxies:
   average: 59.13
   UpdateDay: '2022-04-27T00:32:19.548898'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 18283
+  Rank: 18378
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -132,7 +132,7 @@ proxies:
   average: 38.53
   UpdateDay: '2022-04-27T00:32:19.476918'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13551
+  Rank: 13565
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -147,7 +147,7 @@ proxies:
   average: 56.11
   UpdateDay: '2022-04-27T00:32:19.531305'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 13365
+  Rank: 13300
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   port: 20089
