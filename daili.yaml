@@ -101,7 +101,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 14822
+  Rank: 14878
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -131,7 +131,7 @@ proxies:
   average: 33.98
   UpdateDay: '2022-04-03T15:12:01.307812'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13511
+  Rank: 13541
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -146,7 +146,7 @@ proxies:
   average: 552.65
   UpdateDay: '2022-04-03T15:12:02.916500'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 13092
+  Rank: 13158
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -201,7 +201,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 8013
+  Rank: 8061
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -216,7 +216,7 @@ proxies:
   average: 42.17
   UpdateDay: '2022-04-03T15:12:55.518679'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 7779
+  Rank: 7829
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -231,7 +231,7 @@ proxies:
   average: 249.82
   UpdateDay: '2022-04-03T15:12:56.077596'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5381
+  Rank: 5403
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -307,6 +307,18 @@ proxies:
   UpdateDay: '2022-04-03T15:12:55.497151'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
   Rank: 3668
+- name: www.ggchk.ga:443@trojan
+  password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
+  port: 443
+  server: www.ggchk.ga
+  type: trojan
+  success_rate: 100.0
+  minimum: 52.3
+  maximum: 63.21
+  average: 56.06
+  UpdateDay: '2022-04-03T15:12:54.456600'
+  PFirstFoundDay: '2022-03-11T21:04:39.779731'
+  Rank: 3358
 - name: share.softbank.mjj-home.com:443@trojan
   server: share.softbank.mjj-home.com
   type: trojan
@@ -321,19 +333,7 @@ proxies:
   average: 138.41
   UpdateDay: '2022-04-03T15:12:37.239849'
   PFirstFoundDay: '2022-03-12T03:14:53.059988'
-  Rank: 3305
-- name: www.ggchk.ga:443@trojan
-  password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
-  port: 443
-  server: www.ggchk.ga
-  type: trojan
-  success_rate: 100.0
-  minimum: 52.3
-  maximum: 63.21
-  average: 56.06
-  UpdateDay: '2022-04-03T15:12:54.456600'
-  PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 3265
+  Rank: 3155
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -359,8 +359,8 @@ proxy-groups:
   - tky3.ssgnode.ga:443@trojan
   - www.zx07.top:443@trojan
   - www.tokyo2023.ga:443@trojan
-  - share.softbank.mjj-home.com:443@trojan
   - www.ggchk.ga:443@trojan
+  - share.softbank.mjj-home.com:443@trojan
   tolerance: 250
 rule-providers:
   anting:
