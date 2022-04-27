@@ -46,7 +46,7 @@ proxies:
   average: 7.61
   UpdateDay: '2022-04-28T00:32:30.676575'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 27945
+  Rank: 28045
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -308,6 +308,18 @@ proxies:
   UpdateDay: '2022-04-28T00:32:31.245139'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
   Rank: 4419
+- name: www.ggchk.ga:443@trojan
+  password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
+  port: 443
+  server: www.ggchk.ga
+  type: trojan
+  success_rate: 100.0
+  minimum: 52.3
+  maximum: 63.21
+  average: 56.06
+  UpdateDay: '2022-04-03T15:12:54.456600'
+  PFirstFoundDay: '2022-03-11T21:04:39.779731'
+  Rank: 3886
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -323,18 +335,6 @@ proxies:
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
   Rank: 3802
-- name: www.ggchk.ga:443@trojan
-  password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
-  port: 443
-  server: www.ggchk.ga
-  type: trojan
-  success_rate: 100.0
-  minimum: 52.3
-  maximum: 63.21
-  average: 56.06
-  UpdateDay: '2022-04-03T15:12:54.456600'
-  PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 3795
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -360,8 +360,8 @@ proxy-groups:
   - 45.9.10.103:443@trojan
   - www.zx07.top:443@trojan
   - www.tokyo2023.ga:443@trojan
-  - www.gomacau.gq:443@trojan
   - www.ggchk.ga:443@trojan
+  - www.gomacau.gq:443@trojan
   tolerance: 250
 rule-providers:
   anting:
