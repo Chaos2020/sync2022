@@ -46,7 +46,7 @@ proxies:
   average: 8.93
   UpdateDay: '2022-04-28T03:30:33.194658'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 28146
+  Rank: 28221
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -147,7 +147,7 @@ proxies:
   average: 39.74
   UpdateDay: '2022-04-28T03:30:33.333265'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13671
+  Rank: 13685
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   port: 20089
@@ -202,7 +202,7 @@ proxies:
   average: 43.1
   UpdateDay: '2022-04-28T03:32:06.894012'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 8116
+  Rank: 8146
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -217,7 +217,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 7892
+  Rank: 7742
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -247,7 +247,7 @@ proxies:
   average: 171.35
   UpdateDay: '2022-04-28T03:31:31.407889'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 5483
+  Rank: 5533
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -307,7 +307,7 @@ proxies:
   average: 43.75
   UpdateDay: '2022-04-28T03:32:07.328978'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 4421
+  Rank: 4521
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -334,7 +334,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 3802
+  Rank: 3872
 proxy-groups:
 - name: PG-default
   type: url-test
