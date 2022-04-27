@@ -132,7 +132,7 @@ proxies:
   average: 52.37
   UpdateDay: '2022-04-27T18:30:49.897114'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 13665
+  Rank: 13693
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
