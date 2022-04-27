@@ -102,7 +102,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 15297
+  Rank: 15368
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -162,7 +162,7 @@ proxies:
   average: 40.51
   UpdateDay: '2022-04-27T09:32:22.500816'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 11148
+  Rank: 11248
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -232,7 +232,7 @@ proxies:
   average: 246.72
   UpdateDay: '2022-04-27T09:32:24.273573'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5535
+  Rank: 5555
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -292,7 +292,7 @@ proxies:
   average: 38.42
   UpdateDay: '2022-04-27T09:32:22.506786'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 4199
+  Rank: 4294
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
