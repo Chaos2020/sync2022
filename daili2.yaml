@@ -46,7 +46,7 @@ proxies:
   average: 8.93
   UpdateDay: '2022-04-28T03:30:33.194658'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 28221
+  Rank: 28321
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -117,7 +117,7 @@ proxies:
   average: 79.68
   UpdateDay: '2022-04-28T03:32:07.090124'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 14140
+  Rank: 14190
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -162,7 +162,7 @@ proxies:
   average: 40.87
   UpdateDay: '2022-04-28T03:32:06.867307'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 11542
+  Rank: 11642
 - alterId: 0
   cipher: auto
   http-opts:
@@ -248,21 +248,6 @@ proxies:
   UpdateDay: '2022-04-28T03:31:31.407889'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
   Rank: 5533
-- name: 45.9.10.103:443@trojan
-  server: 45.9.10.103
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  port: 443
-  password: WpfQAbO2wg
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 160.41
-  maximum: 164.63
-  average: 162.13
-  UpdateDay: '2022-03-30T11:21:53.634848'
-  PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 4867
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -277,7 +262,37 @@ proxies:
   average: 42.93
   UpdateDay: '2022-04-28T03:32:06.943035'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 4841
+  Rank: 4941
+- name: 45.9.10.103:443@trojan
+  server: 45.9.10.103
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  port: 443
+  password: WpfQAbO2wg
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 160.41
+  maximum: 164.63
+  average: 162.13
+  UpdateDay: '2022-03-30T11:21:53.634848'
+  PFirstFoundDay: '2022-03-23T09:35:36.105483'
+  Rank: 4895
+- name: www.tokyo2023.ga:443@trojan
+  server: www.tokyo2023.ga
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: 4f7dc540-d244-4e64-af21-4b5bb300add3
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 36.88
+  maximum: 51.45
+  average: 43.75
+  UpdateDay: '2022-04-28T03:32:07.328978'
+  PFirstFoundDay: '2022-03-14T10:29:40.191643'
+  Rank: 4614
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -293,21 +308,6 @@ proxies:
   UpdateDay: '2022-04-28T03:30:36.497745'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
   Rank: 4563
-- name: www.tokyo2023.ga:443@trojan
-  server: www.tokyo2023.ga
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: 4f7dc540-d244-4e64-af21-4b5bb300add3
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 36.88
-  maximum: 51.45
-  average: 43.75
-  UpdateDay: '2022-04-28T03:32:07.328978'
-  PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 4521
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -319,7 +319,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 3886
+  Rank: 3979
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -356,10 +356,10 @@ proxy-groups:
   - cscu.wecanfly.top:51132@trojan
   - 184.168.127.50:443@trojan
   - 72.167.45.6:443@trojan
-  - 45.9.10.103:443@trojan
   - tky3.ssgnode.ga:443@trojan
-  - www.zx07.top:443@trojan
+  - 45.9.10.103:443@trojan
   - www.tokyo2023.ga:443@trojan
+  - www.zx07.top:443@trojan
   - www.ggchk.ga:443@trojan
   - www.gomacau.gq:443@trojan
   tolerance: 250
