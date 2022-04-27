@@ -117,7 +117,7 @@ proxies:
   average: 77.44
   UpdateDay: '2022-04-27T12:32:08.625882'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 13980
+  Rank: 14030
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -162,7 +162,7 @@ proxies:
   average: 42.31
   UpdateDay: '2022-04-27T12:30:31.671597'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 11344
+  Rank: 11434
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -177,7 +177,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 8642
+  Rank: 8492
 - alterId: 0
   cipher: auto
   http-opts:
@@ -320,21 +320,18 @@ proxies:
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
   Rank: 3744
-- name: www.gomacau.gq:443@trojan
-  server: www.gomacau.gq
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
+- name: www.seetheworldjp.ga:443@trojan
+  password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
-  password: b5fc9fa9-796d-4185-a316-395ecac04a85
-  skip-cert-verify: true
-  udp: true
+  server: www.seetheworldjp.ga
+  type: trojan
   success_rate: 100.0
-  minimum: 60.88
-  maximum: 62.02
-  average: 61.31
-  UpdateDay: '2022-04-02T15:35:09.325376'
-  PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 3390
+  minimum: 50.99
+  maximum: 64.88
+  average: 57.86
+  UpdateDay: '2022-04-03T15:12:54.472724'
+  PFirstFoundDay: '2022-03-11T21:01:49.367854'
+  Rank: 3401
 proxy-groups:
 - name: PG-default
   type: url-test
@@ -361,7 +358,7 @@ proxy-groups:
   - www.zx07.top:443@trojan
   - www.tokyo2023.ga:443@trojan
   - www.ggchk.ga:443@trojan
-  - www.gomacau.gq:443@trojan
+  - www.seetheworldjp.ga:443@trojan
   tolerance: 250
 rules:
 - MATCH,PG-default
