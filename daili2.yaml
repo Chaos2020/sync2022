@@ -117,7 +117,7 @@ proxies:
   average: 81.72
   UpdateDay: '2022-04-27T06:32:00.775418'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 13877
+  Rank: 13927
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -262,7 +262,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 4719
+  Rank: 4769
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -278,6 +278,21 @@ proxies:
   UpdateDay: '2022-04-27T06:31:58.275513'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
   Rank: 4542
+- name: www.zx07.top:443@trojan
+  server: www.zx07.top
+  type: trojan
+  country: "\U0001F1ED\U0001F1F0HK"
+  port: 443
+  password: L1qNeGrY58ApwrRA
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 41.49
+  maximum: 48.62
+  average: 45.1
+  UpdateDay: '2022-04-27T06:30:35.590978'
+  PFirstFoundDay: '2022-03-13T18:24:17.598383'
+  Rank: 4197
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   type: trojan
@@ -293,21 +308,6 @@ proxies:
   UpdateDay: '2022-04-27T06:31:28.842026'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
   Rank: 4146
-- name: www.zx07.top:443@trojan
-  server: www.zx07.top
-  type: trojan
-  country: "\U0001F1ED\U0001F1F0HK"
-  port: 443
-  password: L1qNeGrY58ApwrRA
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 41.49
-  maximum: 48.62
-  average: 45.1
-  UpdateDay: '2022-04-27T06:30:35.590978'
-  PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 4104
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -358,8 +358,8 @@ proxy-groups:
   - 72.167.45.6:443@trojan
   - 45.9.10.103:443@trojan
   - tky3.ssgnode.ga:443@trojan
-  - www.tokyo2023.ga:443@trojan
   - www.zx07.top:443@trojan
+  - www.tokyo2023.ga:443@trojan
   - www.ggchk.ga:443@trojan
   - www.gomacau.gq:443@trojan
   tolerance: 250
