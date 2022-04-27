@@ -102,7 +102,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 15374
+  Rank: 15383
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -132,7 +132,7 @@ proxies:
   average: 35.25
   UpdateDay: '2022-04-27T12:30:31.648622'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13595
+  Rank: 13607
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -202,7 +202,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 8171
+  Rank: 8175
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -217,7 +217,7 @@ proxies:
   average: 32.24
   UpdateDay: '2022-04-27T12:32:06.966296'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 8076
+  Rank: 8106
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -247,7 +247,7 @@ proxies:
   average: 174.52
   UpdateDay: '2022-04-27T12:31:44.130123'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 5387
+  Rank: 5437
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -319,7 +319,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 3651
+  Rank: 3744
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
