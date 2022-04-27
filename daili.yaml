@@ -177,7 +177,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 8492
+  Rank: 8342
 - alterId: 0
   cipher: auto
   http-opts:
@@ -262,7 +262,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 4769
+  Rank: 4819
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -307,7 +307,7 @@ proxies:
   average: 45.0
   UpdateDay: '2022-04-27T15:31:48.023329'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 4151
+  Rank: 4242
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
