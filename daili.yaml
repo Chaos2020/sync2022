@@ -147,7 +147,7 @@ proxies:
   average: 38.43
   UpdateDay: '2022-04-28T00:30:57.312570'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 13644
+  Rank: 13656
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   port: 20089
@@ -248,6 +248,21 @@ proxies:
   UpdateDay: '2022-04-28T00:32:31.640879'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
   Rank: 5482
+- name: 45.9.10.103:443@trojan
+  server: 45.9.10.103
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  port: 443
+  password: WpfQAbO2wg
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 160.41
+  maximum: 164.63
+  average: 162.13
+  UpdateDay: '2022-03-30T11:21:53.634848'
+  PFirstFoundDay: '2022-03-23T09:35:36.105483'
+  Rank: 4867
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -263,21 +278,6 @@ proxies:
   UpdateDay: '2022-04-28T00:32:31.078098'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
   Rank: 4838
-- name: 45.9.10.103:443@trojan
-  server: 45.9.10.103
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  port: 443
-  password: WpfQAbO2wg
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 160.41
-  maximum: 164.63
-  average: 162.13
-  UpdateDay: '2022-03-30T11:21:53.634848'
-  PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 4819
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -356,8 +356,8 @@ proxy-groups:
   - cscu.wecanfly.top:51132@trojan
   - 184.168.127.50:443@trojan
   - 72.167.45.6:443@trojan
-  - tky3.ssgnode.ga:443@trojan
   - 45.9.10.103:443@trojan
+  - tky3.ssgnode.ga:443@trojan
   - www.zx07.top:443@trojan
   - www.tokyo2023.ga:443@trojan
   - www.ggchk.ga:443@trojan
