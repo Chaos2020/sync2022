@@ -74,7 +74,7 @@ proxies:
   average: 10.94
   UpdateDay: '2022-04-27T06:31:57.144064'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 21946
+  Rank: 22037
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -177,7 +177,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 9092
+  Rank: 8942
 - alterId: 0
   cipher: auto
   http-opts:
@@ -277,7 +277,7 @@ proxies:
   average: 36.59
   UpdateDay: '2022-04-27T06:31:58.275513'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 4542
+  Rank: 4635
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -334,7 +334,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 3315
+  Rank: 3390
 proxy-groups:
 - name: PG-default
   type: url-test
