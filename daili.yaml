@@ -89,7 +89,7 @@ proxies:
   average: 64.98
   UpdateDay: '2022-05-02T15:31:45.550906'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 18814
+  Rank: 18874
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -187,7 +187,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 8291
+  Rank: 8321
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   type: trojan
@@ -232,7 +232,7 @@ proxies:
   average: 251.63
   UpdateDay: '2022-05-02T15:33:02.210792'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5660
+  Rank: 5678
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -248,21 +248,6 @@ proxies:
   UpdateDay: '2022-05-02T15:33:01.986753'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
   Rank: 5540
-- name: tky3.ssgnode.ga:443@trojan
-  server: tky3.ssgnode.ga
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: 23115_5a451f03
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 41.99
-  maximum: 51.83
-  average: 47.72
-  UpdateDay: '2022-05-02T15:33:01.578279'
-  PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 4955
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -277,6 +262,21 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
+  Rank: 5001
+- name: tky3.ssgnode.ga:443@trojan
+  server: tky3.ssgnode.ga
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: 23115_5a451f03
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 41.99
+  maximum: 51.83
+  average: 47.72
+  UpdateDay: '2022-05-02T15:33:01.578279'
+  PFirstFoundDay: '2022-03-31T03:35:27.638826'
   Rank: 4955
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
@@ -307,7 +307,7 @@ proxies:
   average: 42.6
   UpdateDay: '2022-05-02T15:31:30.644368'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 4633
+  Rank: 4719
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -356,8 +356,8 @@ proxy-groups:
   - cscu.wecanfly.top:51132@trojan
   - 184.168.127.50:443@trojan
   - 72.167.45.6:443@trojan
-  - tky3.ssgnode.ga:443@trojan
   - 45.9.10.103:443@trojan
+  - tky3.ssgnode.ga:443@trojan
   - www.tokyo2023.ga:443@trojan
   - www.zx07.top:443@trojan
   - www.gomacau.gq:443@trojan
