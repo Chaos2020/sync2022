@@ -46,7 +46,7 @@ proxies:
   average: 7.3
   UpdateDay: '2022-05-03T03:31:16.946347'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 28426
+  Rank: 28526
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -74,7 +74,7 @@ proxies:
   average: 10.0
   UpdateDay: '2022-05-03T03:32:50.107605'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 22190
+  Rank: 22290
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -117,7 +117,7 @@ proxies:
   average: 79.46
   UpdateDay: '2022-05-03T03:32:50.418244'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 14391
+  Rank: 14441
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   port: 21089
@@ -217,7 +217,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 7142
+  Rank: 6992
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -277,7 +277,7 @@ proxies:
   average: 42.34
   UpdateDay: '2022-05-03T03:32:50.260397'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
-  Rank: 4997
+  Rank: 5063
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -292,7 +292,7 @@ proxies:
   average: 41.68
   UpdateDay: '2022-05-03T03:31:20.145896'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 4977
+  Rank: 4995
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   type: trojan
