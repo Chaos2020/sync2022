@@ -232,7 +232,7 @@ proxies:
   average: 936.73
   UpdateDay: '2022-05-02T09:32:13.153161'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5613
+  Rank: 5633
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   type: trojan
