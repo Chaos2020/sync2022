@@ -73,7 +73,7 @@ proxies:
   average: 9.66
   UpdateDay: '2022-05-02T21:30:44.321815'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 22147
+  Rank: 22157
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -201,7 +201,7 @@ proxies:
   average: 51.4
   UpdateDay: '2022-05-02T21:30:44.394693'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 8358
+  Rank: 8406
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -306,7 +306,7 @@ proxies:
   average: 52.48
   UpdateDay: '2022-05-02T18:31:36.187746'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 4820
+  Rank: 4856
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
