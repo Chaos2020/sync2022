@@ -74,7 +74,7 @@ proxies:
   average: 11.1
   UpdateDay: '2022-05-02T15:33:01.092616'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 22172
+  Rank: 22150
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -202,7 +202,7 @@ proxies:
   average: 40.69
   UpdateDay: '2022-05-02T15:31:27.528217'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 8198
+  Rank: 8228
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -217,7 +217,7 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 7592
+  Rank: 7442
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
