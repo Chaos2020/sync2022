@@ -74,7 +74,7 @@ proxies:
   average: 10.78
   UpdateDay: '2022-05-02T18:32:08.151236'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 22152
+  Rank: 22146
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -162,7 +162,7 @@ proxies:
   average: 42.35
   UpdateDay: '2022-05-02T18:32:08.247615'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 11846
+  Rank: 11941
 - alterId: 0
   cipher: auto
   http-opts:
@@ -187,7 +187,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 8369
+  Rank: 8419
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   type: trojan
@@ -232,7 +232,7 @@ proxies:
   average: 586.46
   UpdateDay: '2022-05-02T18:31:37.561404'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5680
+  Rank: 5706
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -247,7 +247,7 @@ proxies:
   average: 234.56
   UpdateDay: '2022-05-02T18:32:09.850654'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 5542
+  Rank: 5582
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -262,7 +262,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 5001
+  Rank: 5031
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -278,6 +278,21 @@ proxies:
   UpdateDay: '2022-05-02T18:32:08.270881'
   PFirstFoundDay: '2022-03-31T03:35:27.638826'
   Rank: 4958
+- name: www.zx07.top:443@trojan
+  server: www.zx07.top
+  port: 443
+  type: trojan
+  country: "\U0001F1ED\U0001F1F0 HK"
+  password: L1qNeGrY58ApwrRA
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 37.92
+  maximum: 38.65
+  average: 38.32
+  UpdateDay: '2022-05-02T18:32:08.246399'
+  PFirstFoundDay: '2022-03-13T18:24:17.598383'
+  Rank: 4848
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   type: trojan
@@ -293,21 +308,6 @@ proxies:
   UpdateDay: '2022-05-02T18:31:36.187746'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
   Rank: 4820
-- name: www.zx07.top:443@trojan
-  server: www.zx07.top
-  port: 443
-  type: trojan
-  country: "\U0001F1ED\U0001F1F0 HK"
-  password: L1qNeGrY58ApwrRA
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.92
-  maximum: 38.65
-  average: 38.32
-  UpdateDay: '2022-05-02T18:32:08.246399'
-  PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 4791
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -358,8 +358,8 @@ proxy-groups:
   - 72.167.45.6:443@trojan
   - 45.9.10.103:443@trojan
   - tky3.ssgnode.ga:443@trojan
-  - www.tokyo2023.ga:443@trojan
   - www.zx07.top:443@trojan
+  - www.tokyo2023.ga:443@trojan
   - www.gomacau.gq:443@trojan
   - www.ggchk.ga:443@trojan
   tolerance: 250
