@@ -74,7 +74,7 @@ proxies:
   average: 10.8
   UpdateDay: '2022-05-03T06:32:29.909544'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 22292
+  Rank: 22392
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   type: trojan
@@ -118,6 +118,21 @@ proxies:
   UpdateDay: '2022-05-03T06:32:30.343731'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
   Rank: 14444
+- name: 210.152.13.168:443@trojan
+  server: 210.152.13.168
+  port: 443
+  type: trojan
+  country: "\U0001F1EF\U0001F1F5 JP"
+  password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 49.29
+  maximum: 52.54
+  average: 50.78
+  UpdateDay: '2022-05-03T06:32:30.107903'
+  PFirstFoundDay: '2022-03-21T15:31:51.301146'
+  Rank: 14158
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   port: 21089
@@ -133,21 +148,6 @@ proxies:
   UpdateDay: '2022-05-03T06:32:30.047527'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
   Rank: 14076
-- name: 210.152.13.168:443@trojan
-  server: 210.152.13.168
-  port: 443
-  type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
-  password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 49.29
-  maximum: 52.54
-  average: 50.78
-  UpdateDay: '2022-05-03T06:32:30.107903'
-  PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 14058
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   port: 20089
@@ -247,7 +247,7 @@ proxies:
   average: 279.29
   UpdateDay: '2022-05-03T06:31:55.234269'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 5638
+  Rank: 5688
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -348,8 +348,8 @@ proxy-groups:
   - 106.180.225.69:1443@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
   - 2.58.242.43:443@trojan
-  - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - 210.152.13.168:443@trojan
+  - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - 35.153.162.49:27080@vmess
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
