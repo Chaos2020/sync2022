@@ -46,7 +46,7 @@ proxies:
   average: 6.72
   UpdateDay: '2022-05-03T09:30:56.910308'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 28528
+  Rank: 28628
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -60,7 +60,7 @@ proxies:
   average: 19.34
   UpdateDay: '2022-05-03T06:30:56.727025'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 24978
+  Rank: 25078
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -131,7 +131,7 @@ proxies:
   average: 28.71
   UpdateDay: '2022-05-03T09:30:56.966318'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 14247
+  Rank: 14327
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -231,7 +231,7 @@ proxies:
   average: 171.37
   UpdateDay: '2022-05-03T09:31:00.584679'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 5739
+  Rank: 5779
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -246,7 +246,7 @@ proxies:
   average: 251.0
   UpdateDay: '2022-05-03T09:31:00.824319'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5717
+  Rank: 5737
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -261,7 +261,7 @@ proxies:
   average: 42.0
   UpdateDay: '2022-05-03T09:30:57.039100'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 5283
+  Rank: 5351
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -276,7 +276,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 5081
+  Rank: 5131
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -333,7 +333,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 4170
+  Rank: 4239
 proxy-groups:
 - name: PG-default
   type: fallback
