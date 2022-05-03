@@ -101,7 +101,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 15585
+  Rank: 15605
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -131,7 +131,7 @@ proxies:
   average: 28.71
   UpdateDay: '2022-05-03T09:30:56.966318'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 14167
+  Rank: 14247
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -201,7 +201,7 @@ proxies:
   average: 52.9
   UpdateDay: '2022-05-03T09:30:57.033492'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 8410
+  Rank: 8460
 - name: cscu.wecanfly.top:51132@trojan
   server: cscu.wecanfly.top
   port: 51132
@@ -216,7 +216,22 @@ proxies:
   average: 39.38
   UpdateDay: '2022-04-03T15:12:55.533673'
   PFirstFoundDay: '2022-03-13T18:25:19.181411'
-  Rank: 6992
+  Rank: 6842
+- name: 72.167.45.6:443@trojan
+  server: 72.167.45.6
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: 28d98f761aca9d636f44db62544628eb
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 170.82
+  maximum: 171.7
+  average: 171.37
+  UpdateDay: '2022-05-03T09:31:00.584679'
+  PFirstFoundDay: '2022-03-31T09:34:10.783687'
+  Rank: 5739
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
@@ -232,21 +247,6 @@ proxies:
   UpdateDay: '2022-05-03T09:31:00.824319'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
   Rank: 5717
-- name: 72.167.45.6:443@trojan
-  server: 72.167.45.6
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: 28d98f761aca9d636f44db62544628eb
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 170.82
-  maximum: 171.7
-  average: 171.37
-  UpdateDay: '2022-05-03T09:31:00.584679'
-  PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 5689
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -261,7 +261,7 @@ proxies:
   average: 42.0
   UpdateDay: '2022-05-03T09:30:57.039100'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 5197
+  Rank: 5283
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
@@ -306,7 +306,7 @@ proxies:
   average: 46.92
   UpdateDay: '2022-05-03T09:31:00.214589'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 4871
+  Rank: 4962
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -333,7 +333,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 4070
+  Rank: 4170
 proxy-groups:
 - name: PG-default
   type: fallback
@@ -353,8 +353,8 @@ proxy-groups:
   - 35.153.162.49:27080@vmess
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - cscu.wecanfly.top:51132@trojan
-  - 184.168.127.50:443@trojan
   - 72.167.45.6:443@trojan
+  - 184.168.127.50:443@trojan
   - www.zx07.top:443@trojan
   - 45.9.10.103:443@trojan
   - tky3.ssgnode.ga:443@trojan
