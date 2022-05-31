@@ -118,7 +118,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 31482
+  Rank: 31532
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -131,7 +131,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 29893
+  Rank: 29743
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -146,7 +146,7 @@ proxies:
   average: 90.54
   UpdateDay: '2022-06-01T00:32:52.820061'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 28252
+  Rank: 28332
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 15673
+  Rank: 15523
 proxy-groups:
 - name: PG-default
   type: fallback
