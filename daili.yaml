@@ -118,7 +118,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 31460
+  Rank: 31482
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -188,7 +188,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 23876
+  Rank: 23976
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
