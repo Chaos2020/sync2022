@@ -118,7 +118,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 31455
+  Rank: 31492
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -161,7 +161,7 @@ proxies:
   average: 44.42
   UpdateDay: '2022-05-12T18:33:34.786050'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 25620
+  Rank: 25470
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -260,7 +260,7 @@ proxies:
   average: 45.27
   UpdateDay: '2022-05-31T18:33:31.553942'
   PFirstFoundDay: '2022-05-04T12:30:31.831423'
-  Rank: 20028
+  Rank: 20019
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -315,7 +315,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 17101
+  Rank: 17127
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
