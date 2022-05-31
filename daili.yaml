@@ -131,7 +131,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 30193
+  Rank: 30043
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -146,7 +146,7 @@ proxies:
   average: 101.4
   UpdateDay: '2022-05-31T21:33:33.877086'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 28146
+  Rank: 28201
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -174,21 +174,6 @@ proxies:
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
   Rank: 24618
-- name: www.gomacau.gq:443@trojan
-  server: www.gomacau.gq
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  port: 443
-  password: b5fc9fa9-796d-4185-a316-395ecac04a85
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 60.88
-  maximum: 62.02
-  average: 61.31
-  UpdateDay: '2022-04-02T15:35:09.325376'
-  PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 23817
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   type: trojan
@@ -204,6 +189,21 @@ proxies:
   UpdateDay: '2022-05-31T21:32:57.879239'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
   Rank: 23814
+- name: www.gomacau.gq:443@trojan
+  server: www.gomacau.gq
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  port: 443
+  password: b5fc9fa9-796d-4185-a316-395ecac04a85
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 60.88
+  maximum: 62.02
+  average: 61.31
+  UpdateDay: '2022-04-02T15:35:09.325376'
+  PFirstFoundDay: '2022-03-14T10:28:14.224892'
+  Rank: 23801
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   type: trojan
@@ -330,7 +330,7 @@ proxies:
   average: 162.13
   UpdateDay: '2022-03-30T11:21:53.634848'
   PFirstFoundDay: '2022-03-23T09:35:36.105483'
-  Rank: 15973
+  Rank: 15823
 proxy-groups:
 - name: PG-default
   type: fallback
@@ -348,8 +348,8 @@ proxy-groups:
   - 210.152.13.168:443@trojan
   - www.zx07.top:443@trojan
   - www.ggchk.ga:443@trojan
-  - www.gomacau.gq:443@trojan
   - 2.58.242.43:443@trojan
+  - www.gomacau.gq:443@trojan
   - www.tokyo2023.ga:443@trojan
   - www.seetheworldjp.ga:443@trojan
   - www.tokyo2021.ga:443@trojan
