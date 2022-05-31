@@ -70,27 +70,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 36.46
-  maximum: 48.5
-  average: 42.61
-  UpdateDay: '2022-05-12T18:33:34.770298'
+  minimum: 13.78
+  maximum: 41.65
+  average: 32.26
+  UpdateDay: '2022-05-31T17:43:09.092313'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 34968
+  Rank: 34970
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
-  port: 1443
   type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
+  country: "\U0001F1EF\U0001F1F5JP"
+  port: 1443
   password: 7x42LetRa0
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 59.35
-  maximum: 59.54
-  average: 59.42
-  UpdateDay: '2022-05-12T18:33:34.815392'
+  minimum: 94.29
+  maximum: 111.28
+  average: 103.83
+  UpdateDay: '2022-05-31T17:42:16.487839'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 34293
+  Rank: 34294
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -134,19 +134,19 @@ proxies:
   Rank: 30193
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
-  port: 443
   type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
+  country: "\U0001F1EF\U0001F1F5JP"
+  port: 443
   password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 75.04
-  maximum: 122.13
-  average: 94.47
-  UpdateDay: '2022-05-12T18:33:34.936808'
+  minimum: 59.88
+  maximum: 65.09
+  average: 61.71
+  UpdateDay: '2022-05-31T17:42:16.348379'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 28142
+  Rank: 28143
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -194,31 +194,31 @@ proxies:
   port: 443
   type: trojan
   country: "\U0001F1F9\U0001F1FC TW"
-  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
   minimum: 73.62
-  maximum: 75.14
-  average: 74.36
-  UpdateDay: '2022-05-12T18:33:34.858982'
+  maximum: 89.76
+  average: 79.62
+  UpdateDay: '2022-05-31T17:43:10.547793'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 23762
+  Rank: 23765
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
-  port: 443
   type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
+  country: "\U0001F1FA\U0001F1F8US"
+  port: 443
   password: 4f7dc540-d244-4e64-af21-4b5bb300add3
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 44.38
-  maximum: 54.29
-  average: 48.29
-  UpdateDay: '2022-05-12T18:33:34.779564'
+  minimum: 36.69
+  maximum: 56.23
+  average: 45.39
+  UpdateDay: '2022-05-31T17:42:41.743400'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 22804
+  Rank: 22805
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -251,16 +251,16 @@ proxies:
   port: 443
   type: trojan
   country: "\U0001F1EF\U0001F1F5 JP"
-  password: 82lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272
+  password: lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 40.3
-  maximum: 47.97
-  average: 44.87
-  UpdateDay: '2022-05-12T18:33:34.790819'
+  minimum: 41.71
+  maximum: 43.53
+  average: 42.35
+  UpdateDay: '2022-05-31T17:43:10.387922'
   PFirstFoundDay: '2022-05-04T12:30:31.831423'
-  Rank: 20054
+  Rank: 20059
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -278,19 +278,19 @@ proxies:
   Rank: 19019
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
-  port: 889
   type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 889
   password: SfobRIcergHchqBFzzua
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 39.21
-  maximum: 48.45
-  average: 44.38
-  UpdateDay: '2022-05-12T18:33:34.759559'
+  minimum: 38.06
+  maximum: 357.94
+  average: 148.73
+  UpdateDay: '2022-05-31T17:42:16.626060'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 18035
+  Rank: 18036
 - alterId: 0
   cipher: auto
   http-opts:
