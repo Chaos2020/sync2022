@@ -131,7 +131,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 29443
+  Rank: 29293
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -203,7 +203,7 @@ proxies:
   average: 75.47
   UpdateDay: '2022-06-01T06:34:32.930022'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 23920
+  Rank: 23968
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -245,7 +245,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 21755
+  Rank: 21855
 - name: tky3.ssgnode.ga:443@trojan
   server: tky3.ssgnode.ga
   port: 443
@@ -275,7 +275,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 18719
+  Rank: 18569
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   type: trojan
@@ -315,7 +315,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 17127
+  Rank: 17177
 - name: 45.9.10.103:443@trojan
   server: 45.9.10.103
   type: trojan
