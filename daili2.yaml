@@ -146,7 +146,7 @@ proxies:
   average: 89.06
   UpdateDay: '2022-06-06T15:30:49.988625'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 28387
+  Rank: 28437
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -173,7 +173,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 24652
+  Rank: 24668
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -275,7 +275,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 18419
+  Rank: 18269
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
