@@ -60,7 +60,7 @@ proxies:
   average: 9.49
   UpdateDay: '2022-05-12T15:30:29.194949'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 46557
+  Rank: 46407
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   port: 21089
@@ -90,7 +90,7 @@ proxies:
   average: 138.08
   UpdateDay: '2022-06-06T15:30:50.143429'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 34545
+  Rank: 34595
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -161,7 +161,7 @@ proxies:
   average: 43.38
   UpdateDay: '2022-06-06T15:30:49.877414'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 25630
+  Rank: 25648
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -218,7 +218,7 @@ proxies:
   average: 40.74
   UpdateDay: '2022-06-06T15:30:49.871527'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 22899
+  Rank: 22790
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -315,7 +315,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 17233
+  Rank: 17221
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
