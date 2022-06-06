@@ -46,7 +46,7 @@ proxies:
   average: 7.57
   UpdateDay: '2022-06-07T00:32:55.568639'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 50456
+  Rank: 50556
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -105,7 +105,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 31683
+  Rank: 31533
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -118,7 +118,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 30932
+  Rank: 30782
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -290,7 +290,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 18119
+  Rank: 17969
 - alterId: 0
   cipher: auto
   http-opts:
