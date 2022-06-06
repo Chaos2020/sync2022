@@ -188,7 +188,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 24451
+  Rank: 24517
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -203,7 +203,7 @@ proxies:
   average: 79.36
   UpdateDay: '2022-06-06T12:34:17.586063'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 24017
+  Rank: 24067
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   type: trojan
@@ -290,7 +290,7 @@ proxies:
   average: 44.73
   UpdateDay: '2022-06-06T12:33:20.300716'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 18142
+  Rank: 18190
 - alterId: 0
   cipher: auto
   http-opts:
