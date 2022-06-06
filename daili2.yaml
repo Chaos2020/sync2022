@@ -46,7 +46,7 @@ proxies:
   average: 8.18
   UpdateDay: '2022-06-07T03:31:01.070018'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 50657
+  Rank: 50752
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -60,7 +60,7 @@ proxies:
   average: 120.72
   UpdateDay: '2022-06-07T00:32:03.153204'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 46409
+  Rank: 46509
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -275,7 +275,7 @@ proxies:
   average: 207.54
   UpdateDay: '2022-06-07T03:31:01.748268'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 18324
+  Rank: 18374
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
