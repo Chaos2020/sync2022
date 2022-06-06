@@ -146,7 +146,7 @@ proxies:
   average: 107.14
   UpdateDay: '2022-06-06T21:32:46.061307'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 28490
+  Rank: 28536
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -218,7 +218,7 @@ proxies:
   average: 51.83
   UpdateDay: '2022-06-06T21:32:24.602497'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 22887
+  Rank: 22898
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
