@@ -118,7 +118,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 31082
+  Rank: 30932
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -146,7 +146,7 @@ proxies:
   average: 102.23
   UpdateDay: '2022-06-07T00:32:55.901174'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 28538
+  Rank: 28588
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -161,7 +161,7 @@ proxies:
   average: 41.59
   UpdateDay: '2022-06-07T00:31:58.041896'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 25729
+  Rank: 25820
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -188,7 +188,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 24525
+  Rank: 24625
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
