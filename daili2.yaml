@@ -60,7 +60,7 @@ proxies:
   average: 32.57
   UpdateDay: '2022-06-07T15:33:25.671201'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 46327
+  Rank: 46177
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   port: 21089
@@ -285,7 +285,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 17423
+  Rank: 17473
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -315,7 +315,7 @@ proxies:
   average: 424.0
   UpdateDay: '2022-06-08T00:30:43.743845'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 15946
+  Rank: 16000
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
