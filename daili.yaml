@@ -46,7 +46,7 @@ proxies:
   average: 7.67
   UpdateDay: '2022-06-07T06:42:35.964433'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 50823
+  Rank: 50918
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -118,7 +118,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 30782
+  Rank: 30632
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -131,7 +131,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 28843
+  Rank: 28693
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -203,7 +203,7 @@ proxies:
   average: 72.09
   UpdateDay: '2022-06-07T06:43:33.377002'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 24109
+  Rank: 24159
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   type: trojan
@@ -260,7 +260,7 @@ proxies:
   average: 42.25
   UpdateDay: '2022-06-07T06:43:33.375006'
   PFirstFoundDay: '2022-05-04T12:30:31.831423'
-  Rank: 20184
+  Rank: 20284
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   type: trojan
@@ -315,7 +315,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 17271
+  Rank: 17321
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 42.25
   UpdateDay: '2022-06-07T06:43:33.234690'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 15692
+  Rank: 15792
 proxy-groups:
 - name: PG-default
   type: fallback
