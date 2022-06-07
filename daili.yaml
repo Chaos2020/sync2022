@@ -35,18 +35,18 @@ dns:
 proxies:
 - name: 101.132.192.212:30003@ss
   server: 101.132.192.212
-  port: 30003
   type: ss
-  country: "\U0001F1E8\U0001F1F3 CN"
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 30003
   password: desperadoj.com_free_proxy_d39m
   cipher: aes-128-gcm
   success_rate: 100.0
-  minimum: 7.52
-  maximum: 8.12
-  average: 7.73
-  UpdateDay: '2022-06-07T12:32:29.550669'
+  minimum: 7.23
+  maximum: 11.6
+  average: 9.1
+  UpdateDay: '2022-06-07T15:33:15.656928'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 50770
+  Rank: 50771
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -54,13 +54,13 @@ proxies:
   port: 30003
   password: desperadoj.com_free_proxy_d39m
   cipher: aes-128-gcm
-  success_rate: 66.67
-  minimum: 30.21
-  maximum: 32.93
-  average: 31.57
-  UpdateDay: '2022-06-07T09:31:43.919280'
+  success_rate: 33.33
+  minimum: 32.57
+  maximum: 32.57
+  average: 32.57
+  UpdateDay: '2022-06-07T15:33:25.671201'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 46527
+  Rank: 46528
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -70,27 +70,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 7.37
-  maximum: 46.02
-  average: 31.65
-  UpdateDay: '2022-06-07T12:31:32.310691'
+  minimum: 39.01
+  maximum: 62.69
+  average: 47.94
+  UpdateDay: '2022-06-07T15:33:15.767559'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 35850
+  Rank: 35851
 - name: 106.180.225.69:1443@trojan
-  password: 7x42LetRa0
-  port: 1443
   server: 106.180.225.69
-  skip-cert-verify: true
   type: trojan
+  country: "\U0001F1EF\U0001F1F5JP"
+  port: 1443
+  password: 7x42LetRa0
+  skip-cert-verify: true
   udp: true
-  uuid: 610f9780-84b3-6767-c21c-2bdc35565c89
   success_rate: 100.0
-  minimum: 68.21
-  maximum: 84.35
-  average: 76.26
-  UpdateDay: '2022-06-07T12:32:26.553616'
+  minimum: 108.54
+  maximum: 175.88
+  average: 149.03
+  UpdateDay: '2022-06-07T15:33:16.049193'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 34796
+  Rank: 34797
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -128,12 +128,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 92.1
-  maximum: 97.5
-  average: 95.2
-  UpdateDay: '2022-06-07T12:32:30.180194'
+  minimum: 87.61
+  maximum: 95.18
+  average: 90.54
+  UpdateDay: '2022-06-07T15:34:13.677745'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 28695
+  Rank: 28747
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -146,7 +146,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 28393
+  Rank: 28243
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -156,12 +156,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 41.28
-  maximum: 47.15
-  average: 44.92
-  UpdateDay: '2022-06-07T12:31:32.310304'
+  minimum: 41.53
+  maximum: 69.67
+  average: 52.58
+  UpdateDay: '2022-06-07T15:33:15.777762'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26017
+  Rank: 26018
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -194,16 +194,16 @@ proxies:
   port: 443
   type: trojan
   country: "\U0001F1F9\U0001F1FC TW"
-  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 71.44
-  maximum: 74.54
-  average: 72.67
-  UpdateDay: '2022-06-07T12:32:30.204722'
+  minimum: 69.91
+  maximum: 73.67
+  average: 71.25
+  UpdateDay: '2022-06-07T15:34:13.658686'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 24220
+  Rank: 24222
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -213,12 +213,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 36.99
-  maximum: 43.58
-  average: 39.58
-  UpdateDay: '2022-06-07T12:32:30.161038'
+  minimum: 37.24
+  maximum: 49.11
+  average: 43.47
+  UpdateDay: '2022-06-07T15:34:13.645460'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 23004
+  Rank: 23006
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -251,16 +251,16 @@ proxies:
   type: trojan
   country: "\U0001F1E8\U0001F1F3CN"
   port: 889
-  password: UiLPqefVfielqkDjEwBV
+  password: SfobRIcergHchqBFzzua
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 39.05
-  maximum: 52.19
-  average: 44.8
-  UpdateDay: '2022-06-07T12:31:32.353913'
+  minimum: 41.1
+  maximum: 74.23
+  average: 52.69
+  UpdateDay: '2022-06-07T15:33:15.775017'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 18607
+  Rank: 18608
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -275,7 +275,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 17669
+  Rank: 17519
 - alterId: 0
   cipher: auto
   http-opts:
@@ -306,31 +306,31 @@ proxies:
   port: 443
   type: trojan
   country: "\U0001F1ED\U0001F1F0 HK"
-  password: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9
+  password: 7b4066ae-accc-11eb-a8bf-f23c91cfbbc9
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 37.89
-  maximum: 44.68
-  average: 40.73
-  UpdateDay: '2022-06-07T12:32:30.015634'
+  minimum: 65.8
+  maximum: 77.63
+  average: 72.83
+  UpdateDay: '2022-06-07T15:34:13.570256'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 15914
+  Rank: 15998
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
   type: trojan
   country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
+  password: 28d98f761aca9d636f44db62544628eb
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 160.89
-  maximum: 171.85
-  average: 168.15
-  UpdateDay: '2022-06-07T12:32:30.547529'
+  minimum: 161.2
+  maximum: 172.34
+  average: 165.47
+  UpdateDay: '2022-06-07T15:34:13.984828'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 15499
+  Rank: 15547
 proxy-groups:
 - name: PG-default
   type: fallback
