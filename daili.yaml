@@ -60,7 +60,7 @@ proxies:
   average: 32.57
   UpdateDay: '2022-06-07T15:33:25.671201'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 46177
+  Rank: 46027
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -118,7 +118,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 30032
+  Rank: 29882
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 167.91
   UpdateDay: '2022-06-08T03:34:18.525760'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 15587
+  Rank: 15637
 proxy-groups:
 - name: PG-default
   type: fallback
