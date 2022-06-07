@@ -60,7 +60,7 @@ proxies:
   average: 32.57
   UpdateDay: '2022-06-07T15:33:25.671201'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 46528
+  Rank: 46614
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -105,7 +105,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 31083
+  Rank: 30933
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -261,21 +261,6 @@ proxies:
   UpdateDay: '2022-06-07T15:33:15.775017'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
   Rank: 18608
-- name: zgao.shop:443@trojan
-  server: zgao.shop
-  port: 443
-  type: trojan
-  password: WJtOyunF
-  sni: zgao.shop
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 52.26
-  maximum: 121.25
-  average: 77.06
-  UpdateDay: '2022-03-19T00:36:45.832218'
-  PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 17519
 - alterId: 0
   cipher: auto
   http-opts:
@@ -301,6 +286,21 @@ proxies:
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
   Rank: 17417
+- name: zgao.shop:443@trojan
+  server: zgao.shop
+  port: 443
+  type: trojan
+  password: WJtOyunF
+  sni: zgao.shop
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 52.26
+  maximum: 121.25
+  average: 77.06
+  UpdateDay: '2022-03-19T00:36:45.832218'
+  PFirstFoundDay: '2022-03-19T00:36:45.832222'
+  Rank: 17369
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
@@ -354,8 +354,8 @@ proxy-groups:
   - www.seetheworldjp.ga:443@trojan
   - www.tokyo2021.ga:443@trojan
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
-  - zgao.shop:443@trojan
   - 35.153.162.49:27080@vmess
+  - zgao.shop:443@trojan
   - ssl.tcpbbr.net:443@trojan
   - 72.167.45.6:443@trojan
   tolerance: 250
