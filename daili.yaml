@@ -105,7 +105,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 30783
+  Rank: 30633
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -161,7 +161,7 @@ proxies:
   average: 45.56
   UpdateDay: '2022-06-07T18:31:34.718543'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 25982
+  Rank: 26082
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -203,7 +203,7 @@ proxies:
   average: 72.66
   UpdateDay: '2022-06-07T18:32:32.936338'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 24322
+  Rank: 24368
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -260,7 +260,7 @@ proxies:
   average: 42.42
   UpdateDay: '2022-06-07T18:31:34.709830'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 18687
+  Rank: 18697
 - alterId: 0
   cipher: auto
   http-opts:
