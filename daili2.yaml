@@ -60,7 +60,7 @@ proxies:
   average: 32.62
   UpdateDay: '2022-06-08T12:35:33.000184'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 45753
+  Rank: 45603
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -90,7 +90,7 @@ proxies:
   average: 122.17
   UpdateDay: '2022-06-08T15:31:47.462074'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 35075
+  Rank: 35121
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -176,7 +176,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 24979
+  Rank: 25074
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -230,7 +230,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 22338
+  Rank: 22397
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
