@@ -60,7 +60,7 @@ proxies:
   average: 32.57
   UpdateDay: '2022-06-07T15:33:25.671201'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 45902
+  Rank: 45752
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -161,7 +161,7 @@ proxies:
   average: 45.43
   UpdateDay: '2022-06-08T09:30:28.606902'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26330
+  Rank: 26425
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -176,7 +176,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 24879
+  Rank: 24979
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -188,7 +188,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 24790
+  Rank: 24830
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -218,7 +218,7 @@ proxies:
   average: 49.3
   UpdateDay: '2022-06-08T09:31:04.639834'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 22852
+  Rank: 22952
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
