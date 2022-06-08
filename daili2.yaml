@@ -46,7 +46,7 @@ proxies:
   average: 7.46
   UpdateDay: '2022-06-08T12:35:22.939535'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 50845
+  Rank: 50795
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -75,7 +75,7 @@ proxies:
   average: 25.53
   UpdateDay: '2022-06-08T12:35:22.976537'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 36240
+  Rank: 36330
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -118,7 +118,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 29732
+  Rank: 29582
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -146,7 +146,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 27643
+  Rank: 27493
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -161,7 +161,7 @@ proxies:
   average: 39.45
   UpdateDay: '2022-06-08T12:36:03.369564'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26427
+  Rank: 26527
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -218,7 +218,7 @@ proxies:
   average: 137.96
   UpdateDay: '2022-06-08T12:36:05.863735'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 22954
+  Rank: 23054
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
