@@ -120,7 +120,7 @@ proxies:
   average: 396.87
   UpdateDay: '2022-06-09T00:31:35.365470'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 29278
+  Rank: 29368
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -161,7 +161,7 @@ proxies:
   average: 56.66
   UpdateDay: '2022-06-09T00:32:24.324861'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26368
+  Rank: 26238
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -188,7 +188,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 24830
+  Rank: 24720
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
