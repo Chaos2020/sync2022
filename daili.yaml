@@ -105,20 +105,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 30033
-- name: fkgfw-prod.i.sxl.cn:443@ss
-  server: fkgfw-prod.i.sxl.cn
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: E4DNMf73kHPrd8Qq7aqGPf7f
-  success_rate: 100.0
-  minimum: 6.43
-  maximum: 254.08
-  average: 89.1
-  UpdateDay: '2022-03-24T18:35:12.668742'
-  PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 29282
+  Rank: 29883
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -134,6 +121,19 @@ proxies:
   UpdateDay: '2022-06-08T21:31:20.558513'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
   Rank: 29277
+- name: fkgfw-prod.i.sxl.cn:443@ss
+  server: fkgfw-prod.i.sxl.cn
+  port: 443
+  type: ss
+  cipher: aes-256-cfb
+  password: E4DNMf73kHPrd8Qq7aqGPf7f
+  success_rate: 100.0
+  minimum: 6.43
+  maximum: 254.08
+  average: 89.1
+  UpdateDay: '2022-03-24T18:35:12.668742'
+  PFirstFoundDay: '2022-03-19T12:33:06.851449'
+  Rank: 29132
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -285,7 +285,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 17617
+  Rank: 17585
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -343,8 +343,8 @@ proxy-groups:
   - hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   - 106.180.225.69:1443@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
-  - fkgfw-prod.i.sxl.cn:443@ss
   - 210.152.13.168:443@trojan
+  - fkgfw-prod.i.sxl.cn:443@ss
   - 101.91.121.247:50004@ss
   - www.zx07.top:443@trojan
   - www.gomacau.gq:443@trojan
