@@ -63,19 +63,19 @@ proxies:
   Rank: 45603
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3CN"
   port: 21089
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
   password: SfobRIcergHchqBFzzua
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 40.55
-  maximum: 49.83
-  average: 44.14
-  UpdateDay: '2022-06-08T15:30:52.344844'
+  minimum: 8.84
+  maximum: 44.9
+  average: 21.25
+  UpdateDay: '2022-06-08T18:31:24.443804'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 36331
+  Rank: 36333
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -85,12 +85,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 100.78
-  maximum: 144.5
-  average: 122.17
-  UpdateDay: '2022-06-08T15:31:47.462074'
+  minimum: 93.9
+  maximum: 108.61
+  average: 102.38
+  UpdateDay: '2022-06-08T18:31:24.688853'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 35121
+  Rank: 35123
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -128,12 +128,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 89.17
-  maximum: 99.69
-  average: 95.0
-  UpdateDay: '2022-06-08T15:30:52.429376'
+  minimum: 100.86
+  maximum: 109.79
+  average: 104.17
+  UpdateDay: '2022-06-08T18:30:30.147013'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 29175
+  Rank: 29226
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -156,12 +156,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 42.06
-  maximum: 49.62
-  average: 46.13
-  UpdateDay: '2022-06-08T15:30:52.372834'
+  minimum: 41.95
+  maximum: 67.86
+  average: 53.93
+  UpdateDay: '2022-06-08T18:30:30.027808'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26528
+  Rank: 26599
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -194,31 +194,31 @@ proxies:
   port: 443
   type: trojan
   country: "\U0001F1F9\U0001F1FC TW"
-  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 181.91
-  maximum: 183.64
-  average: 182.97
-  UpdateDay: '2022-06-08T15:31:47.643547'
+  minimum: 69.77
+  maximum: 71.26
+  average: 70.39
+  UpdateDay: '2022-06-08T18:31:24.594778'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 24577
+  Rank: 24579
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
-  port: 443
   type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
+  country: "\U0001F1FA\U0001F1F8US"
+  port: 443
   password: 4f7dc540-d244-4e64-af21-4b5bb300add3
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 37.76
-  maximum: 45.68
-  average: 41.74
-  UpdateDay: '2022-06-08T15:31:47.259798'
+  minimum: 40.1
+  maximum: 46.25
+  average: 43.84
+  UpdateDay: '2022-06-08T18:31:06.057727'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 23151
+  Rank: 23152
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -255,12 +255,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 41.57
-  maximum: 53.49
-  average: 47.27
-  UpdateDay: '2022-06-08T15:30:52.376778'
+  minimum: 37.8
+  maximum: 48.13
+  average: 43.02
+  UpdateDay: '2022-06-08T18:30:30.041681'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 18832
+  Rank: 18833
 - alterId: 0
   cipher: auto
   http-opts:
@@ -300,37 +300,37 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 16769
+  Rank: 16619
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
   type: trojan
   country: "\U0001F1ED\U0001F1F0 HK"
-  password: 7b4066ae-accc-11eb-a8bf-f23c91cfbbc9
+  password: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 41.8
-  maximum: 64.41
-  average: 49.45
-  UpdateDay: '2022-06-08T15:31:47.262028'
+  minimum: 43.31
+  maximum: 69.73
+  average: 60.39
+  UpdateDay: '2022-06-08T18:31:24.564929'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 16076
+  Rank: 16078
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
   type: trojan
   country: "\U0001F1FA\U0001F1F8 US"
-  password: 28d98f761aca9d636f44db62544628eb
+  password: a3fa58b581353bb375d2ddad0f327938
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 161.15
-  maximum: 171.0
-  average: 164.62
-  UpdateDay: '2022-06-08T15:31:47.588730'
+  minimum: 170.95
+  maximum: 171.67
+  average: 171.29
+  UpdateDay: '2022-06-08T18:31:24.900960'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 15647
+  Rank: 15699
 proxy-groups:
 - name: PG-default
   type: fallback
