@@ -90,7 +90,7 @@ proxies:
   average: 94.69
   UpdateDay: '2022-06-08T12:36:04.305952'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 35027
+  Rank: 35073
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -105,7 +105,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 30333
+  Rank: 30183
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -133,7 +133,7 @@ proxies:
   average: 75.89
   UpdateDay: '2022-06-08T12:35:23.136304'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 29074
+  Rank: 29124
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -300,7 +300,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 16919
+  Rank: 16769
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
