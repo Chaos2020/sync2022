@@ -133,7 +133,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 28832
+  Rank: 28682
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
