@@ -60,7 +60,7 @@ proxies:
   average: 13.99
   UpdateDay: '2022-06-09T06:34:20.888615'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 45424
+  Rank: 45274
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   port: 21089
@@ -203,7 +203,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 24570
+  Rank: 24616
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -218,7 +218,7 @@ proxies:
   average: 37.65
   UpdateDay: '2022-06-09T06:35:08.147320'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 23184
+  Rank: 23284
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 158.76
   UpdateDay: '2022-06-09T06:35:08.519267'
   PFirstFoundDay: '2022-03-31T09:34:10.783687'
-  Rank: 15752
+  Rank: 15802
 proxy-groups:
 - name: PG-default
   type: fallback
