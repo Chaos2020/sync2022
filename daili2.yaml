@@ -90,7 +90,7 @@ proxies:
   average: 127.29
   UpdateDay: '2022-06-10T00:31:34.288814'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 35443
+  Rank: 35498
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -161,7 +161,22 @@ proxies:
   average: 52.76
   UpdateDay: '2022-06-10T00:32:28.177828'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26019
+  Rank: 26057
+- name: 2.58.242.43:443@trojan
+  server: 2.58.242.43
+  port: 443
+  type: trojan
+  country: "\U0001F1F9\U0001F1FC TW"
+  password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 79.97
+  maximum: 97.9
+  average: 90.44
+  UpdateDay: '2022-06-10T00:32:28.296751'
+  PFirstFoundDay: '2022-03-14T21:36:22.498526'
+  Rank: 24828
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -177,21 +192,6 @@ proxies:
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
   Rank: 24825
-- name: 2.58.242.43:443@trojan
-  server: 2.58.242.43
-  port: 443
-  type: trojan
-  country: "\U0001F1F9\U0001F1FC TW"
-  password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 79.97
-  maximum: 97.9
-  average: 90.44
-  UpdateDay: '2022-06-10T00:32:28.296751'
-  PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 24780
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -245,7 +245,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 21743
+  Rank: 21843
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -260,7 +260,7 @@ proxies:
   average: 39.66
   UpdateDay: '2022-06-10T00:32:28.130315'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 19070
+  Rank: 19100
 - alterId: 0
   cipher: auto
   http-opts:
@@ -300,7 +300,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 16169
+  Rank: 16019
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
@@ -315,7 +315,7 @@ proxies:
   average: 410.07
   UpdateDay: '2022-06-10T00:32:29.249645'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 15895
+  Rank: 15940
 - name: api.tcpbbr.net:443@trojan
   server: api.tcpbbr.net
   port: 443
@@ -347,8 +347,8 @@ proxy-groups:
   - fkgfw-prod.i.sxl.cn:443@ss
   - 101.91.121.247:50004@ss
   - www.zx07.top:443@trojan
-  - www.gomacau.gq:443@trojan
   - 2.58.242.43:443@trojan
+  - www.gomacau.gq:443@trojan
   - www.ggchk.ga:443@trojan
   - www.tokyo2023.ga:443@trojan
   - www.seetheworldjp.ga:443@trojan
