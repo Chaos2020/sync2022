@@ -75,7 +75,7 @@ proxies:
   average: 1702.28
   UpdateDay: '2022-06-10T03:31:31.491400'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 36668
+  Rank: 36758
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -105,7 +105,7 @@ proxies:
   average: 52.69
   UpdateDay: '2022-06-10T03:31:26.597692'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 29430
+  Rank: 29525
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -146,7 +146,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 26893
+  Rank: 26743
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -218,7 +218,7 @@ proxies:
   average: 50.16
   UpdateDay: '2022-06-10T03:31:26.601716'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 23766
+  Rank: 23866
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -260,7 +260,7 @@ proxies:
   average: 43.78
   UpdateDay: '2022-06-10T03:31:26.582158'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 19195
+  Rank: 19243
 - alterId: 0
   cipher: auto
   http-opts:
@@ -300,7 +300,7 @@ proxies:
   average: 43.78
   UpdateDay: '2022-06-10T03:31:26.594749'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 16041
+  Rank: 16141
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 41.62
   UpdateDay: '2022-06-10T03:31:26.601483'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 14843
+  Rank: 14901
 proxy-groups:
 - name: PG-default
   type: fallback
