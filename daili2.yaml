@@ -120,7 +120,7 @@ proxies:
   average: 65.13
   UpdateDay: '2022-06-09T09:32:07.008044'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 29372
+  Rank: 29422
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -133,7 +133,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 28382
+  Rank: 28232
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -219,18 +219,6 @@ proxies:
   UpdateDay: '2022-06-09T09:33:04.109703'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
   Rank: 23286
-- name: www.seetheworldjp.ga:443@trojan
-  password: f42e1a2e-e650-44f4-8d17-bcb68663da18
-  port: 443
-  server: www.seetheworldjp.ga
-  type: trojan
-  success_rate: 100.0
-  minimum: 50.99
-  maximum: 64.88
-  average: 57.86
-  UpdateDay: '2022-04-03T15:12:54.472724'
-  PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 21947
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -246,6 +234,18 @@ proxies:
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
   Rank: 21884
+- name: www.seetheworldjp.ga:443@trojan
+  password: f42e1a2e-e650-44f4-8d17-bcb68663da18
+  port: 443
+  server: www.seetheworldjp.ga
+  type: trojan
+  success_rate: 100.0
+  minimum: 50.99
+  maximum: 64.88
+  average: 57.86
+  UpdateDay: '2022-04-03T15:12:54.472724'
+  PFirstFoundDay: '2022-03-11T21:01:49.367854'
+  Rank: 21797
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   type: trojan
@@ -315,7 +315,7 @@ proxies:
   average: 42.25
   UpdateDay: '2022-06-09T09:33:02.076090'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 15922
+  Rank: 15813
 - name: 72.167.45.6:443@trojan
   server: 72.167.45.6
   port: 443
@@ -351,8 +351,8 @@ proxy-groups:
   - 2.58.242.43:443@trojan
   - www.ggchk.ga:443@trojan
   - www.tokyo2023.ga:443@trojan
-  - www.seetheworldjp.ga:443@trojan
   - www.tokyo2021.ga:443@trojan
+  - www.seetheworldjp.ga:443@trojan
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
   - zgao.shop:443@trojan
