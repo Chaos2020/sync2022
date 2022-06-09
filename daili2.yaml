@@ -133,7 +133,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 28082
+  Rank: 27932
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -162,21 +162,6 @@ proxies:
   UpdateDay: '2022-06-10T00:32:28.177828'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
   Rank: 26057
-- name: 2.58.242.43:443@trojan
-  server: 2.58.242.43
-  port: 443
-  type: trojan
-  country: "\U0001F1F9\U0001F1FC TW"
-  password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 79.97
-  maximum: 97.9
-  average: 90.44
-  UpdateDay: '2022-06-10T00:32:28.296751'
-  PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 24828
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -191,7 +176,22 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 24825
+  Rank: 24900
+- name: 2.58.242.43:443@trojan
+  server: 2.58.242.43
+  port: 443
+  type: trojan
+  country: "\U0001F1F9\U0001F1FC TW"
+  password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 79.97
+  maximum: 97.9
+  average: 90.44
+  UpdateDay: '2022-06-10T00:32:28.296751'
+  PFirstFoundDay: '2022-03-14T21:36:22.498526'
+  Rank: 24878
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -203,7 +203,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 24524
+  Rank: 24562
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   type: trojan
@@ -260,7 +260,7 @@ proxies:
   average: 39.66
   UpdateDay: '2022-06-10T00:32:28.130315'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 19100
+  Rank: 19148
 - alterId: 0
   cipher: auto
   http-opts:
@@ -330,7 +330,7 @@ proxies:
   average: 724.27
   UpdateDay: '2022-06-10T00:32:30.187929'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 14858
+  Rank: 14842
 proxy-groups:
 - name: PG-default
   type: fallback
@@ -347,8 +347,8 @@ proxy-groups:
   - fkgfw-prod.i.sxl.cn:443@ss
   - 101.91.121.247:50004@ss
   - www.zx07.top:443@trojan
-  - 2.58.242.43:443@trojan
   - www.gomacau.gq:443@trojan
+  - 2.58.242.43:443@trojan
   - www.ggchk.ga:443@trojan
   - www.tokyo2023.ga:443@trojan
   - www.seetheworldjp.ga:443@trojan
