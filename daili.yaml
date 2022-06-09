@@ -146,7 +146,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 27343
+  Rank: 27193
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -161,7 +161,7 @@ proxies:
   average: 53.22
   UpdateDay: '2022-06-09T21:30:54.683737'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26022
+  Rank: 25972
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -203,7 +203,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 24674
+  Rank: 24524
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   type: trojan
@@ -230,7 +230,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 21960
+  Rank: 22060
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -285,7 +285,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 17573
+  Rank: 17555
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
