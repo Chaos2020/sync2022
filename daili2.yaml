@@ -146,7 +146,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 27043
+  Rank: 26893
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -161,7 +161,7 @@ proxies:
   average: 46.03
   UpdateDay: '2022-06-10T03:31:26.603397'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26058
+  Rank: 26133
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -245,7 +245,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 21911
+  Rank: 22011
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -286,21 +286,6 @@ proxies:
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
   Rank: 17573
-- name: zgao.shop:443@trojan
-  server: zgao.shop
-  port: 443
-  type: trojan
-  password: WJtOyunF
-  sni: zgao.shop
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 52.26
-  maximum: 121.25
-  average: 77.06
-  UpdateDay: '2022-03-19T00:36:45.832218'
-  PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 16019
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
@@ -315,7 +300,22 @@ proxies:
   average: 43.78
   UpdateDay: '2022-06-10T03:31:26.594749'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 15941
+  Rank: 16041
+- name: zgao.shop:443@trojan
+  server: zgao.shop
+  port: 443
+  type: trojan
+  password: WJtOyunF
+  sni: zgao.shop
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 52.26
+  maximum: 121.25
+  average: 77.06
+  UpdateDay: '2022-03-19T00:36:45.832218'
+  PFirstFoundDay: '2022-03-19T00:36:45.832222'
+  Rank: 15869
 - name: api.tcpbbr.net:443@trojan
   server: api.tcpbbr.net
   port: 443
@@ -355,8 +355,8 @@ proxy-groups:
   - www.tokyo2021.ga:443@trojan
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
-  - zgao.shop:443@trojan
   - ssl.tcpbbr.net:443@trojan
+  - zgao.shop:443@trojan
   - api.tcpbbr.net:443@trojan
   tolerance: 250
 rules:
