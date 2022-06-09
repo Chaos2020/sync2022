@@ -120,7 +120,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 29133
+  Rank: 28983
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -218,7 +218,7 @@ proxies:
   average: 51.86
   UpdateDay: '2022-06-09T18:31:39.735478'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 23523
+  Rank: 23623
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 718.53
   UpdateDay: '2022-06-09T18:31:05.704718'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 14814
+  Rank: 14825
 proxy-groups:
 - name: PG-default
   type: fallback
