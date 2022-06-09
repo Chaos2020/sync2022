@@ -90,7 +90,7 @@ proxies:
   average: 152.34
   UpdateDay: '2022-06-09T21:30:55.062051'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 35356
+  Rank: 35396
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -120,7 +120,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 28833
+  Rank: 28683
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -146,7 +146,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 27193
+  Rank: 27043
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -176,7 +176,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 24784
+  Rank: 24825
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -218,7 +218,7 @@ proxies:
   average: 51.86
   UpdateDay: '2022-06-09T18:31:39.735478'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 23689
+  Rank: 23764
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -230,7 +230,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 22060
+  Rank: 22101
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -245,7 +245,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 21752
+  Rank: 21743
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -285,7 +285,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 17555
+  Rank: 17573
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 379.28
   UpdateDay: '2022-06-09T21:30:55.694073'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 14826
+  Rank: 14854
 proxy-groups:
 - name: PG-default
   type: fallback
