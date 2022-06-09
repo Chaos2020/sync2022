@@ -75,7 +75,7 @@ proxies:
   average: 24.49
   UpdateDay: '2022-06-09T15:31:29.702054'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 36584
+  Rank: 36664
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -176,7 +176,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 24694
+  Rank: 24784
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -230,7 +230,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 21797
+  Rank: 21892
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -260,7 +260,7 @@ proxies:
   average: 43.44
   UpdateDay: '2022-06-09T15:31:29.750162'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 19008
+  Rank: 19036
 - alterId: 0
   cipher: auto
   http-opts:
@@ -330,7 +330,7 @@ proxies:
   average: 382.97
   UpdateDay: '2022-06-09T15:31:30.921929'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 14740
+  Rank: 14779
 proxy-groups:
 - name: PG-default
   type: fallback
