@@ -203,7 +203,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 24562
+  Rank: 24606
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -218,7 +218,7 @@ proxies:
   average: 43.39
   UpdateDay: '2022-06-10T06:31:23.541402'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 23868
+  Rank: 23968
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -300,7 +300,7 @@ proxies:
   average: 39.66
   UpdateDay: '2022-06-10T06:31:23.503872'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 16144
+  Rank: 16234
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -315,7 +315,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 15869
+  Rank: 15719
 - name: api.tcpbbr.net:443@trojan
   server: api.tcpbbr.net
   port: 443
