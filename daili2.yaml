@@ -46,7 +46,7 @@ proxies:
   average: 7.4
   UpdateDay: '2022-06-10T18:33:49.219060'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 51311
+  Rank: 51381
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -90,7 +90,7 @@ proxies:
   average: 110.98
   UpdateDay: '2022-06-10T18:33:50.874166'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 35647
+  Rank: 35689
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -120,7 +120,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 28083
+  Rank: 27933
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -161,7 +161,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 26143
+  Rank: 25993
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -230,7 +230,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 22211
+  Rank: 22301
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
