@@ -60,7 +60,7 @@ proxies:
   average: 47.45
   UpdateDay: '2022-06-10T06:30:49.197715'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 45353
+  Rank: 45428
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   port: 21089
@@ -120,7 +120,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 28533
+  Rank: 28383
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -176,7 +176,7 @@ proxies:
   average: 72.36
   UpdateDay: '2022-06-10T09:30:46.219195'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 24982
+  Rank: 25032
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
