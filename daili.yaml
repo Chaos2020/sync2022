@@ -161,7 +161,7 @@ proxies:
   average: 45.32
   UpdateDay: '2022-06-10T09:30:46.186924'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26135
+  Rank: 26185
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -176,7 +176,7 @@ proxies:
   average: 72.36
   UpdateDay: '2022-06-10T09:30:46.219195'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 25032
+  Rank: 25082
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -203,7 +203,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 24606
+  Rank: 24652
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -219,18 +219,6 @@ proxies:
   UpdateDay: '2022-06-10T06:31:23.541402'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
   Rank: 23968
-- name: www.seetheworldjp.ga:443@trojan
-  password: f42e1a2e-e650-44f4-8d17-bcb68663da18
-  port: 443
-  server: www.seetheworldjp.ga
-  type: trojan
-  success_rate: 100.0
-  minimum: 50.99
-  maximum: 64.88
-  average: 57.86
-  UpdateDay: '2022-04-03T15:12:54.472724'
-  PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 22194
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -245,7 +233,19 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 22111
+  Rank: 22211
+- name: www.seetheworldjp.ga:443@trojan
+  password: f42e1a2e-e650-44f4-8d17-bcb68663da18
+  port: 443
+  server: www.seetheworldjp.ga
+  type: trojan
+  success_rate: 100.0
+  minimum: 50.99
+  maximum: 64.88
+  average: 57.86
+  UpdateDay: '2022-04-03T15:12:54.472724'
+  PFirstFoundDay: '2022-03-11T21:01:49.367854'
+  Rank: 22194
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -351,8 +351,8 @@ proxy-groups:
   - www.gomacau.gq:443@trojan
   - www.ggchk.ga:443@trojan
   - www.tokyo2023.ga:443@trojan
-  - www.seetheworldjp.ga:443@trojan
   - www.tokyo2021.ga:443@trojan
+  - www.seetheworldjp.ga:443@trojan
   - jp-tyo-04-tr.cdn.savoy.click:889@trojan
   - 35.153.162.49:27080@vmess
   - ssl.tcpbbr.net:443@trojan
