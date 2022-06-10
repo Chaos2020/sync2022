@@ -75,7 +75,7 @@ proxies:
   average: 44.19
   UpdateDay: '2022-06-10T21:30:35.016054'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 36913
+  Rank: 36998
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -148,7 +148,7 @@ proxies:
   average: 53.35
   UpdateDay: '2022-06-10T21:31:28.601190'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26190
+  Rank: 26275
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -176,7 +176,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 25100
+  Rank: 25195
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -245,7 +245,7 @@ proxies:
   average: 43.86
   UpdateDay: '2022-06-10T21:30:35.020566'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 19310
+  Rank: 19336
 - alterId: 0
   cipher: auto
   http-opts:
