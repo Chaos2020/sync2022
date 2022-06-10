@@ -46,7 +46,7 @@ proxies:
   average: 6.66
   UpdateDay: '2022-06-10T15:31:43.566724'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 51135
+  Rank: 51235
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -176,7 +176,7 @@ proxies:
   average: 118.08
   UpdateDay: '2022-06-10T15:31:09.398130'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 25085
+  Rank: 25135
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -191,7 +191,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 24900
+  Rank: 25000
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 1724.12
   UpdateDay: '2022-06-10T15:31:50.145553'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 14928
+  Rank: 14939
 proxy-groups:
 - name: PG-default
   type: fallback
