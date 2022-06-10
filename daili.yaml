@@ -46,7 +46,7 @@ proxies:
   average: 7.14
   UpdateDay: '2022-06-10T12:30:25.490951'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 51058
+  Rank: 51133
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -120,7 +120,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 28383
+  Rank: 28233
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -230,7 +230,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 22289
+  Rank: 22384
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -260,7 +260,7 @@ proxies:
   average: 44.13
   UpdateDay: '2022-06-10T12:31:19.596701'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 19297
+  Rank: 19307
 - alterId: 0
   cipher: auto
   http-opts:
@@ -330,7 +330,7 @@ proxies:
   average: 385.97
   UpdateDay: '2022-06-10T12:30:26.607572'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 14907
+  Rank: 14925
 proxy-groups:
 - name: PG-default
   type: fallback
