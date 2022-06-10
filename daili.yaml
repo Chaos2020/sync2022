@@ -105,7 +105,7 @@ proxies:
   average: 56.4
   UpdateDay: '2022-06-11T03:30:42.208449'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 29771
+  Rank: 29861
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -163,7 +163,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 25400
+  Rank: 25450
 - name: 101.91.121.247:50004@ss
   type: ss
   server: 101.91.121.247
@@ -286,7 +286,7 @@ proxies:
   average: 38.53
   UpdateDay: '2022-06-11T03:30:49.022717'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 16342
+  Rank: 16408
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
