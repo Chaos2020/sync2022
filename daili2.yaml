@@ -134,19 +134,6 @@ proxies:
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
   Rank: 27782
-- name: 101.91.121.247:50004@ss
-  type: ss
-  server: 101.91.121.247
-  port: 50004
-  cipher: aes-256-cfb
-  password: '4415934295'
-  success_rate: 100.0
-  minimum: 10.43
-  maximum: 11.12
-  average: 10.83
-  UpdateDay: '2022-05-10T15:30:34.077769'
-  PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 26293
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -162,6 +149,19 @@ proxies:
   UpdateDay: '2022-06-10T15:30:50.701278'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
   Rank: 26187
+- name: 101.91.121.247:50004@ss
+  type: ss
+  server: 101.91.121.247
+  port: 50004
+  cipher: aes-256-cfb
+  password: '4415934295'
+  success_rate: 100.0
+  minimum: 10.43
+  maximum: 11.12
+  average: 10.83
+  UpdateDay: '2022-05-10T15:30:34.077769'
+  PFirstFoundDay: '2022-03-11T23:29:04.876882'
+  Rank: 26143
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   type: trojan
@@ -176,7 +176,7 @@ proxies:
   average: 118.08
   UpdateDay: '2022-06-10T15:31:09.398130'
   PFirstFoundDay: '2022-03-14T21:36:22.498526'
-  Rank: 25135
+  Rank: 25183
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -191,7 +191,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 25000
+  Rank: 25100
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -345,8 +345,8 @@ proxy-groups:
   - 210.152.13.168:443@trojan
   - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
-  - 101.91.121.247:50004@ss
   - www.zx07.top:443@trojan
+  - 101.91.121.247:50004@ss
   - 2.58.242.43:443@trojan
   - www.gomacau.gq:443@trojan
   - www.ggchk.ga:443@trojan
