@@ -60,7 +60,7 @@ proxies:
   average: 1148.57
   UpdateDay: '2022-06-10T12:30:36.634608'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 45429
+  Rank: 45529
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   type: trojan
@@ -75,7 +75,7 @@ proxies:
   average: 38.37
   UpdateDay: '2022-06-10T12:30:25.530269'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 36761
+  Rank: 36856
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -120,7 +120,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 28233
+  Rank: 28083
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -146,7 +146,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 26593
+  Rank: 26443
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   type: trojan
@@ -230,7 +230,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 22384
+  Rank: 22484
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
