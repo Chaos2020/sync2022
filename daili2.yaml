@@ -75,7 +75,7 @@ proxies:
   average: 364.25
   UpdateDay: '2022-06-11T12:34:05.234204'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 37178
+  Rank: 37278
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -176,7 +176,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 25093
+  Rank: 24943
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -215,7 +215,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 22845
+  Rank: 22920
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -245,7 +245,7 @@ proxies:
   average: 48.7
   UpdateDay: '2022-06-11T12:34:04.255668'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 19491
+  Rank: 19521
 - alterId: 0
   cipher: auto
   http-opts:
