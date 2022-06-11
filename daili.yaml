@@ -46,7 +46,7 @@ proxies:
   average: 7.98
   UpdateDay: '2022-06-12T00:30:20.978765'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 51790
+  Rank: 51640
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -188,7 +188,7 @@ proxies:
   average: 10.83
   UpdateDay: '2022-05-10T15:30:34.077769'
   PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 24643
+  Rank: 24493
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -230,7 +230,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 22762
+  Rank: 22855
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
