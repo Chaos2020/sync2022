@@ -133,7 +133,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 27482
+  Rank: 27332
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -230,7 +230,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 22562
+  Rank: 22662
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
@@ -285,7 +285,7 @@ proxies:
   average: 415.44
   UpdateDay: '2022-06-11T15:30:17.035606'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 16413
+  Rank: 16491
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -300,7 +300,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 15269
+  Rank: 15119
 - name: api.tcpbbr.net:443@trojan
   server: api.tcpbbr.net
   port: 443
