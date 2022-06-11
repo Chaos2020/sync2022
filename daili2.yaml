@@ -119,21 +119,6 @@ proxies:
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
   Rank: 27332
-- name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
-  server: hk-hkg-shhk-001-tr.cdn.savoy.click
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 20089
-  password: SfobRIcergHchqBFzzua
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 11.99
-  maximum: 40.01
-  average: 23.81
-  UpdateDay: '2022-05-12T15:30:29.234708'
-  PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 26883
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -149,6 +134,21 @@ proxies:
   UpdateDay: '2022-06-12T00:30:21.128215'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
   Rank: 26790
+- name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
+  server: hk-hkg-shhk-001-tr.cdn.savoy.click
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 20089
+  password: SfobRIcergHchqBFzzua
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 11.99
+  maximum: 40.01
+  average: 23.81
+  UpdateDay: '2022-05-12T15:30:29.234708'
+  PFirstFoundDay: '2022-03-13T18:26:01.142104'
+  Rank: 26733
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -163,7 +163,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 25500
+  Rank: 25550
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 39.27
   UpdateDay: '2022-06-12T00:30:21.117897'
   PFirstFoundDay: '2022-03-13T18:24:14.435896'
-  Rank: 14075
+  Rank: 14175
 proxy-groups:
 - name: PG-default
   type: fallback
@@ -344,8 +344,8 @@ proxy-groups:
   - 106.180.225.69:1443@trojan
   - 210.152.13.168:443@trojan
   - fkgfw-prod.i.sxl.cn:443@ss
-  - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - www.zx07.top:443@trojan
+  - hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   - www.gomacau.gq:443@trojan
   - www.ggchk.ga:443@trojan
   - 101.91.121.247:50004@ss
