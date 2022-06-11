@@ -148,7 +148,7 @@ proxies:
   average: 46.1
   UpdateDay: '2022-06-11T06:30:17.809059'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26478
+  Rank: 26578
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -245,7 +245,7 @@ proxies:
   average: 43.03
   UpdateDay: '2022-06-11T06:30:17.824392'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 19389
+  Rank: 19439
 - alterId: 0
   cipher: auto
   http-opts:
@@ -315,7 +315,7 @@ proxies:
   average: 41.98
   UpdateDay: '2022-06-11T06:30:17.818661'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 14896
+  Rank: 14930
 - name: hk31.ssgnode.ga:443@trojan
   server: hk31.ssgnode.ga
   port: 443
