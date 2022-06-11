@@ -46,7 +46,7 @@ proxies:
   average: 7.98
   UpdateDay: '2022-06-12T00:30:20.978765'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 51640
+  Rank: 51490
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -60,7 +60,7 @@ proxies:
   average: 624.84
   UpdateDay: '2022-06-10T15:30:56.789059'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 46043
+  Rank: 45893
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   port: 21089
@@ -133,7 +133,7 @@ proxies:
   average: 41.62
   UpdateDay: '2022-06-12T03:31:03.779441'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26892
+  Rank: 26992
 - name: hk-hkg-shhk-001-tr.cdn.savoy.click:20089@trojan
   server: hk-hkg-shhk-001-tr.cdn.savoy.click
   type: trojan
@@ -163,7 +163,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 25600
+  Rank: 25650
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -215,7 +215,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 23215
+  Rank: 23308
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -285,7 +285,7 @@ proxies:
   average: 45.6
   UpdateDay: '2022-06-12T03:31:03.778617'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 16688
+  Rank: 16781
 - name: api.tcpbbr.net:443@trojan
   server: api.tcpbbr.net
   type: trojan
@@ -315,7 +315,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 14819
+  Rank: 14669
 - name: hk31.ssgnode.ga:443@trojan
   server: hk31.ssgnode.ga
   port: 443
