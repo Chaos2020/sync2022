@@ -148,7 +148,7 @@ proxies:
   average: 56.39
   UpdateDay: '2022-06-11T12:34:05.373483'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26680
+  Rank: 26720
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
