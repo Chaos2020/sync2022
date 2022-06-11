@@ -148,7 +148,7 @@ proxies:
   average: 57.35
   UpdateDay: '2022-06-11T21:30:16.588647'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 26723
+  Rank: 26789
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -203,7 +203,7 @@ proxies:
   average: 44.27
   UpdateDay: '2022-06-11T21:30:16.589721'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 24278
+  Rank: 24378
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -215,7 +215,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 23120
+  Rank: 23215
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -230,7 +230,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 22662
+  Rank: 22762
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   port: 889
