@@ -120,7 +120,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 27483
+  Rank: 27333
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -164,19 +164,6 @@ proxies:
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
   Rank: 25450
-- name: 101.91.121.247:50004@ss
-  type: ss
-  server: 101.91.121.247
-  port: 50004
-  cipher: aes-256-cfb
-  password: '4415934295'
-  success_rate: 100.0
-  minimum: 10.43
-  maximum: 11.12
-  average: 10.83
-  UpdateDay: '2022-05-10T15:30:34.077769'
-  PFirstFoundDay: '2022-03-11T23:29:04.876882'
-  Rank: 24943
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -189,6 +176,19 @@ proxies:
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
   Rank: 24826
+- name: 101.91.121.247:50004@ss
+  type: ss
+  server: 101.91.121.247
+  port: 50004
+  cipher: aes-256-cfb
+  password: '4415934295'
+  success_rate: 100.0
+  minimum: 10.43
+  maximum: 11.12
+  average: 10.83
+  UpdateDay: '2022-05-10T15:30:34.077769'
+  PFirstFoundDay: '2022-03-11T23:29:04.876882'
+  Rank: 24793
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -215,7 +215,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 22920
+  Rank: 23020
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -315,7 +315,7 @@ proxies:
   average: 44.21
   UpdateDay: '2022-06-11T15:30:15.957641'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 14986
+  Rank: 14992
 - name: hk31.ssgnode.ga:443@trojan
   server: hk31.ssgnode.ga
   port: 443
@@ -347,8 +347,8 @@ proxy-groups:
   - fkgfw-prod.i.sxl.cn:443@ss
   - www.zx07.top:443@trojan
   - www.gomacau.gq:443@trojan
-  - 101.91.121.247:50004@ss
   - www.ggchk.ga:443@trojan
+  - 101.91.121.247:50004@ss
   - www.tokyo2023.ga:443@trojan
   - www.seetheworldjp.ga:443@trojan
   - www.tokyo2021.ga:443@trojan
