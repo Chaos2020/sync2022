@@ -60,7 +60,7 @@ proxies:
   average: 624.84
   UpdateDay: '2022-06-10T15:30:56.789059'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 45843
+  Rank: 45943
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
   port: 21089
@@ -90,7 +90,7 @@ proxies:
   average: 98.12
   UpdateDay: '2022-06-11T18:30:36.569338'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 35795
+  Rank: 35835
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -133,7 +133,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 27183
+  Rank: 27033
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -245,7 +245,7 @@ proxies:
   average: 42.55
   UpdateDay: '2022-06-11T18:30:36.421201'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 19573
+  Rank: 19623
 - alterId: 0
   cipher: auto
   http-opts:
@@ -270,7 +270,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 17323
+  Rank: 17173
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
@@ -285,7 +285,7 @@ proxies:
   average: 53.84
   UpdateDay: '2022-06-11T18:30:36.483186'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 16572
+  Rank: 16621
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -315,7 +315,7 @@ proxies:
   average: 1194.18
   UpdateDay: '2022-06-11T18:30:39.534042'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 15010
+  Rank: 15052
 - name: hk31.ssgnode.ga:443@trojan
   server: hk31.ssgnode.ga
   port: 443
@@ -330,7 +330,7 @@ proxies:
   average: 42.8
   UpdateDay: '2022-06-11T18:30:36.450131'
   PFirstFoundDay: '2022-03-13T18:24:14.435896'
-  Rank: 13980
+  Rank: 14073
 proxy-groups:
 - name: PG-default
   type: fallback
