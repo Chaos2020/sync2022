@@ -46,7 +46,7 @@ proxies:
   average: 9.17
   UpdateDay: '2022-06-12T12:31:23.267626'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 51293
+  Rank: 51143
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -90,7 +90,7 @@ proxies:
   average: 81.06
   UpdateDay: '2022-06-12T18:31:21.719445'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 36093
+  Rank: 36137
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   type: trojan
@@ -120,7 +120,7 @@ proxies:
   average: 50.14
   UpdateDay: '2022-06-12T15:32:34.424373'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 27087
+  Rank: 27027
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -300,7 +300,7 @@ proxies:
   average: 394.45
   UpdateDay: '2022-06-12T18:31:22.660198'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 15018
+  Rank: 14963
 - name: zgao.shop:443@trojan
   server: zgao.shop
   port: 443
@@ -315,7 +315,7 @@ proxies:
   average: 77.06
   UpdateDay: '2022-03-19T00:36:45.832218'
   PFirstFoundDay: '2022-03-19T00:36:45.832222'
-  Rank: 14369
+  Rank: 14219
 - name: hk31.ssgnode.ga:443@trojan
   server: hk31.ssgnode.ga
   type: trojan
