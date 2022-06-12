@@ -175,7 +175,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 25026
+  Rank: 25076
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -260,7 +260,7 @@ proxies:
   average: 76.43
   UpdateDay: '2022-06-12T15:33:20.625918'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 16953
+  Rank: 16986
 - alterId: 0
   cipher: auto
   http-opts:
@@ -285,7 +285,7 @@ proxies:
   average: 236.71
   UpdateDay: '2022-03-21T00:35:16.437700'
   PFirstFoundDay: '2022-03-14T10:30:07.032005'
-  Rank: 16423
+  Rank: 16273
 - name: api.tcpbbr.net:443@trojan
   server: api.tcpbbr.net
   port: 443
