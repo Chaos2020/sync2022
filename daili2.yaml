@@ -148,7 +148,7 @@ proxies:
   average: 23.81
   UpdateDay: '2022-05-12T15:30:29.234708'
   PFirstFoundDay: '2022-03-13T18:26:01.142104'
-  Rank: 26133
+  Rank: 25983
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -175,7 +175,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 24926
+  Rank: 24976
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   type: trojan
@@ -215,7 +215,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 23408
+  Rank: 23503
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -260,7 +260,7 @@ proxies:
   average: 54.11
   UpdateDay: '2022-06-12T12:31:26.152100'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 16899
+  Rank: 16949
 - alterId: 0
   cipher: auto
   http-opts:
