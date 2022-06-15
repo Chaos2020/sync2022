@@ -47,7 +47,7 @@ proxies:
   average: 45.18
   UpdateDay: '2022-06-16T03:31:08.685782'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 44798
+  Rank: 44873
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -62,7 +62,7 @@ proxies:
   average: 62.13
   UpdateDay: '2022-06-16T03:31:10.262180'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 41235
+  Rank: 41335
 - name: 101.132.192.212:30003@ss
   server: 101.132.192.212
   port: 30003
@@ -76,7 +76,7 @@ proxies:
   average: 9.17
   UpdateDay: '2022-06-12T12:31:23.267626'
   PFirstFoundDay: '2022-03-13T18:26:52.937942'
-  Rank: 39443
+  Rank: 39293
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
   port: 443
@@ -91,7 +91,7 @@ proxies:
   average: 52.81
   UpdateDay: '2022-06-16T03:31:10.016358'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 35192
+  Rank: 35282
 - name: music.desperadoj.com:30003@ss
   server: music.desperadoj.com
   type: ss
@@ -105,7 +105,7 @@ proxies:
   average: 624.84
   UpdateDay: '2022-06-10T15:30:56.789059'
   PFirstFoundDay: '2022-03-14T10:17:16.436055'
-  Rank: 33924
+  Rank: 33774
 - name: www.zx07.top:443@trojan
   server: www.zx07.top
   port: 443
@@ -120,7 +120,7 @@ proxies:
   average: 41.4
   UpdateDay: '2022-06-16T03:31:09.761558'
   PFirstFoundDay: '2022-03-13T18:24:17.598383'
-  Rank: 33321
+  Rank: 33396
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -135,7 +135,7 @@ proxies:
   average: 46.19
   UpdateDay: '2022-06-16T03:31:10.496213'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 32496
+  Rank: 32596
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -147,7 +147,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 31362
+  Rank: 31462
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -162,7 +162,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 31110
+  Rank: 31210
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -177,7 +177,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 29658
+  Rank: 29708
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -189,7 +189,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 29122
+  Rank: 29172
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   type: trojan
@@ -204,7 +204,7 @@ proxies:
   average: 43.94
   UpdateDay: '2022-06-16T03:30:27.519977'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 23612
+  Rank: 23662
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
@@ -219,7 +219,7 @@ proxies:
   average: 42.51
   UpdateDay: '2022-06-16T03:31:09.710097'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 22574
+  Rank: 22674
 - name: hk31.ssgnode.ga:443@trojan
   server: hk31.ssgnode.ga
   port: 443
@@ -234,7 +234,7 @@ proxies:
   average: 39.45
   UpdateDay: '2022-06-16T03:31:09.725590'
   PFirstFoundDay: '2022-03-13T18:24:14.435896'
-  Rank: 19733
+  Rank: 19833
 - name: v.9051246.xyz:443@trojan
   server: v.9051246.xyz
   type: trojan
@@ -249,7 +249,7 @@ proxies:
   average: 164.66
   UpdateDay: '2022-06-16T03:30:53.222528'
   PFirstFoundDay: '2022-03-12T03:12:46.740408'
-  Rank: 17616
+  Rank: 17666
 - name: api.tcpbbr.net:443@trojan
   server: api.tcpbbr.net
   type: trojan
@@ -264,7 +264,7 @@ proxies:
   average: 375.7
   UpdateDay: '2022-06-16T03:30:28.461678'
   PFirstFoundDay: '2022-03-29T09:34:31.613124'
-  Rank: 17466
+  Rank: 17512
 - name: api.mjj-home.com:443@trojan
   server: api.mjj-home.com
   type: trojan
@@ -279,7 +279,7 @@ proxies:
   average: 148.75
   UpdateDay: '2022-06-16T03:31:03.806252'
   PFirstFoundDay: '2022-03-12T03:14:59.624344'
-  Rank: 16787
+  Rank: 16837
 - name: www.nyc3000.ga:443@trojan
   server: www.nyc3000.ga
   type: trojan
@@ -294,7 +294,7 @@ proxies:
   average: 144.58
   UpdateDay: '2022-03-22T06:32:56.744843'
   PFirstFoundDay: '2022-03-14T10:26:21.691651'
-  Rank: 16412
+  Rank: 16462
 - name: xioix.gq:443@trojan
   server: xioix.gq
   port: 443
@@ -309,7 +309,7 @@ proxies:
   average: 185.05
   UpdateDay: '2022-06-16T03:31:11.057005'
   PFirstFoundDay: '2022-03-12T03:14:49.943605'
-  Rank: 16007
+  Rank: 16057
 - name: fkgfw-prod.i.sxl.cn:443@ss
   server: fkgfw-prod.i.sxl.cn
   port: 443
@@ -322,7 +322,7 @@ proxies:
   average: 89.1
   UpdateDay: '2022-03-24T18:35:12.668742'
   PFirstFoundDay: '2022-03-19T12:33:06.851449'
-  Rank: 15032
+  Rank: 14882
 proxy-groups:
 - name: PG-default
   type: fallback
