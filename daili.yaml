@@ -35,34 +35,34 @@ dns:
 proxies:
 - name: 144.24.90.94:28443@trojan
   server: 144.24.90.94
-  port: 28443
   type: trojan
-  country: "\U0001F1EC\U0001F1E7 GB"
+  country: "\U0001F1EC\U0001F1E7GB"
+  port: 28443
   password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 74.42
-  maximum: 81.44
-  average: 77.16
-  UpdateDay: '2022-06-24T03:30:17.537516'
+  minimum: 75.17
+  maximum: 80.01
+  average: 78.18
+  UpdateDay: '2022-06-24T06:32:27.465110'
   PFirstFoundDay: '2022-06-09T06:35:05.617885'
-  Rank: 62434
+  Rank: 62535
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
-  port: 21089
   type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 21089
   password: SfobRIcergHchqBFzzua
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 16.54
-  maximum: 42.25
-  average: 33.38
-  UpdateDay: '2022-06-24T03:30:17.412443'
+  minimum: 39.06
+  maximum: 47.33
+  average: 44.05
+  UpdateDay: '2022-06-24T06:32:27.340298'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 43263
+  Rank: 43334
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -72,56 +72,56 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 58.99
-  maximum: 100.76
-  average: 80.65
-  UpdateDay: '2022-06-24T03:30:17.516306'
+  minimum: 59.31
+  maximum: 103.49
+  average: 74.64
+  UpdateDay: '2022-06-24T06:33:14.916841'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 39345
+  Rank: 39407
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
-  port: 443
   type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
+  country: "\U0001F1EF\U0001F1F5JP"
+  port: 443
   password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 48.26
-  maximum: 56.97
-  average: 52.53
-  UpdateDay: '2022-06-24T03:30:17.465565'
+  minimum: 51.05
+  maximum: 57.93
+  average: 53.39
+  UpdateDay: '2022-06-24T06:32:27.369551'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 32796
+  Rank: 32857
 - name: 14.29.124.168:24004@ss
   server: 14.29.124.168
-  port: 24004
   type: ss
-  country: "\U0001F1E8\U0001F1F3 CN"
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 24004
   password: QazEdcTgb159@$*
   cipher: aes-128-cfb
   success_rate: 100.0
-  minimum: 54.38
-  maximum: 57.61
-  average: 56.18
-  UpdateDay: '2022-06-24T03:30:17.445886'
+  minimum: 50.64
+  maximum: 59.3
+  average: 54.82
+  UpdateDay: '2022-06-24T06:32:27.381936'
   PFirstFoundDay: '2022-06-14T12:49:36.676974'
-  Rank: 28473
+  Rank: 28402
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
-  port: 443
   type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
+  country: "\U0001F1FA\U0001F1F8US"
+  port: 443
   password: 4f7dc540-d244-4e64-af21-4b5bb300add3
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 43.38
-  maximum: 47.64
-  average: 45.92
-  UpdateDay: '2022-06-24T03:30:17.455141'
+  minimum: 44.27
+  maximum: 52.92
+  average: 47.59
+  UpdateDay: '2022-06-24T06:33:03.341368'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 25035
+  Rank: 25106
 - name: 144.24.77.154:28443@trojan
   server: 144.24.77.154
   port: 28443
@@ -131,12 +131,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 70.36
-  maximum: 81.89
-  average: 78.0
-  UpdateDay: '2022-06-24T03:30:17.542395'
+  minimum: 69.24
+  maximum: 71.82
+  average: 70.29
+  UpdateDay: '2022-06-24T06:33:14.707168'
   PFirstFoundDay: '2022-06-09T06:35:05.620563'
-  Rank: 23489
+  Rank: 23546
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -148,7 +148,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 23253
+  Rank: 23303
 - name: 158.101.74.69:31939@vmess
   server: 158.101.74.69
   type: vmess
@@ -163,12 +163,12 @@ proxies:
   h2-opts: {}
   skip-cert-verify: true
   success_rate: 100.0
-  minimum: 38.15
-  maximum: 43.91
-  average: 41.95
-  UpdateDay: '2022-06-24T00:31:56.878751'
+  minimum: 37.95
+  maximum: 48.21
+  average: 41.56
+  UpdateDay: '2022-06-24T06:33:03.313821'
   PFirstFoundDay: '2022-06-19T03:31:49.842818'
-  Rank: 22222
+  Rank: 22200
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -183,22 +183,22 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 21477
+  Rank: 21527
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
-  port: 889
   type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: UiLPqefVfielqkDjEwBV
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 889
+  password: SfobRIcergHchqBFzzua
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 37.86
-  maximum: 49.79
-  average: 43.87
-  UpdateDay: '2022-06-24T03:30:17.410936'
+  minimum: 40.57
+  maximum: 51.55
+  average: 44.26
+  UpdateDay: '2022-06-24T06:32:27.315150'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 21109
+  Rank: 21140
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -210,7 +210,7 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 20996
+  Rank: 21046
 - name: hk31.ssgnode.ga:443@trojan
   server: hk31.ssgnode.ga
   port: 443
@@ -220,12 +220,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 41.27
-  maximum: 50.98
-  average: 44.53
-  UpdateDay: '2022-06-24T03:30:17.447437'
+  minimum: 44.48
+  maximum: 56.7
+  average: 50.32
+  UpdateDay: '2022-06-24T06:33:14.678861'
   PFirstFoundDay: '2022-03-13T18:24:14.435896'
-  Rank: 20831
+  Rank: 20823
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -240,7 +240,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 17692
+  Rank: 17192
 - name: 144.24.69.60:28443@trojan
   password: 71b785a5-2809-4d4c-ba85-4879f96e5c06
   port: 28443
@@ -255,7 +255,7 @@ proxies:
   average: 196.11
   UpdateDay: '2022-06-10T00:32:25.464039'
   PFirstFoundDay: '2022-06-09T06:35:05.615837'
-  Rank: 14907
+  Rank: 14977
 - name: jp06-vm5.entry.sdjighbiuodrfhgiuo.beauty:668@vmess
   server: jp06-vm5.entry.sdjighbiuodrfhgiuo.beauty
   port: 668
@@ -267,12 +267,12 @@ proxies:
   skip-cert-verify: true
   ws-path: /
   success_rate: 100.0
-  minimum: 43.7
-  maximum: 52.17
-  average: 48.94
-  UpdateDay: '2022-06-24T00:32:05.533959'
+  minimum: 50.61
+  maximum: 56.66
+  average: 53.53
+  UpdateDay: '2022-06-24T06:33:09.996313'
   PFirstFoundDay: '2022-06-18T21:18:21.090180'
-  Rank: 12946
+  Rank: 12647
 - name: 144.24.87.99:28443@trojan
   password: 71b785a5-2809-4d4c-ba85-4879f96e5c06
   port: 28443
@@ -287,22 +287,37 @@ proxies:
   average: 198.69
   UpdateDay: '2022-06-10T00:32:25.377292'
   PFirstFoundDay: '2022-06-09T06:35:05.619892'
-  Rank: 11216
+  Rank: 11316
 - name: cn2hn.sub-nthu.com:35002@trojan
   server: cn2hn.sub-nthu.com
   port: 35002
   type: trojan
   country: "\U0001F1E8\U0001F1F3 CN"
-  password: eda8a8e5-1076-4d7b-b1d0-5003a0350073
+  password: 87d5ee80-9dfa-4cb5-b644-062803bd0c19
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 5.85
-  maximum: 7.81
-  average: 6.8
-  UpdateDay: '2022-06-24T03:30:17.347328'
+  minimum: 5.97
+  maximum: 10.38
+  average: 7.76
+  UpdateDay: '2022-06-24T06:33:14.297105'
   PFirstFoundDay: '2022-06-06T12:34:15.588937'
-  Rank: 9615
+  Rank: 9637
+- name: shlt.sub-nthu.com:35001@trojan
+  server: shlt.sub-nthu.com
+  port: 35001
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: 87d5ee80-9dfa-4cb5-b644-062803bd0c19
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 5.91
+  maximum: 7.8
+  average: 6.64
+  UpdateDay: '2022-06-24T06:33:14.437878'
+  PFirstFoundDay: '2022-06-06T12:34:15.586958'
+  Rank: 7759
 - name: 54.199.133.35:28443@trojan
   password: 71b785a5-2809-4d4c-ba85-4879f96e5c06
   port: 28443
@@ -317,22 +332,7 @@ proxies:
   average: 34.26
   UpdateDay: '2022-06-10T00:32:16.860037'
   PFirstFoundDay: '2022-06-09T06:35:05.032107'
-  Rank: 8144
-- name: shlt.sub-nthu.com:35001@trojan
-  server: shlt.sub-nthu.com
-  port: 35001
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: 87d5ee80-9dfa-4cb5-b644-062803bd0c19
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 5.67
-  maximum: 7.08
-  average: 6.27
-  UpdateDay: '2022-06-24T03:30:17.343015'
-  PFirstFoundDay: '2022-06-06T12:34:15.586958'
-  Rank: 7688
+  Rank: 7644
 - name: shlt.sub-nthu.com:35007@trojan
   server: shlt.sub-nthu.com
   port: 35007
@@ -342,27 +342,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 6.95
-  maximum: 15.98
-  average: 10.26
-  UpdateDay: '2022-06-24T03:30:17.339523'
+  minimum: 5.89
+  maximum: 6.29
+  average: 6.09
+  UpdateDay: '2022-06-24T06:33:14.231109'
   PFirstFoundDay: '2022-06-06T12:34:15.584517'
-  Rank: 6401
+  Rank: 6472
 - name: 172.104.244.36:28443@trojan
   server: 172.104.244.36
-  port: 28443
   type: trojan
-  country: "\U0001F1E9\U0001F1EA DE"
+  country: "\U0001F1E9\U0001F1EADE"
+  port: 28443
   password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 232.7
-  maximum: 256.65
-  average: 243.37
-  UpdateDay: '2022-06-24T03:30:18.038295'
+  minimum: 227.13
+  maximum: 255.32
+  average: 239.72
+  UpdateDay: '2022-06-24T06:32:27.897479'
   PFirstFoundDay: '2022-06-09T06:35:01.632563'
-  Rank: 6123
+  Rank: 6148
 - name: ssl.tcpbbr.net:443@trojan
   server: ssl.tcpbbr.net
   port: 443
@@ -377,37 +377,37 @@ proxies:
   average: 404.7
   UpdateDay: '2022-06-22T18:31:58.796813'
   PFirstFoundDay: '2022-03-27T06:36:10.059372'
-  Rank: 6031
+  Rank: 5531
 - name: 172.104.251.52:28443@trojan
   server: 172.104.251.52
-  port: 28443
   type: trojan
-  country: "\U0001F1E9\U0001F1EA DE"
+  country: "\U0001F1E9\U0001F1EADE"
+  port: 28443
   password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 231.77
-  maximum: 245.75
-  average: 238.35
-  UpdateDay: '2022-06-24T03:30:18.022946'
+  minimum: 237.57
+  maximum: 245.4
+  average: 241.97
+  UpdateDay: '2022-06-24T06:32:27.905580'
   PFirstFoundDay: '2022-06-09T06:35:02.124796'
-  Rank: 5426
+  Rank: 5448
 - name: 184.168.127.50:443@trojan
   server: 184.168.127.50
   port: 443
   type: trojan
   country: "\U0001F1FA\U0001F1F8 US"
-  password: a3fa58b581353bb375d2ddad0f327938
+  password: 36ebef7d1b1d6205fd0c55f28800e674
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 233.66
-  maximum: 238.55
-  average: 235.61
-  UpdateDay: '2022-06-24T03:30:17.993274'
+  minimum: 234.07
+  maximum: 237.1
+  average: 235.15
+  UpdateDay: '2022-06-24T06:33:19.340640'
   PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5194
+  Rank: 5219
 - name: shlt.sub-nthu.com:35003@trojan
   server: shlt.sub-nthu.com
   port: 35003
@@ -417,12 +417,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 6.03
-  maximum: 7.74
-  average: 6.69
-  UpdateDay: '2022-06-24T03:30:17.338728'
+  minimum: 6.11
+  maximum: 181.66
+  average: 64.88
+  UpdateDay: '2022-06-24T06:33:14.165681'
   PFirstFoundDay: '2022-06-06T12:34:15.589417'
-  Rank: 4864
+  Rank: 4925
 - name: cn2hn.sub-nthu.com:35003@trojan
   server: cn2hn.sub-nthu.com
   port: 35003
@@ -432,12 +432,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 5.66
-  maximum: 7.03
-  average: 6.31
-  UpdateDay: '2022-06-24T03:30:17.340042'
+  minimum: 5.27
+  maximum: 9.98
+  average: 7.16
+  UpdateDay: '2022-06-24T06:33:14.150870'
   PFirstFoundDay: '2022-06-06T12:34:15.587806'
-  Rank: 3947
+  Rank: 4028
+- name: cn2hn.sub-nthu.com:35007@trojan
+  server: cn2hn.sub-nthu.com
+  port: 35007
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: eda8a8e5-1076-4d7b-b1d0-5003a0350073
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 5.67
+  maximum: 8.48
+  average: 6.9
+  UpdateDay: '2022-06-24T06:33:14.139639'
+  PFirstFoundDay: '2022-06-06T12:34:15.586610'
+  Rank: 3750
 - alterId: 32
   cipher: auto
   name: 51.81.223.19:443@vmess
@@ -448,27 +463,12 @@ proxies:
   type: vmess
   uuid: c0156451-4efb-45e2-84fc-8d315c4650db
   success_rate: 100.0
-  minimum: 326.57
-  maximum: 356.55
-  average: 343.16
-  UpdateDay: '2022-06-24T00:32:05.547685'
+  minimum: 247.76
+  maximum: 258.53
+  average: 251.44
+  UpdateDay: '2022-06-24T06:33:07.930425'
   PFirstFoundDay: '2022-06-12T12:31:20.524987'
-  Rank: 3690
-- name: cn2hn.sub-nthu.com:35007@trojan
-  server: cn2hn.sub-nthu.com
-  port: 35007
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: eda8a8e5-1076-4d7b-b1d0-5003a0350073
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 10.03
-  maximum: 15.13
-  average: 12.62
-  UpdateDay: '2022-06-24T00:32:07.750433'
-  PFirstFoundDay: '2022-06-06T12:34:15.586610'
-  Rank: 3689
+  Rank: 3603
 - name: s315.s2022.xyz:40385@trojan
   password: 5a0c130c-31f7-31dc-89c3-5c26865d56f9
   port: 40385
@@ -493,12 +493,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 39.01
-  maximum: 41.33
-  average: 39.91
-  UpdateDay: '2022-06-24T03:30:17.441101'
+  minimum: 39.65
+  maximum: 42.6
+  average: 41.38
+  UpdateDay: '2022-06-24T06:33:14.510340'
   PFirstFoundDay: '2022-06-06T12:34:15.595219'
-  Rank: 3286
+  Rank: 3277
 - name: s306.s2022.xyz:37117@trojan
   password: 5a0c130c-31f7-31dc-89c3-5c26865d56f9
   port: 37117
@@ -513,22 +513,22 @@ proxies:
   average: 74.91
   UpdateDay: '2022-04-28T03:32:03.566164'
   PFirstFoundDay: '2022-04-28T03:32:03.566169'
-  Rank: 3158
+  Rank: 3188
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
   type: trojan
   country: "\U0001F1F9\U0001F1FC TW"
-  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 72.13
-  maximum: 73.68
-  average: 72.91
-  UpdateDay: '2022-06-24T03:30:17.493565'
+  minimum: 69.59
+  maximum: 72.41
+  average: 70.66
+  UpdateDay: '2022-06-24T06:33:17.113392'
   PFirstFoundDay: '2022-06-10T18:33:52.557556'
-  Rank: 3117
+  Rank: 3169
 - name: jp.useanlo.cf:6523@trojan
   server: jp.useanlo.cf
   port: 6523
@@ -538,27 +538,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 37.9
-  maximum: 47.69
-  average: 44.04
-  UpdateDay: '2022-06-24T03:30:17.416906'
+  minimum: 40.54
+  maximum: 56.82
+  average: 50.15
+  UpdateDay: '2022-06-24T06:33:14.923181'
   PFirstFoundDay: '2022-05-11T00:30:59.458311'
-  Rank: 2757
+  Rank: 2809
 - name: 23.225.77.222:28443@trojan
   server: 23.225.77.222
-  port: 28443
   type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
+  country: "\U0001F1FA\U0001F1F8US"
+  port: 28443
   password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 155.94
-  maximum: 158.48
-  average: 157.01
-  UpdateDay: '2022-06-24T03:30:17.781603'
+  minimum: 156.86
+  maximum: 157.55
+  average: 157.17
+  UpdateDay: '2022-06-24T06:33:03.662739'
   PFirstFoundDay: '2022-06-09T06:35:05.756877'
-  Rank: 2686
+  Rank: 2706
 - name: v.9051246.xyz:443@trojan
   server: v.9051246.xyz
   port: 443
@@ -568,12 +568,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 183.06
-  maximum: 195.39
-  average: 187.6
-  UpdateDay: '2022-06-24T03:30:17.838395'
+  minimum: 176.95
+  maximum: 193.42
+  average: 184.52
+  UpdateDay: '2022-06-24T06:33:19.304762'
   PFirstFoundDay: '2022-03-12T03:12:46.740408'
-  Rank: 2548
+  Rank: 2580
 - name: s285.s2022.xyz:35798@trojan
   password: 5a0c130c-31f7-31dc-89c3-5c26865d56f9
   port: 35798
@@ -603,22 +603,22 @@ proxies:
   average: 79.43
   UpdateDay: '2022-04-28T03:32:03.579974'
   PFirstFoundDay: '2022-04-28T03:32:03.579979'
-  Rank: 1660
-- name: 23.225.77.192:28443@trojan
-  server: 23.225.77.192
-  port: 28443
+  Rank: 1680
+- name: jp.useanlo.cf:10203@trojan
+  server: jp.useanlo.cf
+  port: 10203
   type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
+  country: "\U0001F1F3\U0001F1F1 NL"
+  password: b64b0f9c-23df-3112-a790-d8aa068aa2fe
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 158.7
-  maximum: 158.87
-  average: 158.79
-  UpdateDay: '2022-06-24T03:30:17.749752'
-  PFirstFoundDay: '2022-06-09T06:35:05.764312'
-  Rank: 1640
+  minimum: 37.69
+  maximum: 47.63
+  average: 42.0
+  UpdateDay: '2022-06-24T06:33:14.916537'
+  PFirstFoundDay: '2022-05-11T00:30:59.448364'
+  Rank: 1627
 - name: www.nyc3000.ga:443@trojan
   server: www.nyc3000.ga
   type: trojan
@@ -633,22 +633,22 @@ proxies:
   average: 144.58
   UpdateDay: '2022-03-22T06:32:56.744843'
   PFirstFoundDay: '2022-03-14T10:26:21.691651'
-  Rank: 1589
-- name: jp.useanlo.cf:10203@trojan
-  server: jp.useanlo.cf
-  port: 10203
+  Rank: 1615
+- name: 23.225.77.192:28443@trojan
+  server: 23.225.77.192
+  port: 28443
   type: trojan
-  country: "\U0001F1F3\U0001F1F1 NL"
-  password: b64b0f9c-23df-3112-a790-d8aa068aa2fe
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 36.91
-  maximum: 53.87
-  average: 43.69
-  UpdateDay: '2022-06-24T03:30:17.417699'
-  PFirstFoundDay: '2022-05-11T00:30:59.448364'
-  Rank: 1555
+  minimum: 158.98
+  maximum: 163.34
+  average: 160.55
+  UpdateDay: '2022-06-24T06:33:19.116039'
+  PFirstFoundDay: '2022-06-09T06:35:05.764312'
+  Rank: 1502
 - name: api.mjj-home.com:443@trojan
   server: api.mjj-home.com
   port: 443
@@ -658,12 +658,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 147.96
-  maximum: 157.64
-  average: 151.42
-  UpdateDay: '2022-06-24T03:30:17.763021'
+  minimum: 147.87
+  maximum: 156.23
+  average: 151.6
+  UpdateDay: '2022-06-24T06:33:18.549311'
   PFirstFoundDay: '2022-03-12T03:14:59.624344'
-  Rank: 1421
+  Rank: 1449
 - name: cn2hn.sub-nthu.com:35000@trojan
   server: cn2hn.sub-nthu.com
   port: 35000
@@ -673,27 +673,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 6.61
-  maximum: 16.01
-  average: 10.39
-  UpdateDay: '2022-06-24T03:30:17.341639'
+  minimum: 6.02
+  maximum: 9.03
+  average: 7.45
+  UpdateDay: '2022-06-24T06:33:14.200905'
   PFirstFoundDay: '2022-06-06T12:34:15.593882'
-  Rank: 1154
-- name: shlt.sub-nthu.com:35000@trojan
-  server: shlt.sub-nthu.com
-  port: 35000
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: eda8a8e5-1076-4d7b-b1d0-5003a0350073
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 6.59
-  maximum: 15.79
-  average: 10.33
-  UpdateDay: '2022-06-24T03:30:17.340593'
-  PFirstFoundDay: '2022-06-06T12:34:15.585432'
-  Rank: 782
+  Rank: 1190
 - name: ygzyd.sub-nthu.com:35005@trojan
   server: ygzyd.sub-nthu.com
   port: 35005
@@ -703,27 +688,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 36.81
-  maximum: 53.25
-  average: 44.95
-  UpdateDay: '2022-06-24T03:30:17.419141'
+  minimum: 46.18
+  maximum: 48.35
+  average: 47.41
+  UpdateDay: '2022-06-24T06:33:13.723067'
   PFirstFoundDay: '2022-06-06T12:34:15.596496'
-  Rank: 745
-- name: 23.225.77.187:28443@trojan
-  server: 23.225.77.187
-  port: 28443
+  Rank: 826
+- name: shlt.sub-nthu.com:35000@trojan
+  server: shlt.sub-nthu.com
+  port: 35000
   type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: eda8a8e5-1076-4d7b-b1d0-5003a0350073
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 158.35
-  maximum: 161.8
-  average: 159.58
-  UpdateDay: '2022-06-24T03:30:17.752772'
-  PFirstFoundDay: '2022-06-09T06:35:05.749883'
-  Rank: 359
+  minimum: 5.73
+  maximum: 7.93
+  average: 6.51
+  UpdateDay: '2022-06-24T06:33:14.198399'
+  PFirstFoundDay: '2022-06-06T12:34:15.585432'
+  Rank: 813
 - name: 103.173.255.127:28443@trojan
   server: 103.173.255.127
   port: 28443
@@ -733,12 +718,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 211.3
-  maximum: 215.41
-  average: 213.35
-  UpdateDay: '2022-06-24T03:30:17.914724'
+  minimum: 212.04
+  maximum: 213.05
+  average: 212.67
+  UpdateDay: '2022-06-24T06:33:19.711287'
   PFirstFoundDay: '2022-06-09T06:34:57.527553'
-  Rank: 317
+  Rank: 343
+- name: 23.225.77.187:28443@trojan
+  server: 23.225.77.187
+  port: 28443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 158.94
+  maximum: 162.6
+  average: 160.27
+  UpdateDay: '2022-06-24T06:33:19.116323'
+  PFirstFoundDay: '2022-06-09T06:35:05.749883'
+  Rank: 286
 - name: xioix.gq:443@trojan
   server: xioix.gq
   port: 443
@@ -748,42 +748,508 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 166.08
-  maximum: 177.97
-  average: 170.97
-  UpdateDay: '2022-06-24T03:30:17.787519'
+  minimum: 166.69
+  maximum: 175.28
+  average: 169.83
+  UpdateDay: '2022-06-24T06:33:18.497600'
   PFirstFoundDay: '2022-03-12T03:14:49.943605'
-  Rank: 126
+  Rank: 169
 - name: 23.225.77.226:28443@trojan
   server: 23.225.77.226
-  port: 28443
   type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
+  country: "\U0001F1FA\U0001F1F8US"
+  port: 28443
   password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 154.67
-  maximum: 155.83
-  average: 155.4
-  UpdateDay: '2022-06-24T03:30:17.739933'
+  minimum: 155.07
+  maximum: 156.6
+  average: 155.65
+  UpdateDay: '2022-06-24T06:33:03.667472'
   PFirstFoundDay: '2022-06-09T06:35:05.753089'
-  Rank: 32
+  Rank: 68
 - name: s228.s2022.xyz:42406@trojan
   server: s228.s2022.xyz
-  port: 42406
   type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
+  country: "\U0001F1FA\U0001F1F8US"
+  port: 42406
   password: 3b43ffda-8b5c-3480-87f9-d4b069d7457a
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 39.0
-  maximum: 49.27
-  average: 43.44
-  UpdateDay: '2022-06-24T03:30:17.444340'
+  minimum: 44.07
+  maximum: 46.69
+  average: 45.75
+  UpdateDay: '2022-06-24T06:33:03.335003'
   PFirstFoundDay: '2022-05-04T03:30:50.148778'
-  Rank: 4
+  Rank: 55
+- name: 194.124.35.40:812@ss
+  server: 194.124.35.40
+  port: 812
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 186.9
+  maximum: 189.05
+  average: 187.97
+  UpdateDay: '2022-06-24T06:33:16.850688'
+  PFirstFoundDay: '2022-06-24T06:32:31.913486'
+  Rank: 2
+- name: 194.124.35.48:805@ss
+  server: 194.124.35.48
+  port: 805
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 188.03
+  maximum: 189.74
+  average: 189.09
+  UpdateDay: '2022-06-24T06:33:16.043182'
+  PFirstFoundDay: '2022-06-24T06:32:31.866819'
+  Rank: 2
+- name: 194.124.35.40:810@ss
+  server: 194.124.35.40
+  port: 810
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 188.24
+  maximum: 191.02
+  average: 189.53
+  UpdateDay: '2022-06-24T06:33:17.248371'
+  PFirstFoundDay: '2022-06-24T06:32:30.980379'
+  Rank: 2
+- name: 194.124.35.40:811@ss
+  server: 194.124.35.40
+  port: 811
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 188.13
+  maximum: 191.52
+  average: 189.76
+  UpdateDay: '2022-06-24T06:33:15.918335'
+  PFirstFoundDay: '2022-06-24T06:32:31.956669'
+  Rank: 2
+- name: 194.124.35.48:806@ss
+  server: 194.124.35.48
+  port: 806
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 187.58
+  maximum: 192.08
+  average: 190.18
+  UpdateDay: '2022-06-24T06:33:15.893734'
+  PFirstFoundDay: '2022-06-24T06:32:31.985650'
+  Rank: 2
+- name: 194.124.35.40:800@ss
+  server: 194.124.35.40
+  port: 800
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 188.84
+  maximum: 191.38
+  average: 190.18
+  UpdateDay: '2022-06-24T06:33:16.767103'
+  PFirstFoundDay: '2022-06-24T06:32:31.869571'
+  Rank: 2
+- name: 194.124.35.48:810@ss
+  server: 194.124.35.48
+  port: 810
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 190.08
+  maximum: 190.69
+  average: 190.3
+  UpdateDay: '2022-06-24T06:33:16.683729'
+  PFirstFoundDay: '2022-06-24T06:32:31.867701'
+  Rank: 2
+- name: 194.124.35.40:808@ss
+  server: 194.124.35.40
+  port: 808
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 190.42
+  maximum: 191.29
+  average: 190.89
+  UpdateDay: '2022-06-24T06:33:16.642129'
+  PFirstFoundDay: '2022-06-24T06:32:31.883813'
+  Rank: 2
+- name: 194.124.35.40:802@ss
+  server: 194.124.35.40
+  port: 802
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 190.53
+  maximum: 191.84
+  average: 191.35
+  UpdateDay: '2022-06-24T06:33:17.014052'
+  PFirstFoundDay: '2022-06-24T06:32:31.086010'
+  Rank: 2
+- name: 194.124.35.48:800@ss
+  server: 194.124.35.48
+  port: 800
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 188.08
+  maximum: 197.99
+  average: 193.48
+  UpdateDay: '2022-06-24T06:33:15.587622'
+  PFirstFoundDay: '2022-06-24T06:32:31.873860'
+  Rank: 2
+- name: 194.124.35.40:809@ss
+  server: 194.124.35.40
+  port: 809
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 191.52
+  maximum: 198.91
+  average: 195.44
+  UpdateDay: '2022-06-24T06:33:15.590275'
+  PFirstFoundDay: '2022-06-24T06:32:31.871617'
+  Rank: 2
+- name: 194.124.35.40:801@ss
+  server: 194.124.35.40
+  port: 801
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 189.16
+  maximum: 208.62
+  average: 196.35
+  UpdateDay: '2022-06-24T06:33:17.014356'
+  PFirstFoundDay: '2022-06-24T06:32:30.978931'
+  Rank: 2
+- alterId: 0
+  cipher: auto
+  name: 45.11.1.68:80@vmess
+  network: ws
+  port: 80
+  server: 45.11.1.68
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 04ea7f40-6d96-4cb3-b557-f33fc8893e49
+  ws-headers:
+    Host: 45.11.1.68
+  ws-path: /
+  success_rate: 100.0
+  minimum: 38.02
+  maximum: 44.91
+  average: 40.34
+  UpdateDay: '2022-06-24T06:33:07.075988'
+  PFirstFoundDay: '2022-06-24T06:33:07.075992'
+  Rank: 1
+- name: y155k1rt.ted1.xyz:26586@trojan
+  server: y155k1rt.ted1.xyz
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 26586
+  password: c142e1fd-df21-32b8-8f19-2f06940fa65d
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 41.35
+  maximum: 75.46
+  average: 52.85
+  UpdateDay: '2022-06-24T06:32:27.380833'
+  PFirstFoundDay: '2022-06-24T06:32:27.380839'
+  Rank: 1
+- name: 3.35.78.82:8443@trojan
+  password: 47015127366.wns.windows.com
+  port: 8443
+  server: 3.35.78.82
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  uuid: 706157c1-0e49-3f3d-1bc7-5835817c644d
+  success_rate: 100.0
+  minimum: 69.7
+  maximum: 72.43
+  average: 71.11
+  UpdateDay: '2022-06-24T06:33:10.290426'
+  PFirstFoundDay: '2022-06-24T06:33:10.290430'
+  Rank: 1
+- name: 194.124.35.48:802@ss
+  server: 194.124.35.48
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 802
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 187.89
+  maximum: 189.99
+  average: 188.94
+  UpdateDay: '2022-06-24T06:32:31.145819'
+  PFirstFoundDay: '2022-06-24T06:32:31.145824'
+  Rank: 1
+- name: 194.124.35.48:801@ss
+  server: 194.124.35.48
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 801
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 189.59
+  maximum: 190.39
+  average: 189.97
+  UpdateDay: '2022-06-24T06:32:30.978628'
+  PFirstFoundDay: '2022-06-24T06:32:30.978634'
+  Rank: 1
+- name: 194.124.35.48:808@ss
+  server: 194.124.35.48
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 808
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 189.8
+  maximum: 190.76
+  average: 190.12
+  UpdateDay: '2022-06-24T06:32:31.882617'
+  PFirstFoundDay: '2022-06-24T06:32:31.882622'
+  Rank: 1
+- name: 194.124.35.40:806@ss
+  server: 194.124.35.40
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 806
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 188.39
+  maximum: 191.23
+  average: 190.16
+  UpdateDay: '2022-06-24T06:32:31.875748'
+  PFirstFoundDay: '2022-06-24T06:32:31.875754'
+  Rank: 1
+- name: 194.124.35.48:803@ss
+  server: 194.124.35.48
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 803
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 189.26
+  maximum: 193.36
+  average: 190.84
+  UpdateDay: '2022-06-24T06:32:31.885552'
+  PFirstFoundDay: '2022-06-24T06:32:31.885557'
+  Rank: 1
+- name: 194.124.35.48:812@ss
+  server: 194.124.35.48
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 812
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 190.12
+  maximum: 192.37
+  average: 190.92
+  UpdateDay: '2022-06-24T06:32:31.033910'
+  PFirstFoundDay: '2022-06-24T06:32:31.033914'
+  Rank: 1
+- name: 194.124.35.40:805@ss
+  server: 194.124.35.40
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 805
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 189.63
+  maximum: 193.29
+  average: 191.04
+  UpdateDay: '2022-06-24T06:32:31.881805'
+  PFirstFoundDay: '2022-06-24T06:32:31.881829'
+  Rank: 1
+- name: 194.124.35.40:804@ss
+  server: 194.124.35.40
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 804
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 189.97
+  maximum: 193.19
+  average: 191.07
+  UpdateDay: '2022-06-24T06:32:31.887235'
+  PFirstFoundDay: '2022-06-24T06:32:31.887240'
+  Rank: 1
+- name: 194.124.35.48:809@ss
+  server: 194.124.35.48
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 809
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 188.45
+  maximum: 195.04
+  average: 191.5
+  UpdateDay: '2022-06-24T06:32:31.878656'
+  PFirstFoundDay: '2022-06-24T06:32:31.878662'
+  Rank: 1
+- name: 194.124.35.40:803@ss
+  server: 194.124.35.40
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 803
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 189.97
+  maximum: 192.84
+  average: 191.59
+  UpdateDay: '2022-06-24T06:32:31.885054'
+  PFirstFoundDay: '2022-06-24T06:32:31.885060'
+  Rank: 1
+- name: 194.124.35.48:804@ss
+  server: 194.124.35.48
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 804
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 189.02
+  maximum: 197.84
+  average: 192.3
+  UpdateDay: '2022-06-24T06:32:31.884104'
+  PFirstFoundDay: '2022-06-24T06:32:31.884110'
+  Rank: 1
+- alterId: 0
+  cipher: auto
+  name: 103.180.148.54:80@vmess
+  network: ws
+  port: 80
+  server: 103.180.148.54
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 3849e48e-f276-4612-a1b9-6f07d1ab1bad
+  ws-headers:
+    Host: 103.180.148.54
+  ws-path: /vpngiare.net
+  success_rate: 100.0
+  minimum: 201.31
+  maximum: 205.49
+  average: 203.78
+  UpdateDay: '2022-06-24T06:33:06.919215'
+  PFirstFoundDay: '2022-06-24T06:33:06.919220'
+  Rank: 1
+- name: 194.124.35.48:811@ss
+  server: 194.124.35.48
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 811
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 190.08
+  maximum: 608.43
+  average: 329.81
+  UpdateDay: '2022-06-24T06:32:31.682529'
+  PFirstFoundDay: '2022-06-24T06:32:31.682535'
+  Rank: 1
+- name: l125j4pt.ted1.xyz:26534@trojan
+  server: l125j4pt.ted1.xyz
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 26534
+  password: c142e1fd-df21-32b8-8f19-2f06940fa65d
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 49.9
+  maximum: 1048.89
+  average: 383.1
+  UpdateDay: '2022-06-24T06:32:28.338595'
+  PFirstFoundDay: '2022-06-24T06:32:28.338600'
+  Rank: 1
+- name: 194.124.35.40:807@ss
+  server: 194.124.35.40
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 807
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 189.5
+  maximum: 1195.57
+  average: 525.39
+  UpdateDay: '2022-06-24T06:32:31.976278'
+  PFirstFoundDay: '2022-06-24T06:32:31.976283'
+  Rank: 1
+- name: 194.124.35.48:807@ss
+  server: 194.124.35.48
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 807
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 190.77
+  maximum: 1200.54
+  average: 527.92
+  UpdateDay: '2022-06-24T06:32:31.980346'
+  PFirstFoundDay: '2022-06-24T06:32:31.980350'
+  Rank: 1
+- name: 3.35.48.120:28443@trojan
+  server: 3.35.48.120
+  port: 28443
+  type: trojan
+  country: "\U0001F1F0\U0001F1F7 KR"
+  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 61.33
+  maximum: 62.18
+  average: 61.68
+  UpdateDay: '2022-06-24T06:33:14.887586'
+  PFirstFoundDay: '2022-06-19T21:31:38.992849'
+  Rank: -24
 - name: 165.154.243.157:48004@trojan
   password: 8e4f0531-7a90-4429-b048-67a19c010c40
   port: 48004
@@ -798,7 +1264,7 @@ proxies:
   average: 420.82
   UpdateDay: '2022-06-10T00:32:15.130795'
   PFirstFoundDay: '2022-06-09T06:35:00.765184'
-  Rank: -81
+  Rank: -57
 - name: ru1.nodegz.top:443@trojan
   password: af87b819-4880-38f6-91ba-87a3393af9a1
   port: 443
@@ -814,37 +1280,22 @@ proxies:
   average: 496.4
   UpdateDay: '2022-06-24T00:32:02.710936'
   PFirstFoundDay: '2022-06-24T00:32:02.710940'
-  Rank: -86
-- name: 3.35.48.120:28443@trojan
-  server: 3.35.48.120
-  port: 28443
-  type: trojan
-  country: "\U0001F1F0\U0001F1F7 KR"
-  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 62.25
-  maximum: 67.61
-  average: 64.79
-  UpdateDay: '2022-06-24T03:30:17.502691'
-  PFirstFoundDay: '2022-06-19T21:31:38.992849'
-  Rank: -106
+  Rank: -129
 - name: ca-trojan.bonds.id:443@trojan
   server: ca-trojan.bonds.id
   port: 443
   type: trojan
   country: "\U0001F1E8\U0001F1E6 CA"
-  password: bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTac5a3ef0-b4ab-11eb-b65e-1239d0255272
+  password: YWVzLlWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 241.83
-  maximum: 249.91
-  average: 244.66
-  UpdateDay: '2022-06-24T03:30:18.009182'
+  minimum: 240.04
+  maximum: 241.41
+  average: 240.64
+  UpdateDay: '2022-06-24T06:33:11.910215'
   PFirstFoundDay: '2022-06-23T21:32:30.232506'
-  Rank: -268
+  Rank: -239
 - name: 103.173.255.234:28443@trojan
   server: 103.173.255.234
   port: 28443
@@ -854,12 +1305,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 213.96
-  maximum: 215.76
-  average: 214.63
-  UpdateDay: '2022-06-24T03:30:17.920393'
+  minimum: 214.69
+  maximum: 215.38
+  average: 214.95
+  UpdateDay: '2022-06-24T06:33:19.710981'
   PFirstFoundDay: '2022-06-09T06:34:58.547161'
-  Rank: -310
+  Rank: -290
 - name: s244.s2022.xyz:30300@trojan
   server: s244.s2022.xyz
   port: 30300
@@ -869,12 +1320,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 44.58
-  maximum: 56.49
-  average: 49.0
-  UpdateDay: '2022-06-24T03:30:17.438561'
+  minimum: 46.0
+  maximum: 52.35
+  average: 48.66
+  UpdateDay: '2022-06-24T06:33:16.884284'
   PFirstFoundDay: '2022-06-06T12:33:39.561751'
-  Rank: -464
+  Rank: -452
 - name: s69.s2022.xyz:30661@trojan
   server: s69.s2022.xyz
   port: 30661
@@ -884,26 +1335,26 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 37.93
-  maximum: 47.75
-  average: 42.08
-  UpdateDay: '2022-06-24T03:30:17.444692'
+  minimum: 37.86
+  maximum: 40.17
+  average: 39.36
+  UpdateDay: '2022-06-24T06:33:16.879429'
   PFirstFoundDay: '2022-06-06T12:33:39.560828'
-  Rank: -575
+  Rank: -503
 - name: 194.124.35.42:803@ss
   server: 194.124.35.42
-  type: ss
-  country: "\U0001F1F8\U0001F1ECSG"
   port: 803
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
   password: G!yBwPWH3Vao
   cipher: chacha20-ietf-poly1305
   success_rate: 100.0
-  minimum: 216.86
-  maximum: 228.77
-  average: 223.24
-  UpdateDay: '2022-06-24T00:31:39.450315'
+  minimum: 201.92
+  maximum: 202.97
+  average: 202.48
+  UpdateDay: '2022-06-24T06:33:16.358177'
   PFirstFoundDay: '2022-06-24T00:31:39.450321'
-  Rank: -638
+  Rank: -619
 - name: 194.124.35.42:806@ss
   server: 194.124.35.42
   type: ss
@@ -912,12 +1363,27 @@ proxies:
   password: G!yBwPWH3Vao
   cipher: chacha20-ietf-poly1305
   success_rate: 100.0
-  minimum: 208.18
-  maximum: 219.1
-  average: 214.09
-  UpdateDay: '2022-06-24T00:31:36.243990'
+  minimum: 202.05
+  maximum: 203.01
+  average: 202.49
+  UpdateDay: '2022-06-24T06:32:31.022114'
   PFirstFoundDay: '2022-06-24T00:31:36.243995'
-  Rank: -641
+  Rank: -622
+- name: hkcn2.doubledou.win:4588@trojan
+  server: hkcn2.doubledou.win
+  type: trojan
+  country: "\U0001F1ED\U0001F1F0HK"
+  port: 4588
+  password: 3c91d857-2d40-39b9-81c0-f6adde8037ff
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 55.64
+  maximum: 89.34
+  average: 68.08
+  UpdateDay: '2022-06-24T06:32:27.401271'
+  PFirstFoundDay: '2022-04-26T10:26:38.837450'
+  Rank: -642
 - name: 194.124.35.42:805@ss
   server: 194.124.35.42
   type: ss
@@ -926,55 +1392,26 @@ proxies:
   password: G!yBwPWH3Vao
   cipher: chacha20-ietf-poly1305
   success_rate: 100.0
-  minimum: 214.78
-  maximum: 220.26
-  average: 217.69
-  UpdateDay: '2022-06-24T00:31:39.420664'
+  minimum: 202.32
+  maximum: 203.64
+  average: 203.08
+  UpdateDay: '2022-06-24T06:32:31.887835'
   PFirstFoundDay: '2022-06-24T00:31:39.420668'
-  Rank: -701
-- name: hkcn2.doubledou.win:4588@trojan
-  server: hkcn2.doubledou.win
-  port: 4588
-  type: trojan
-  country: "\U0001F1ED\U0001F1F0 HK"
-  password: 3c91d857-2d40-39b9-81c0-f6adde8037ff
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 59.84
-  maximum: 64.93
-  average: 62.08
-  UpdateDay: '2022-06-24T03:30:17.499154'
-  PFirstFoundDay: '2022-04-26T10:26:38.837450'
-  Rank: -706
+  Rank: -677
 - name: 194.124.35.42:804@ss
   server: 194.124.35.42
-  type: ss
-  country: "\U0001F1F8\U0001F1ECSG"
   port: 804
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 200.44
-  maximum: 224.57
-  average: 215.98
-  UpdateDay: '2022-06-24T00:31:39.502978'
-  PFirstFoundDay: '2022-06-24T00:31:39.502982'
-  Rank: -727
-- name: 194.124.35.42:800@ss
-  server: 194.124.35.42
   type: ss
-  country: "\U0001F1F8\U0001F1ECSG"
-  port: 800
+  country: "\U0001F1F8\U0001F1EC SG"
   password: G!yBwPWH3Vao
   cipher: chacha20-ietf-poly1305
   success_rate: 100.0
-  minimum: 195.75
-  maximum: 240.95
-  average: 221.85
-  UpdateDay: '2022-06-24T00:31:39.624191'
-  PFirstFoundDay: '2022-06-24T00:31:39.624196'
-  Rank: -747
+  minimum: 200.88
+  maximum: 1216.46
+  average: 540.0
+  UpdateDay: '2022-06-24T06:33:16.677695'
+  PFirstFoundDay: '2022-06-24T00:31:39.502982'
+  Rank: -734
 - name: 194.124.35.42:802@ss
   server: 194.124.35.42
   type: ss
@@ -983,12 +1420,26 @@ proxies:
   password: G!yBwPWH3Vao
   cipher: chacha20-ietf-poly1305
   success_rate: 100.0
-  minimum: 218.18
-  maximum: 228.52
-  average: 222.55
-  UpdateDay: '2022-06-24T00:31:39.572910'
+  minimum: 202.79
+  maximum: 203.4
+  average: 203.01
+  UpdateDay: '2022-06-24T06:32:31.010405'
   PFirstFoundDay: '2022-06-24T00:31:39.572914'
-  Rank: -765
+  Rank: -744
+- name: 194.124.35.42:801@ss
+  server: 194.124.35.42
+  port: 801
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 201.91
+  maximum: 204.84
+  average: 203.26
+  UpdateDay: '2022-06-24T06:33:16.974213'
+  PFirstFoundDay: '2022-06-24T00:31:36.242958'
+  Rank: -757
 - name: 194.124.35.42:810@ss
   server: 194.124.35.42
   type: ss
@@ -997,12 +1448,26 @@ proxies:
   password: G!yBwPWH3Vao
   cipher: chacha20-ietf-poly1305
   success_rate: 100.0
-  minimum: 205.74
-  maximum: 239.77
-  average: 221.52
-  UpdateDay: '2022-06-24T00:31:36.323525'
+  minimum: 202.76
+  maximum: 204.98
+  average: 203.6
+  UpdateDay: '2022-06-24T06:32:34.598559'
   PFirstFoundDay: '2022-06-24T00:31:36.323529'
-  Rank: -766
+  Rank: -770
+- name: 194.124.35.42:800@ss
+  server: 194.124.35.42
+  type: ss
+  country: "\U0001F1F8\U0001F1ECSG"
+  port: 800
+  password: G!yBwPWH3Vao
+  cipher: chacha20-ietf-poly1305
+  success_rate: 100.0
+  minimum: 201.19
+  maximum: 203.76
+  average: 202.45
+  UpdateDay: '2022-06-24T06:32:31.888384'
+  PFirstFoundDay: '2022-06-24T00:31:39.624196'
+  Rank: -778
 - name: 194.124.35.42:808@ss
   server: 194.124.35.42
   type: ss
@@ -1011,12 +1476,12 @@ proxies:
   password: G!yBwPWH3Vao
   cipher: chacha20-ietf-poly1305
   success_rate: 100.0
-  minimum: 201.77
-  maximum: 220.09
-  average: 212.54
-  UpdateDay: '2022-06-24T00:31:36.260804'
+  minimum: 201.02
+  maximum: 204.02
+  average: 202.35
+  UpdateDay: '2022-06-24T06:32:31.886154'
   PFirstFoundDay: '2022-06-24T00:31:36.260809'
-  Rank: -780
+  Rank: -809
 - name: 198.211.45.184:4586@trojan
   password: ed407b65-ffdf-3eff-87c8-01f094d355e7
   port: 4586
@@ -1032,480 +1497,21 @@ proxies:
   average: 197.78
   UpdateDay: '2022-05-05T15:30:29.568756'
   PFirstFoundDay: '2022-05-04T15:30:30.952826'
-  Rank: -785
-- name: 194.124.35.42:801@ss
-  server: 194.124.35.42
-  type: ss
-  country: "\U0001F1F8\U0001F1ECSG"
-  port: 801
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 207.69
-  maximum: 218.53
-  average: 213.68
-  UpdateDay: '2022-06-24T00:31:36.242953'
-  PFirstFoundDay: '2022-06-24T00:31:36.242958'
-  Rank: -803
+  Rank: -826
 - name: 194.124.35.42:807@ss
   server: 194.124.35.42
-  type: ss
-  country: "\U0001F1F8\U0001F1ECSG"
   port: 807
+  type: ss
+  country: "\U0001F1F8\U0001F1EC SG"
   password: G!yBwPWH3Vao
   cipher: chacha20-ietf-poly1305
   success_rate: 100.0
-  minimum: 201.01
-  maximum: 223.44
-  average: 213.33
-  UpdateDay: '2022-06-24T00:31:36.255628'
+  minimum: 201.41
+  maximum: 204.83
+  average: 203.15
+  UpdateDay: '2022-06-24T06:33:15.874425'
   PFirstFoundDay: '2022-06-24T00:31:36.255632'
-  Rank: -838
-- name: 194.124.35.42:812@ss
-  server: 194.124.35.42
-  type: ss
-  country: "\U0001F1F8\U0001F1ECSG"
-  port: 812
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 205.85
-  maximum: 238.28
-  average: 221.15
-  UpdateDay: '2022-06-24T00:31:36.324248'
-  PFirstFoundDay: '2022-06-24T00:31:36.324252'
-  Rank: -866
-- name: 167.88.61.2:811@ss
-  server: 167.88.61.2
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 811
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 193.97
-  maximum: 217.33
-  average: 208.0
-  UpdateDay: '2022-06-24T00:31:54.305387'
-  PFirstFoundDay: '2022-06-24T00:31:54.305391'
-  Rank: -888
-- cipher: aes-256-cfb
-  name: 146.56.96.252:2333@ssr
-  obfs: tls1.2_ticket_auth
-  obfs-param: ''
-  password: doub.io
-  port: 2333
-  protocol: auth_aes128_sha1
-  protocol-param: ''
-  server: 146.56.96.252
-  type: ssr
-  udp: true
-  uuid: ac796c83-5747-a841-1ad6-45a6efbb3521
-  success_rate: 100.0
-  minimum: 67.98
-  maximum: 573.39
-  average: 239.31
-  UpdateDay: '2022-06-11T18:30:35.415699'
-  PFirstFoundDay: '2022-06-07T12:32:26.483273'
-  Rank: -961
-- name: 194.124.35.42:809@ss
-  server: 194.124.35.42
-  type: ss
-  country: "\U0001F1F8\U0001F1ECSG"
-  port: 809
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 207.85
-  maximum: 219.81
-  average: 214.26
-  UpdateDay: '2022-06-24T00:31:36.243188'
-  PFirstFoundDay: '2022-06-24T00:31:36.243193'
-  Rank: -1009
-- name: 194.124.35.42:811@ss
-  server: 194.124.35.42
-  type: ss
-  country: "\U0001F1F8\U0001F1ECSG"
-  port: 811
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 204.89
-  maximum: 227.85
-  average: 215.7
-  UpdateDay: '2022-06-24T00:31:36.248453'
-  PFirstFoundDay: '2022-06-24T00:31:36.248457'
-  Rank: -1018
-- name: 38.91.100.207:5004@ss
-  server: 38.91.100.207
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 5004
-  password: g5MeD6Ft3CWlJId
-  cipher: aes-256-gcm
-  success_rate: 100.0
-  minimum: 232.63
-  maximum: 234.13
-  average: 233.22
-  UpdateDay: '2022-06-24T00:31:54.384932'
-  PFirstFoundDay: '2022-06-24T00:31:54.384936'
-  Rank: -1031
-- name: 134.195.196.231:8008@ss
-  server: 134.195.196.231
-  type: ss
-  country: "\U0001F3C1ZZ"
-  port: 8008
-  password: XKFKl2rULjIp74
-  cipher: aes-256-gcm
-  success_rate: 100.0
-  minimum: 238.58
-  maximum: 240.36
-  average: 239.74
-  UpdateDay: '2022-06-24T00:31:58.091207'
-  PFirstFoundDay: '2022-06-24T00:31:58.091211'
-  Rank: -1039
-- name: 45.66.134.176:802@ss
-  server: 45.66.134.176
-  type: ss
-  country: "\U0001F1EF\U0001F1F5JP"
-  port: 802
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 39.05
-  maximum: 45.12
-  average: 42.97
-  UpdateDay: '2022-06-24T00:31:35.729372'
-  PFirstFoundDay: '2022-06-24T00:31:35.729377'
-  Rank: -1049
-- name: 136.175.179.6:6529@trojan
-  password: ed407b65-ffdf-3eff-87c8-01f094d355e7
-  port: 6529
-  server: 136.175.179.6
-  skip-cert-verify: true
-  sni: loslite.doubledou.win
-  type: trojan
-  udp: true
-  uuid: f0e45fb3-148b-7e36-e013-3d5b418ca024
-  success_rate: 100.0
-  minimum: 153.73
-  maximum: 176.99
-  average: 169.07
-  UpdateDay: '2022-05-05T15:30:29.474338'
-  PFirstFoundDay: '2022-05-04T15:30:30.879028'
-  Rank: -1059
-- alterId: 32
-  cipher: auto
-  name: 51.81.223.29:443@vmess
-  port: 443
-  server: 51.81.223.29
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: c0156451-4efb-45e2-84fc-8d315c4650db
-  success_rate: 100.0
-  minimum: 297.15
-  maximum: 372.52
-  average: 326.19
-  UpdateDay: '2022-06-24T00:32:05.547408'
-  PFirstFoundDay: '2022-06-12T12:31:20.847271'
-  Rank: -1060
-- name: 196.247.59.154:800@ss
-  server: 196.247.59.154
-  type: ss
-  country: "\U0001F1E8\U0001F1E6CA"
-  port: 800
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 241.94
-  maximum: 243.92
-  average: 242.75
-  UpdateDay: '2022-06-24T00:31:36.273965'
-  PFirstFoundDay: '2022-06-24T00:31:36.273970'
-  Rank: -1076
-- name: 162.251.61.221:800@ss
-  server: 162.251.61.221
-  port: 800
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: G!yBwPWH3Vao
-  success_rate: 100.0
-  minimum: 221.74
-  maximum: 225.5
-  average: 223.88
-  UpdateDay: '2022-06-24T00:32:01.234129'
-  PFirstFoundDay: '2022-06-24T00:31:54.361949'
-  Rank: -1080
-- name: 92.223.65.31:29092@ss
-  server: 92.223.65.31
-  type: ss
-  country: "\U0001F1F7\U0001F1FARU"
-  port: 29092
-  password: ypoq8dJBPqst
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 193.27
-  maximum: 237.73
-  average: 217.99
-  UpdateDay: '2022-06-24T00:31:36.304502'
-  PFirstFoundDay: '2022-06-24T00:31:36.304506'
-  Rank: -1084
-- name: 185.162.125.91:50004@ss
-  server: 185.162.125.91
-  type: ss
-  country: "\U0001F1EE\U0001F1F1IL"
-  port: 50004
-  password: '4415934295'
-  cipher: aes-256-cfb
-  success_rate: 100.0
-  minimum: 296.03
-  maximum: 318.3
-  average: 310.63
-  UpdateDay: '2022-06-24T00:31:36.587481'
-  PFirstFoundDay: '2022-06-24T00:31:36.587485'
-  Rank: -1084
-- alterId: '32'
-  cipher: auto
-  name: 51.81.223.35:443@vmess
-  network: tcp
-  port: '443'
-  server: 51.81.223.35
-  type: vmess
-  uuid: c0156451-4efb-45e2-84fc-8d315c4650db
-  success_rate: 100.0
-  minimum: 249.06
-  maximum: 283.65
-  average: 266.55
-  UpdateDay: '2022-06-24T00:32:05.949729'
-  PFirstFoundDay: '2022-06-23T18:34:02.531044'
-  Rank: -1093
-- name: 45.66.134.176:809@ss
-  server: 45.66.134.176
-  type: ss
-  country: "\U0001F1EF\U0001F1F5JP"
-  port: 809
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 38.05
-  maximum: 45.82
-  average: 40.73
-  UpdateDay: '2022-06-24T00:31:35.727345'
-  PFirstFoundDay: '2022-06-24T00:31:35.727349'
-  Rank: -1109
-- name: 167.88.61.2:805@ss
-  server: 167.88.61.2
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 805
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 193.99
-  maximum: 216.7
-  average: 207.62
-  UpdateDay: '2022-06-24T00:31:54.305669'
-  PFirstFoundDay: '2022-06-24T00:31:54.305674'
-  Rank: -1136
-- name: 45.66.134.176:806@ss
-  server: 45.66.134.176
-  type: ss
-  country: "\U0001F1EF\U0001F1F5JP"
-  port: 806
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 38.75
-  maximum: 48.63
-  average: 43.63
-  UpdateDay: '2022-06-24T00:31:35.797733'
-  PFirstFoundDay: '2022-06-24T00:31:35.797738'
-  Rank: -1139
-- name: 38.86.135.27:5003@ss
-  server: 38.86.135.27
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 5003
-  password: g5MeD6Ft3CWlJId
-  cipher: aes-256-gcm
-  success_rate: 100.0
-  minimum: 252.18
-  maximum: 259.79
-  average: 256.36
-  UpdateDay: '2022-06-24T00:31:54.452526'
-  PFirstFoundDay: '2022-06-24T00:31:54.452532'
-  Rank: -1142
-- name: 155.248.172.87:28443@trojan
-  password: c94c922d-c833-48c1-b9d1-81c8b7b826f9
-  port: 28443
-  server: 155.248.172.87
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-  uuid: 02a74bc2-e159-18b0-7a6b-6a3da4c882d9
-  success_rate: 100.0
-  minimum: 37.87
-  maximum: 40.47
-  average: 38.81
-  UpdateDay: '2022-06-07T18:32:28.816513'
-  PFirstFoundDay: '2022-06-06T12:34:15.612169'
-  Rank: -1144
-- alterId: '32'
-  cipher: auto
-  name: 51.81.223.25:443@vmess
-  network: tcp
-  port: '443'
-  server: 51.81.223.25
-  type: vmess
-  uuid: c0156451-4efb-45e2-84fc-8d315c4650db
-  success_rate: 100.0
-  minimum: 265.87
-  maximum: 307.96
-  average: 287.84
-  UpdateDay: '2022-06-24T00:32:05.632198'
-  PFirstFoundDay: '2022-06-23T18:34:02.420218'
-  Rank: -1154
-- name: 134.195.196.231:6379@ss
-  server: 134.195.196.231
-  type: ss
-  country: "\U0001F3C1ZZ"
-  port: 6379
-  password: zDNVedRFPQexG9v
-  cipher: aes-256-gcm
-  success_rate: 100.0
-  minimum: 238.01
-  maximum: 239.51
-  average: 238.55
-  UpdateDay: '2022-06-24T00:31:58.071013'
-  PFirstFoundDay: '2022-06-24T00:31:58.071018'
-  Rank: -1176
-- name: 51.79.223.96:50004@ss
-  server: 51.79.223.96
-  type: ss
-  country: "\U0001F1E8\U0001F1E6CA"
-  port: 50004
-  password: '4415934295'
-  cipher: aes-256-cfb
-  success_rate: 100.0
-  minimum: 114.85
-  maximum: 303.61
-  average: 179.75
-  UpdateDay: '2022-06-24T00:31:36.199096'
-  PFirstFoundDay: '2022-06-24T00:31:36.199100'
-  Rank: -1178
-- name: 38.121.43.71:443@ss
-  server: 38.121.43.71
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 443
-  password: pKEW8JPByTVTLtM
-  cipher: aes-256-gcm
-  success_rate: 100.0
-  minimum: 227.62
-  maximum: 235.8
-  average: 231.11
-  UpdateDay: '2022-06-23T21:32:34.029283'
-  PFirstFoundDay: '2022-06-23T18:33:44.341912'
-  Rank: -1178
-- name: 93.186.201.158:810@ss
-  server: 93.186.201.158
-  type: ss
-  country: "\U0001F1E9\U0001F1EADE"
-  port: 810
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 293.84
-  maximum: 321.16
-  average: 311.57
-  UpdateDay: '2022-06-24T00:31:36.601869'
-  PFirstFoundDay: '2022-06-24T00:31:36.601873'
-  Rank: -1179
-- name: 38.68.134.196:810@ss
-  server: 38.68.134.196
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 810
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 219.69
-  maximum: 228.57
-  average: 223.82
-  UpdateDay: '2022-06-24T00:31:54.343168'
-  PFirstFoundDay: '2022-06-24T00:31:54.343174'
-  Rank: -1183
-- name: 38.86.135.27:8009@ss
-  server: 38.86.135.27
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 8009
-  password: XKFKl2rULjIp74
-  cipher: aes-256-gcm
-  success_rate: 100.0
-  minimum: 251.8
-  maximum: 257.58
-  average: 254.63
-  UpdateDay: '2022-06-24T00:31:41.084394'
-  PFirstFoundDay: '2022-06-24T00:31:41.084399'
-  Rank: -1183
-- name: 142.202.48.58:7307@ss
-  server: 142.202.48.58
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 7307
-  password: FoOiGlkAA9yPEGP
-  cipher: aes-256-gcm
-  success_rate: 100.0
-  minimum: 248.2
-  maximum: 248.76
-  average: 248.52
-  UpdateDay: '2022-06-24T00:31:54.445989'
-  PFirstFoundDay: '2022-06-24T00:31:54.445993'
-  Rank: -1186
-- name: 142.202.48.74:7307@ss
-  server: 142.202.48.74
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 7307
-  password: FoOiGlkAA9yPEGP
-  cipher: aes-256-gcm
-  success_rate: 100.0
-  minimum: 248.93
-  maximum: 250.46
-  average: 249.57
-  UpdateDay: '2022-06-24T00:31:43.867708'
-  PFirstFoundDay: '2022-06-24T00:31:43.867713'
-  Rank: -1186
-- name: 38.86.135.27:8118@ss
-  server: 38.86.135.27
-  type: ss
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 8118
-  password: cdBIDV42DCwnfIN
-  cipher: aes-256-gcm
-  success_rate: 100.0
-  minimum: 253.43
-  maximum: 259.25
-  average: 255.97
-  UpdateDay: '2022-06-24T00:31:41.067693'
-  PFirstFoundDay: '2022-06-24T00:31:41.067697'
-  Rank: -1187
-- name: 217.138.193.10:809@ss
-  server: 217.138.193.10
-  type: ss
-  country: "\U0001F1E6\U0001F1EAAE"
-  port: 809
-  password: G!yBwPWH3Vao
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 418.23
-  maximum: 446.41
-  average: 435.63
-  UpdateDay: '2022-06-24T00:31:36.852092'
-  PFirstFoundDay: '2022-06-24T00:31:36.852113'
-  Rank: -1193
+  Rank: -851
 proxy-groups:
 - name: PG-default
   type: fallback
@@ -1531,8 +1537,8 @@ proxy-groups:
   - jp06-vm5.entry.sdjighbiuodrfhgiuo.beauty:668@vmess
   - 144.24.87.99:28443@trojan
   - cn2hn.sub-nthu.com:35002@trojan
-  - 54.199.133.35:28443@trojan
   - shlt.sub-nthu.com:35001@trojan
+  - 54.199.133.35:28443@trojan
   - shlt.sub-nthu.com:35007@trojan
   - 172.104.244.36:28443@trojan
   - ssl.tcpbbr.net:443@trojan
@@ -1540,8 +1546,8 @@ proxy-groups:
   - 184.168.127.50:443@trojan
   - shlt.sub-nthu.com:35003@trojan
   - cn2hn.sub-nthu.com:35003@trojan
-  - 51.81.223.19:443@vmess
   - cn2hn.sub-nthu.com:35007@trojan
+  - 51.81.223.19:443@vmess
   - s315.s2022.xyz:40385@trojan
   - ygzyd.sub-nthu.com:35003@trojan
   - s306.s2022.xyz:37117@trojan
@@ -1551,68 +1557,68 @@ proxy-groups:
   - v.9051246.xyz:443@trojan
   - s285.s2022.xyz:35798@trojan
   - s296.s2022.xyz:41716@trojan
-  - 23.225.77.192:28443@trojan
-  - www.nyc3000.ga:443@trojan
   - jp.useanlo.cf:10203@trojan
+  - www.nyc3000.ga:443@trojan
+  - 23.225.77.192:28443@trojan
   - api.mjj-home.com:443@trojan
   - cn2hn.sub-nthu.com:35000@trojan
-  - shlt.sub-nthu.com:35000@trojan
   - ygzyd.sub-nthu.com:35005@trojan
-  - 23.225.77.187:28443@trojan
+  - shlt.sub-nthu.com:35000@trojan
   - 103.173.255.127:28443@trojan
+  - 23.225.77.187:28443@trojan
   - xioix.gq:443@trojan
   - 23.225.77.226:28443@trojan
   - s228.s2022.xyz:42406@trojan
+  - 194.124.35.40:812@ss
+  - 194.124.35.48:805@ss
+  - 194.124.35.40:810@ss
+  - 194.124.35.40:811@ss
+  - 194.124.35.48:806@ss
+  - 194.124.35.40:800@ss
+  - 194.124.35.48:810@ss
+  - 194.124.35.40:808@ss
+  - 194.124.35.40:802@ss
+  - 194.124.35.48:800@ss
+  - 194.124.35.40:809@ss
+  - 194.124.35.40:801@ss
+  - 45.11.1.68:80@vmess
+  - y155k1rt.ted1.xyz:26586@trojan
+  - 3.35.78.82:8443@trojan
+  - 194.124.35.48:802@ss
+  - 194.124.35.48:801@ss
+  - 194.124.35.48:808@ss
+  - 194.124.35.40:806@ss
+  - 194.124.35.48:803@ss
+  - 194.124.35.48:812@ss
+  - 194.124.35.40:805@ss
+  - 194.124.35.40:804@ss
+  - 194.124.35.48:809@ss
+  - 194.124.35.40:803@ss
+  - 194.124.35.48:804@ss
+  - 103.180.148.54:80@vmess
+  - 194.124.35.48:811@ss
+  - l125j4pt.ted1.xyz:26534@trojan
+  - 194.124.35.40:807@ss
+  - 194.124.35.48:807@ss
+  - 3.35.48.120:28443@trojan
   - 165.154.243.157:48004@trojan
   - ru1.nodegz.top:443@trojan
-  - 3.35.48.120:28443@trojan
   - ca-trojan.bonds.id:443@trojan
   - 103.173.255.234:28443@trojan
   - s244.s2022.xyz:30300@trojan
   - s69.s2022.xyz:30661@trojan
   - 194.124.35.42:803@ss
   - 194.124.35.42:806@ss
-  - 194.124.35.42:805@ss
   - hkcn2.doubledou.win:4588@trojan
+  - 194.124.35.42:805@ss
   - 194.124.35.42:804@ss
-  - 194.124.35.42:800@ss
   - 194.124.35.42:802@ss
+  - 194.124.35.42:801@ss
   - 194.124.35.42:810@ss
+  - 194.124.35.42:800@ss
   - 194.124.35.42:808@ss
   - 198.211.45.184:4586@trojan
-  - 194.124.35.42:801@ss
   - 194.124.35.42:807@ss
-  - 194.124.35.42:812@ss
-  - 167.88.61.2:811@ss
-  - 146.56.96.252:2333@ssr
-  - 194.124.35.42:809@ss
-  - 194.124.35.42:811@ss
-  - 38.91.100.207:5004@ss
-  - 134.195.196.231:8008@ss
-  - 45.66.134.176:802@ss
-  - 136.175.179.6:6529@trojan
-  - 51.81.223.29:443@vmess
-  - 196.247.59.154:800@ss
-  - 162.251.61.221:800@ss
-  - 92.223.65.31:29092@ss
-  - 185.162.125.91:50004@ss
-  - 51.81.223.35:443@vmess
-  - 45.66.134.176:809@ss
-  - 167.88.61.2:805@ss
-  - 45.66.134.176:806@ss
-  - 38.86.135.27:5003@ss
-  - 155.248.172.87:28443@trojan
-  - 51.81.223.25:443@vmess
-  - 134.195.196.231:6379@ss
-  - 51.79.223.96:50004@ss
-  - 38.121.43.71:443@ss
-  - 93.186.201.158:810@ss
-  - 38.68.134.196:810@ss
-  - 38.86.135.27:8009@ss
-  - 142.202.48.58:7307@ss
-  - 142.202.48.74:7307@ss
-  - 38.86.135.27:8118@ss
-  - 217.138.193.10:809@ss
   tolerance: 250
 rule-providers:
   anting:
