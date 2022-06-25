@@ -42,27 +42,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 68.97
-  maximum: 81.72
-  average: 75.72
-  UpdateDay: '2022-06-25T18:35:59.398573'
+  minimum: 79.53
+  maximum: 82.38
+  average: 80.62
+  UpdateDay: '2022-06-25T21:32:06.854980'
   PFirstFoundDay: '2022-06-09T06:35:05.617885'
-  Rank: 65129
+  Rank: 65206
 - name: hk-hkg-sh-hk-02-tr.cdn.savoy.click:21089@trojan
   server: hk-hkg-sh-hk-02-tr.cdn.savoy.click
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3CN"
   port: 21089
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
   password: SfobRIcergHchqBFzzua
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 41.39
-  maximum: 48.3
-  average: 44.27
-  UpdateDay: '2022-06-25T18:35:10.885105'
+  minimum: 9.65
+  maximum: 40.52
+  average: 22.71
+  UpdateDay: '2022-06-25T21:32:04.844726'
   PFirstFoundDay: '2022-03-13T18:25:41.957547'
-  Rank: 47025
+  Rank: 47067
 - name: 106.180.225.69:1443@trojan
   server: 106.180.225.69
   port: 1443
@@ -72,27 +72,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 73.3
-  maximum: 1099.33
-  average: 423.92
-  UpdateDay: '2022-06-25T18:36:01.048669'
+  minimum: 90.12
+  maximum: 1093.59
+  average: 434.79
+  UpdateDay: '2022-06-25T21:32:08.047749'
   PFirstFoundDay: '2022-03-11T23:05:01.549769'
-  Rank: 41874
+  Rank: 41924
 - name: 210.152.13.168:443@trojan
   server: 210.152.13.168
-  port: 443
   type: trojan
-  country: "\U0001F1EF\U0001F1F5 JP"
+  country: "\U0001F1EF\U0001F1F5JP"
+  port: 443
   password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 103.81
-  maximum: 116.74
-  average: 111.89
-  UpdateDay: '2022-06-25T18:35:59.975276'
+  minimum: 100.17
+  maximum: 106.58
+  average: 103.14
+  UpdateDay: '2022-06-25T21:31:20.014067'
   PFirstFoundDay: '2022-03-21T15:31:51.301146'
-  Rank: 35109
+  Rank: 35145
 - name: 144.24.77.154:28443@trojan
   server: 144.24.77.154
   type: trojan
@@ -102,12 +102,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 69.6
-  maximum: 79.37
-  average: 73.45
-  UpdateDay: '2022-06-25T18:35:10.928552'
+  minimum: 68.23
+  maximum: 70.25
+  average: 68.99
+  UpdateDay: '2022-06-25T21:31:19.903950'
   PFirstFoundDay: '2022-06-09T06:35:05.620563'
-  Rank: 26205
+  Rank: 26261
 - name: www.tokyo2023.ga:443@trojan
   server: www.tokyo2023.ga
   port: 443
@@ -117,12 +117,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 44.33
-  maximum: 50.04
-  average: 46.81
-  UpdateDay: '2022-06-25T18:36:01.978880'
+  minimum: 37.44
+  maximum: 38.8
+  average: 38.29
+  UpdateDay: '2022-06-25T21:32:09.954180'
   PFirstFoundDay: '2022-03-14T10:29:40.191643'
-  Rank: 24712
+  Rank: 24584
 - name: www.seetheworldjp.ga:443@trojan
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -134,7 +134,7 @@ proxies:
   average: 57.86
   UpdateDay: '2022-04-03T15:12:54.472724'
   PFirstFoundDay: '2022-03-11T21:01:49.367854'
-  Rank: 23685
+  Rank: 23615
 - name: jp-tyo-04-tr.cdn.savoy.click:889@trojan
   server: jp-tyo-04-tr.cdn.savoy.click
   type: trojan
@@ -144,26 +144,26 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 41.88
-  maximum: 51.92
-  average: 45.87
-  UpdateDay: '2022-06-25T18:35:10.898099'
+  minimum: 38.64
+  maximum: 127.31
+  average: 68.93
+  UpdateDay: '2022-06-25T21:31:19.874421'
   PFirstFoundDay: '2022-03-20T12:36:16.101193'
-  Rank: 22229
+  Rank: 22258
 - name: 14.29.124.168:24004@ss
   server: 14.29.124.168
-  type: ss
-  country: "\U0001F1E8\U0001F1F3CN"
   port: 24004
+  type: ss
+  country: "\U0001F1E8\U0001F1F3 CN"
   password: QazEdcTgb159@$*
   cipher: aes-128-cfb
   success_rate: 100.0
-  minimum: 55.26
-  maximum: 59.09
-  average: 56.62
-  UpdateDay: '2022-06-25T18:35:10.876278'
+  minimum: 52.18
+  maximum: 56.2
+  average: 54.26
+  UpdateDay: '2022-06-25T21:32:03.997467'
   PFirstFoundDay: '2022-06-14T12:49:36.676974'
-  Rank: 21616
+  Rank: 21419
 - name: www.gomacau.gq:443@trojan
   server: www.gomacau.gq
   type: trojan
@@ -178,7 +178,7 @@ proxies:
   average: 61.31
   UpdateDay: '2022-04-02T15:35:09.325376'
   PFirstFoundDay: '2022-03-14T10:28:14.224892'
-  Rank: 21214
+  Rank: 21285
 - name: www.ggchk.ga:443@trojan
   password: 4ae98d26-b209-4dd5-8e91-bf11d4f10801
   port: 443
@@ -190,22 +190,22 @@ proxies:
   average: 56.06
   UpdateDay: '2022-04-03T15:12:54.456600'
   PFirstFoundDay: '2022-03-11T21:04:39.779731'
-  Rank: 20659
+  Rank: 20609
 - name: hk31.ssgnode.ga:443@trojan
   server: hk31.ssgnode.ga
-  type: trojan
-  country: "\U0001F1ED\U0001F1F0HK"
   port: 443
+  type: trojan
+  country: "\U0001F1ED\U0001F1F0 HK"
   password: 41742_920c8caa
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 71.43
-  maximum: 79.58
-  average: 76.13
-  UpdateDay: '2022-06-25T18:35:10.930612'
+  minimum: 72.82
+  maximum: 77.4
+  average: 75.7
+  UpdateDay: '2022-06-25T21:32:06.851193'
   PFirstFoundDay: '2022-03-13T18:24:14.435896'
-  Rank: 19391
+  Rank: 19203
 - name: 144.24.69.60:28443@trojan
   password: 71b785a5-2809-4d4c-ba85-4879f96e5c06
   port: 28443
@@ -220,7 +220,7 @@ proxies:
   average: 196.11
   UpdateDay: '2022-06-10T00:32:25.464039'
   PFirstFoundDay: '2022-06-09T06:35:05.615837'
-  Rank: 17471
+  Rank: 17531
 - name: 144.24.87.99:28443@trojan
   password: 71b785a5-2809-4d4c-ba85-4879f96e5c06
   port: 28443
@@ -235,7 +235,7 @@ proxies:
   average: 198.69
   UpdateDay: '2022-06-10T00:32:25.377292'
   PFirstFoundDay: '2022-06-09T06:35:05.619892'
-  Rank: 14040
+  Rank: 14100
 - name: 158.101.74.69:31939@vmess
   server: 158.101.74.69
   type: vmess
@@ -250,27 +250,27 @@ proxies:
   h2-opts: {}
   skip-cert-verify: true
   success_rate: 100.0
-  minimum: 43.32
-  maximum: 48.51
-  average: 46.6
-  UpdateDay: '2022-06-25T18:35:46.838526'
+  minimum: 36.94
+  maximum: 49.05
+  average: 44.86
+  UpdateDay: '2022-06-25T21:31:55.615357'
   PFirstFoundDay: '2022-06-19T03:31:49.842818'
-  Rank: 13213
+  Rank: 12819
 - name: cn2hn.sub-nthu.com:35002@trojan
   server: cn2hn.sub-nthu.com
   port: 35002
   type: trojan
   country: "\U0001F1E8\U0001F1F3 CN"
-  password: 87d5ee80-9dfa-4cb5-b644-062803bd0c19
+  password: eda8a8e5-1076-4d7b-b1d0-5003a0350073
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 7.6
-  maximum: 12.99
-  average: 10.54
-  UpdateDay: '2022-06-25T18:35:58.587945'
+  minimum: 7.99
+  maximum: 18.38
+  average: 13.42
+  UpdateDay: '2022-06-25T21:32:03.929922'
   PFirstFoundDay: '2022-06-06T12:34:15.588937'
-  Rank: 11309
+  Rank: 11350
 - name: shlt.sub-nthu.com:35001@trojan
   server: shlt.sub-nthu.com
   port: 35001
@@ -280,12 +280,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 6.57
-  maximum: 8.36
-  average: 7.45
-  UpdateDay: '2022-06-25T18:35:58.729264'
+  minimum: 6.5
+  maximum: 14.15
+  average: 11.38
+  UpdateDay: '2022-06-25T21:32:06.306060'
   PFirstFoundDay: '2022-06-06T12:34:15.586958'
-  Rank: 10215
+  Rank: 10276
 - name: shlt.sub-nthu.com:35007@trojan
   server: shlt.sub-nthu.com
   port: 35007
@@ -295,12 +295,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 5.99
-  maximum: 11.0
-  average: 8.03
-  UpdateDay: '2022-06-25T18:35:58.183250'
+  minimum: 6.94
+  maximum: 13.17
+  average: 9.12
+  UpdateDay: '2022-06-25T21:32:04.953173'
   PFirstFoundDay: '2022-06-06T12:34:15.584517'
-  Rank: 9091
+  Rank: 9152
 - name: shlt.sub-nthu.com:35003@trojan
   server: shlt.sub-nthu.com
   port: 35003
@@ -310,12 +310,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 6.36
-  maximum: 22.68
-  average: 16.05
-  UpdateDay: '2022-06-25T18:35:58.088464'
+  minimum: 6.74
+  maximum: 24.38
+  average: 14.41
+  UpdateDay: '2022-06-25T21:32:04.605806'
   PFirstFoundDay: '2022-06-06T12:34:15.589417'
-  Rank: 7573
+  Rank: 7632
 - name: 172.104.244.36:28443@trojan
   server: 172.104.244.36
   port: 28443
@@ -325,12 +325,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 233.92
-  maximum: 240.46
-  average: 236.87
-  UpdateDay: '2022-06-25T18:35:59.598911'
+  minimum: 239.66
+  maximum: 254.22
+  average: 247.87
+  UpdateDay: '2022-06-25T21:32:07.335771'
   PFirstFoundDay: '2022-06-09T06:35:01.632563'
-  Rank: 6700
+  Rank: 6720
 - name: cn2hn.sub-nthu.com:35003@trojan
   server: cn2hn.sub-nthu.com
   port: 35003
@@ -345,7 +345,7 @@ proxies:
   average: 10.73
   UpdateDay: '2022-06-25T18:35:58.124069'
   PFirstFoundDay: '2022-06-06T12:34:15.587806'
-  Rank: 6448
+  Rank: 6499
 - name: 172.104.251.52:28443@trojan
   server: 172.104.251.52
   port: 28443
@@ -355,12 +355,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 231.33
-  maximum: 236.71
-  average: 234.57
-  UpdateDay: '2022-06-25T18:35:59.592039'
+  minimum: 237.8
+  maximum: 253.06
+  average: 244.03
+  UpdateDay: '2022-06-25T21:32:07.311740'
   PFirstFoundDay: '2022-06-09T06:35:02.124796'
-  Rank: 6131
+  Rank: 6148
 - name: 2.58.242.43:443@trojan
   server: 2.58.242.43
   port: 443
@@ -370,27 +370,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 72.19
-  maximum: 73.21
-  average: 72.82
-  UpdateDay: '2022-06-25T18:36:00.565202'
+  minimum: 71.43
+  maximum: 91.58
+  average: 79.91
+  UpdateDay: '2022-06-25T21:32:07.869915'
   PFirstFoundDay: '2022-06-10T18:33:52.557556'
-  Rank: 5542
-- name: 184.168.127.50:443@trojan
-  server: 184.168.127.50
-  port: 443
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: 28d98f761aca9d636f44db62544628eb
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 246.8
-  maximum: 1276.29
-  average: 590.41
-  UpdateDay: '2022-06-25T18:36:03.528376'
-  PFirstFoundDay: '2022-03-16T00:32:54.032660'
-  Rank: 5535
+  Rank: 5574
 - name: cn2hn.sub-nthu.com:35007@trojan
   server: cn2hn.sub-nthu.com
   port: 35007
@@ -405,7 +390,22 @@ proxies:
   average: 9.38
   UpdateDay: '2022-06-25T18:35:58.088833'
   PFirstFoundDay: '2022-06-06T12:34:15.586610'
-  Rank: 5514
+  Rank: 5559
+- name: 184.168.127.50:443@trojan
+  server: 184.168.127.50
+  port: 443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: a3fa58b581353bb375d2ddad0f327938
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 249.13
+  maximum: 1255.67
+  average: 587.4
+  UpdateDay: '2022-06-25T21:32:11.817190'
+  PFirstFoundDay: '2022-03-16T00:32:54.032660'
+  Rank: 5549
 - name: ygzyd.sub-nthu.com:35003@trojan
   server: ygzyd.sub-nthu.com
   port: 35003
@@ -415,12 +415,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 39.89
-  maximum: 43.03
-  average: 41.31
-  UpdateDay: '2022-06-25T18:35:58.730174'
+  minimum: 38.27
+  maximum: 45.11
+  average: 41.76
+  UpdateDay: '2022-06-25T21:32:06.306335'
   PFirstFoundDay: '2022-06-06T12:34:15.595219'
-  Rank: 5264
+  Rank: 5305
 - name: www.tokyo2021.ga:443@trojan
   server: www.tokyo2021.ga
   type: trojan
@@ -435,7 +435,7 @@ proxies:
   average: 41.15
   UpdateDay: '2022-04-02T15:34:32.686241'
   PFirstFoundDay: '2022-03-14T10:28:27.050426'
-  Rank: 3845
+  Rank: 3545
 - name: jp.useanlo.cf:6523@trojan
   server: jp.useanlo.cf
   type: trojan
@@ -445,12 +445,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 40.34
-  maximum: 52.41
-  average: 46.33
-  UpdateDay: '2022-06-25T18:35:10.892463'
+  minimum: 39.09
+  maximum: 48.9
+  average: 44.11
+  UpdateDay: '2022-06-25T21:31:19.908158'
   PFirstFoundDay: '2022-05-11T00:30:59.458311'
-  Rank: 3274
+  Rank: 3155
 - name: 23.225.77.222:28443@trojan
   server: 23.225.77.222
   port: 28443
@@ -460,12 +460,42 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 156.44
-  maximum: 159.43
-  average: 157.47
-  UpdateDay: '2022-06-25T18:36:02.467028'
+  minimum: 156.54
+  maximum: 160.79
+  average: 157.98
+  UpdateDay: '2022-06-25T21:32:10.364329'
   PFirstFoundDay: '2022-06-09T06:35:05.756877'
-  Rank: 3073
+  Rank: 3105
+- name: ygzyd.sub-nthu.com:35005@trojan
+  server: ygzyd.sub-nthu.com
+  port: 35005
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: 87d5ee80-9dfa-4cb5-b644-062803bd0c19
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 38.48
+  maximum: 41.75
+  average: 39.6
+  UpdateDay: '2022-06-25T21:32:06.508972'
+  PFirstFoundDay: '2022-06-06T12:34:15.596496'
+  Rank: 2868
+- name: 3.35.48.120:28443@trojan
+  server: 3.35.48.120
+  port: 28443
+  type: trojan
+  country: "\U0001F1F0\U0001F1F7 KR"
+  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 61.91
+  maximum: 66.65
+  average: 64.41
+  UpdateDay: '2022-06-25T21:32:06.977178'
+  PFirstFoundDay: '2022-06-19T21:31:38.992849'
+  Rank: 2728
 - name: s315.s2022.xyz:40385@trojan
   password: 5a0c130c-31f7-31dc-89c3-5c26865d56f9
   port: 40385
@@ -480,37 +510,7 @@ proxies:
   average: 74.73
   UpdateDay: '2022-04-28T03:32:03.567971'
   PFirstFoundDay: '2022-04-28T03:32:03.567976'
-  Rank: 2896
-- name: ygzyd.sub-nthu.com:35005@trojan
-  server: ygzyd.sub-nthu.com
-  port: 35005
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: 87d5ee80-9dfa-4cb5-b644-062803bd0c19
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 41.93
-  maximum: 45.57
-  average: 43.22
-  UpdateDay: '2022-06-25T18:35:58.869235'
-  PFirstFoundDay: '2022-06-06T12:34:15.596496'
-  Rank: 2823
-- name: 3.35.48.120:28443@trojan
-  server: 3.35.48.120
-  port: 28443
-  type: trojan
-  country: "\U0001F1F0\U0001F1F7 KR"
-  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 64.72
-  maximum: 67.31
-  average: 66.15
-  UpdateDay: '2022-06-25T18:36:00.049383'
-  PFirstFoundDay: '2022-06-19T21:31:38.992849'
-  Rank: 2631
+  Rank: 2656
 - name: cn2hn.sub-nthu.com:35000@trojan
   server: cn2hn.sub-nthu.com
   port: 35000
@@ -525,7 +525,7 @@ proxies:
   average: 9.97
   UpdateDay: '2022-06-25T18:35:58.158948'
   PFirstFoundDay: '2022-06-06T12:34:15.593882'
-  Rank: 2486
+  Rank: 2536
 - name: s306.s2022.xyz:37117@trojan
   password: 5a0c130c-31f7-31dc-89c3-5c26865d56f9
   port: 37117
@@ -540,22 +540,7 @@ proxies:
   average: 74.91
   UpdateDay: '2022-04-28T03:32:03.566164'
   PFirstFoundDay: '2022-04-28T03:32:03.566169'
-  Rank: 2468
-- name: jp.useanlo.cf:10203@trojan
-  server: jp.useanlo.cf
-  port: 10203
-  type: trojan
-  country: "\U0001F1F3\U0001F1F1 NL"
-  password: b64b0f9c-23df-3112-a790-d8aa068aa2fe
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 44.35
-  maximum: 49.94
-  average: 46.52
-  UpdateDay: '2022-06-25T18:36:00.304742'
-  PFirstFoundDay: '2022-05-11T00:30:59.448364'
-  Rank: 2233
+  Rank: 2448
 - name: 23.225.77.192:28443@trojan
   server: 23.225.77.192
   type: trojan
@@ -565,12 +550,12 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 158.21
-  maximum: 160.59
-  average: 159.24
-  UpdateDay: '2022-06-25T18:35:47.190085'
+  minimum: 158.24
+  maximum: 162.23
+  average: 160.62
+  UpdateDay: '2022-06-25T21:31:56.009294'
   PFirstFoundDay: '2022-06-09T06:35:05.764312'
-  Rank: 2147
+  Rank: 2194
 - name: shlt.sub-nthu.com:35000@trojan
   server: shlt.sub-nthu.com
   port: 35000
@@ -580,12 +565,27 @@ proxies:
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 7.09
-  maximum: 9.21
-  average: 7.84
-  UpdateDay: '2022-06-25T18:35:58.117090'
+  minimum: 6.2
+  maximum: 12.99
+  average: 8.82
+  UpdateDay: '2022-06-25T21:32:04.952970'
   PFirstFoundDay: '2022-06-06T12:34:15.585432'
-  Rank: 2070
+  Rank: 2111
+- name: jp.useanlo.cf:10203@trojan
+  server: jp.useanlo.cf
+  port: 10203
+  type: trojan
+  country: "\U0001F1F3\U0001F1F1 NL"
+  password: b64b0f9c-23df-3112-a790-d8aa068aa2fe
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 38.89
+  maximum: 48.95
+  average: 42.6
+  UpdateDay: '2022-06-25T21:32:07.028268'
+  PFirstFoundDay: '2022-05-11T00:30:59.448364'
+  Rank: 2026
 - name: 155.248.172.87:28443@trojan
   password: c94c922d-c833-48c1-b9d1-81c8b7b826f9
   port: 28443
@@ -600,22 +600,40 @@ proxies:
   average: 38.81
   UpdateDay: '2022-06-07T18:32:28.816513'
   PFirstFoundDay: '2022-06-06T12:34:15.612169'
-  Rank: 1568
+  Rank: 1618
 - name: 23.225.77.187:28443@trojan
   server: 23.225.77.187
-  port: 28443
   type: trojan
-  country: "\U0001F1FA\U0001F1F8 US"
+  country: "\U0001F1FA\U0001F1F8US"
+  port: 28443
   password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 158.19
-  maximum: 159.47
-  average: 158.98
-  UpdateDay: '2022-06-25T18:36:02.370157'
+  minimum: 158.05
+  maximum: 161.53
+  average: 159.42
+  UpdateDay: '2022-06-25T21:31:56.005908'
   PFirstFoundDay: '2022-06-09T06:35:05.749883'
-  Rank: 834
+  Rank: 861
+- name: nm1-2.getnjnd.com:6503@ssr
+  server: nm1-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 6503
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 35.42
+  maximum: 94.09
+  average: 57.08
+  UpdateDay: '2022-06-25T21:31:19.665475'
+  PFirstFoundDay: '2022-06-25T18:35:10.847186'
+  Rank: 827
 - name: 165.154.243.157:48004@trojan
   password: 8e4f0531-7a90-4429-b048-67a19c010c40
   port: 48004
@@ -630,37 +648,22 @@ proxies:
   average: 420.82
   UpdateDay: '2022-06-10T00:32:15.130795'
   PFirstFoundDay: '2022-06-09T06:35:00.765184'
-  Rank: 749
+  Rank: 765
 - name: 103.173.255.127:28443@trojan
   server: 103.173.255.127
-  type: trojan
-  country: "\U0001F3C1ZZ"
   port: 28443
+  type: trojan
+  country: "\U0001F3C1 ZZ"
   password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 211.72
-  maximum: 216.9
-  average: 214.96
-  UpdateDay: '2022-06-25T18:35:47.390053'
+  minimum: 212.18
+  maximum: 217.12
+  average: 214.65
+  UpdateDay: '2022-06-25T21:32:12.401971'
   PFirstFoundDay: '2022-06-09T06:34:57.527553'
-  Rank: 654
-- name: 23.225.77.226:28443@trojan
-  server: 23.225.77.226
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8US"
-  port: 28443
-  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 155.1
-  maximum: 158.44
-  average: 157.16
-  UpdateDay: '2022-06-25T18:35:47.189021'
-  PFirstFoundDay: '2022-06-09T06:35:05.753089'
-  Rank: 516
+  Rank: 685
 - name: bs2-2.getnjnd.com:6502@ssr
   server: bs2-2.getnjnd.com
   type: ssr
@@ -673,12 +676,27 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 35.64
-  maximum: 44.4
-  average: 38.62
-  UpdateDay: '2022-06-25T18:35:10.910738'
+  minimum: 37.87
+  maximum: 116.07
+  average: 64.12
+  UpdateDay: '2022-06-25T21:31:19.804094'
   PFirstFoundDay: '2022-06-25T18:35:10.910743'
-  Rank: 496
+  Rank: 537
+- name: 23.225.77.226:28443@trojan
+  server: 23.225.77.226
+  port: 28443
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 158.03
+  maximum: 158.97
+  average: 158.48
+  UpdateDay: '2022-06-25T21:32:10.347348'
+  PFirstFoundDay: '2022-06-09T06:35:05.753089'
+  Rank: 513
 - name: bs2-1.getnjnd.com:3501@ssr
   server: bs2-1.getnjnd.com
   type: ssr
@@ -691,12 +709,12 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 35.07
-  maximum: 41.23
-  average: 37.48
-  UpdateDay: '2022-06-25T18:35:10.859355'
+  minimum: 36.64
+  maximum: 165.81
+  average: 81.27
+  UpdateDay: '2022-06-25T21:31:19.818762'
   PFirstFoundDay: '2022-06-25T18:35:10.859360'
-  Rank: 412
+  Rank: 459
 - name: 51.81.223.10:443@vmess
   server: 51.81.223.10
   type: vmess
@@ -711,81 +729,27 @@ proxies:
   h2-opts: {}
   skip-cert-verify: true
   success_rate: 100.0
-  minimum: 292.79
-  maximum: 335.58
-  average: 308.23
-  UpdateDay: '2022-06-25T18:35:47.627023'
+  minimum: 294.92
+  maximum: 322.29
+  average: 304.62
+  UpdateDay: '2022-06-25T21:31:56.379493'
   PFirstFoundDay: '2022-06-24T18:36:53.604990'
-  Rank: 410
-- name: nm1-2.getnjnd.com:6503@ssr
-  server: nm1-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 6503
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 36.42
-  maximum: 39.28
-  average: 37.54
-  UpdateDay: '2022-06-25T18:35:10.847180'
-  PFirstFoundDay: '2022-06-25T18:35:10.847186'
-  Rank: 356
-- name: bs1-1.getnjnd.com:3508@ssr
-  server: bs1-1.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3508
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 35.97
-  maximum: 38.97
-  average: 37.66
-  UpdateDay: '2022-06-25T18:35:10.798628'
-  PFirstFoundDay: '2022-06-25T18:35:10.798633'
-  Rank: 312
+  Rank: 426
 - name: 155.248.172.87:28000@trojan
   server: 155.248.172.87
-  type: trojan
-  country: "\U0001F1FA\U0001F1F8US"
   port: 28000
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
   password: 2cee2f05-9351-4a6d-9f80-ff859a54a0b3
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 44.27
-  maximum: 49.02
-  average: 46.24
-  UpdateDay: '2022-06-25T18:35:46.847434'
+  minimum: 47.19
+  maximum: 50.41
+  average: 49.05
+  UpdateDay: '2022-06-25T21:32:10.399543'
   PFirstFoundDay: '2022-06-25T15:31:24.740662'
-  Rank: 311
-- name: nm1-2.getnjnd.com:6502@ssr
-  server: nm1-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 6502
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 37.84
-  maximum: 42.66
-  average: 39.93
-  UpdateDay: '2022-06-25T18:35:10.876999'
-  PFirstFoundDay: '2022-06-25T18:35:10.877004'
-  Rank: 296
+  Rank: 373
 - name: bs2-2.getnjnd.com:6500@ssr
   server: bs2-2.getnjnd.com
   type: ssr
@@ -798,11 +762,101 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 37.14
-  maximum: 38.43
-  average: 37.59
-  UpdateDay: '2022-06-25T18:35:10.856283'
+  minimum: 37.93
+  maximum: 127.55
+  average: 68.17
+  UpdateDay: '2022-06-25T21:31:19.679272'
   PFirstFoundDay: '2022-06-25T18:35:10.856288'
+  Rank: 361
+- name: nm1-2.getnjnd.com:6502@ssr
+  server: nm1-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 6502
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 38.05
+  maximum: 132.21
+  average: 70.42
+  UpdateDay: '2022-06-25T21:31:19.839919'
+  PFirstFoundDay: '2022-06-25T18:35:10.877004'
+  Rank: 347
+- name: nm1-2.getnjnd.com:4501@ssr
+  server: nm1-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 4501
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 34.53
+  maximum: 118.72
+  average: 63.26
+  UpdateDay: '2022-06-25T21:31:19.814977'
+  PFirstFoundDay: '2022-06-25T18:35:10.849647'
+  Rank: 344
+- name: nm1-2.getnjnd.com:4503@ssr
+  server: nm1-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 4503
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 34.46
+  maximum: 82.33
+  average: 51.42
+  UpdateDay: '2022-06-25T21:31:19.620677'
+  PFirstFoundDay: '2022-06-25T18:35:10.850803'
+  Rank: 307
+- name: bs1-1.getnjnd.com:3508@ssr
+  server: bs1-1.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 3508
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 35.67
+  maximum: 121.5
+  average: 65.6
+  UpdateDay: '2022-06-25T21:31:19.802814'
+  PFirstFoundDay: '2022-06-25T18:35:10.798633'
+  Rank: 306
+- name: bs2-2.getnjnd.com:4503@ssr
+  server: bs2-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 4503
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: TWpNNU1qTXhOVEl3TURZdWJXbGpjbTl6YjJaMExtTnZiUQ
+  success_rate: 100.0
+  minimum: 37.61
+  maximum: 98.29
+  average: 58.27
+  UpdateDay: '2022-06-25T21:31:19.789526'
+  PFirstFoundDay: '2022-06-25T18:35:10.806765'
   Rank: 284
 - name: bs2-1.getnjnd.com:3505@ssr
   server: bs2-1.getnjnd.com
@@ -816,27 +870,30 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 32.63
-  maximum: 39.13
-  average: 36.0
-  UpdateDay: '2022-06-25T18:35:10.767382'
+  minimum: 37.28
+  maximum: 125.39
+  average: 66.97
+  UpdateDay: '2022-06-25T21:31:19.815596'
   PFirstFoundDay: '2022-06-25T18:35:10.767387'
-  Rank: 221
-- name: s285.s2022.xyz:35798@trojan
-  password: 5a0c130c-31f7-31dc-89c3-5c26865d56f9
-  port: 35798
-  server: s285.s2022.xyz
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-  uuid: 042e8825-5da8-ccb7-1775-c320ec61dede
+  Rank: 267
+- name: bs2-2.getnjnd.com:4501@ssr
+  server: bs2-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 4501
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 69.04
-  maximum: 80.6
-  average: 75.84
-  UpdateDay: '2022-04-28T03:32:03.568313'
-  PFirstFoundDay: '2022-04-28T03:32:03.568330'
-  Rank: 199
+  minimum: 35.53
+  maximum: 97.94
+  average: 56.49
+  UpdateDay: '2022-06-25T21:31:19.671864'
+  PFirstFoundDay: '2022-06-25T18:35:10.841884'
+  Rank: 256
 - name: nm1-2.getnjnd.com:4500@ssr
   server: nm1-2.getnjnd.com
   type: ssr
@@ -849,207 +906,12 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 33.86
-  maximum: 39.07
-  average: 36.92
-  UpdateDay: '2022-06-25T18:35:10.782960'
+  minimum: 36.35
+  maximum: 94.71
+  average: 56.02
+  UpdateDay: '2022-06-25T21:31:19.871685'
   PFirstFoundDay: '2022-06-25T18:35:10.782967'
-  Rank: 138
-- name: cm.spacez.cloud:30002@trojan
-  server: cm.spacez.cloud
-  port: 30002
-  type: trojan
-  country: "\U0001F1E8\U0001F1F3 CN"
-  password: c9a3a61d-5d49-4158-9e60-6fa32684b122
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 37.92
-  maximum: 40.9
-  average: 39.7
-  UpdateDay: '2022-06-25T18:35:58.818238'
-  PFirstFoundDay: '2022-06-25T12:30:19.919483'
-  Rank: 130
-- name: bs2-2.getnjnd.com:6501@ssr
-  server: bs2-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 6501
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 34.83
-  maximum: 40.74
-  average: 37.77
-  UpdateDay: '2022-06-25T18:35:10.857002'
-  PFirstFoundDay: '2022-06-25T18:35:10.857007'
-  Rank: 107
-- name: bs1-1.getnjnd.com:3505@ssr
-  server: bs1-1.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3505
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 35.96
-  maximum: 46.81
-  average: 41.95
-  UpdateDay: '2022-06-25T18:35:10.895085'
-  PFirstFoundDay: '2022-06-25T18:35:10.895090'
-  Rank: 101
-- name: bs1-1.getnjnd.com:3509@ssr
-  server: bs1-1.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3509
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 34.48
-  maximum: 37.55
-  average: 36.16
-  UpdateDay: '2022-06-25T18:35:10.882814'
-  PFirstFoundDay: '2022-06-25T18:35:10.882819'
-  Rank: 99
-- name: bs1-1.getnjnd.com:3502@ssr
-  server: bs1-1.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3502
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 34.22
-  maximum: 38.56
-  average: 37.05
-  UpdateDay: '2022-06-25T18:35:10.857650'
-  PFirstFoundDay: '2022-06-25T18:35:10.857655'
-  Rank: 98
-- name: nm1-2.getnjnd.com:3045@ssr
-  server: nm1-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3045
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 36.31
-  maximum: 42.02
-  average: 39.29
-  UpdateDay: '2022-06-25T18:35:10.874585'
-  PFirstFoundDay: '2022-06-25T18:35:10.874590'
-  Rank: 97
-- name: bs2-1.getnjnd.com:3500@ssr
-  server: bs2-1.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3500
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 33.74
-  maximum: 37.77
-  average: 35.45
-  UpdateDay: '2022-06-25T18:35:10.852207'
-  PFirstFoundDay: '2022-06-25T18:35:10.852212'
-  Rank: 96
-- name: nm1-2.getnjnd.com:3025@ssr
-  server: nm1-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3025
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 37.36
-  maximum: 39.93
-  average: 38.27
-  UpdateDay: '2022-06-25T18:35:10.871831'
-  PFirstFoundDay: '2022-06-25T18:35:10.871836'
-  Rank: 94
-- name: nm1-2.getnjnd.com:4501@ssr
-  server: nm1-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 4501
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 34.96
-  maximum: 40.79
-  average: 37.34
-  UpdateDay: '2022-06-25T18:35:10.849642'
-  PFirstFoundDay: '2022-06-25T18:35:10.849647'
-  Rank: 93
-- name: bs2-2.getnjnd.com:3035@ssr
-  server: bs2-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3035
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 36.55
-  maximum: 45.91
-  average: 41.86
-  UpdateDay: '2022-06-25T18:35:10.912291'
-  PFirstFoundDay: '2022-06-25T18:35:10.912296'
-  Rank: 90
-- name: bs2-2.getnjnd.com:6503@ssr
-  server: bs2-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 6503
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 34.78
-  maximum: 43.04
-  average: 38.54
-  UpdateDay: '2022-06-25T18:35:10.907750'
-  PFirstFoundDay: '2022-06-25T18:35:10.907754'
-  Rank: 87
+  Rank: 195
 - name: nm1-2.getnjnd.com:6500@ssr
   server: nm1-2.getnjnd.com
   type: ssr
@@ -1062,17 +924,17 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 37.51
-  maximum: 41.81
-  average: 39.92
-  UpdateDay: '2022-06-25T18:35:10.926355'
+  minimum: 40.15
+  maximum: 126.0
+  average: 70.28
+  UpdateDay: '2022-06-25T21:31:19.801407'
   PFirstFoundDay: '2022-06-25T18:35:10.926379'
-  Rank: 86
-- name: bs1-1.getnjnd.com:3501@ssr
-  server: bs1-1.getnjnd.com
+  Rank: 187
+- name: bs2-1.getnjnd.com:3500@ssr
+  server: bs2-1.getnjnd.com
   type: ssr
   country: "\U0001F1E8\U0001F1F3CN"
-  port: 3501
+  port: 3500
   password: renzhecloud
   cipher: chacha20-ietf
   protocol: auth_aes128_sha1
@@ -1080,17 +942,17 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 36.3
-  maximum: 38.02
-  average: 36.97
-  UpdateDay: '2022-06-25T18:35:10.829718'
-  PFirstFoundDay: '2022-06-25T18:35:10.829727'
-  Rank: 83
-- name: bs2-2.getnjnd.com:3045@ssr
+  minimum: 37.42
+  maximum: 123.95
+  average: 69.74
+  UpdateDay: '2022-06-25T21:31:19.805906'
+  PFirstFoundDay: '2022-06-25T18:35:10.852212'
+  Rank: 172
+- name: bs2-2.getnjnd.com:6501@ssr
   server: bs2-2.getnjnd.com
   type: ssr
   country: "\U0001F1E8\U0001F1F3CN"
-  port: 3045
+  port: 6501
   password: renzhecloud
   cipher: chacha20-ietf
   protocol: auth_aes128_sha1
@@ -1098,12 +960,12 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 37.17
-  maximum: 39.67
-  average: 38.71
-  UpdateDay: '2022-06-25T18:35:10.846487'
-  PFirstFoundDay: '2022-06-25T18:35:10.846492'
-  Rank: 82
+  minimum: 39.47
+  maximum: 95.11
+  average: 58.81
+  UpdateDay: '2022-06-25T21:31:19.821941'
+  PFirstFoundDay: '2022-06-25T18:35:10.857007'
+  Rank: 168
 - name: bs1-1.getnjnd.com:3507@ssr
   server: bs1-1.getnjnd.com
   type: ssr
@@ -1116,12 +978,63 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 33.86
-  maximum: 44.58
-  average: 39.75
-  UpdateDay: '2022-06-25T18:35:10.787085'
+  minimum: 38.09
+  maximum: 126.71
+  average: 69.13
+  UpdateDay: '2022-06-25T21:31:19.791792'
   PFirstFoundDay: '2022-06-25T18:35:10.787092'
-  Rank: 82
+  Rank: 168
+- name: bs2-2.getnjnd.com:3035@ssr
+  server: bs2-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 3035
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 38.07
+  maximum: 125.4
+  average: 67.59
+  UpdateDay: '2022-06-25T21:31:19.808362'
+  PFirstFoundDay: '2022-06-25T18:35:10.912296'
+  Rank: 151
+- name: cm.spacez.cloud:30002@trojan
+  server: cm.spacez.cloud
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 30002
+  password: c9a3a61d-5d49-4158-9e60-6fa32684b122
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 27.4
+  maximum: 136.0
+  average: 68.19
+  UpdateDay: '2022-06-25T21:31:19.813684'
+  PFirstFoundDay: '2022-06-25T12:30:19.919483'
+  Rank: 150
+- name: bs1-1.getnjnd.com:3501@ssr
+  server: bs1-1.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 3501
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 34.48
+  maximum: 86.2
+  average: 53.45
+  UpdateDay: '2022-06-25T21:31:19.666649'
+  PFirstFoundDay: '2022-06-25T18:35:10.829727'
+  Rank: 149
 - name: bs2-1.getnjnd.com:3509@ssr
   server: bs2-1.getnjnd.com
   type: ssr
@@ -1134,12 +1047,48 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 35.35
-  maximum: 37.95
-  average: 36.37
-  UpdateDay: '2022-06-25T18:35:10.878191'
+  minimum: 39.31
+  maximum: 156.86
+  average: 79.71
+  UpdateDay: '2022-06-25T21:31:19.830337'
   PFirstFoundDay: '2022-06-25T18:35:10.878197'
-  Rank: 79
+  Rank: 144
+- name: bs2-2.getnjnd.com:3045@ssr
+  server: bs2-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 3045
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 36.73
+  maximum: 122.08
+  average: 65.21
+  UpdateDay: '2022-06-25T21:31:19.804301'
+  PFirstFoundDay: '2022-06-25T18:35:10.846492'
+  Rank: 143
+- name: nm1-2.getnjnd.com:3045@ssr
+  server: nm1-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 3045
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 36.44
+  maximum: 125.11
+  average: 66.92
+  UpdateDay: '2022-06-25T21:31:19.658716'
+  PFirstFoundDay: '2022-06-25T18:35:10.874590'
+  Rank: 137
 - name: bs2-1.getnjnd.com:3508@ssr
   server: bs2-1.getnjnd.com
   type: ssr
@@ -1152,17 +1101,17 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 33.23
-  maximum: 36.53
-  average: 35.17
-  UpdateDay: '2022-06-25T18:35:10.797614'
+  minimum: 35.64
+  maximum: 122.17
+  average: 65.81
+  UpdateDay: '2022-06-25T21:31:19.827174'
   PFirstFoundDay: '2022-06-25T18:35:10.797620'
-  Rank: 73
-- name: nm1-2.getnjnd.com:5503@ssr
-  server: nm1-2.getnjnd.com
+  Rank: 134
+- name: bs1-1.getnjnd.com:3509@ssr
+  server: bs1-1.getnjnd.com
   type: ssr
   country: "\U0001F1E8\U0001F1F3CN"
-  port: 5503
+  port: 3509
   password: renzhecloud
   cipher: chacha20-ietf
   protocol: auth_aes128_sha1
@@ -1170,17 +1119,17 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 34.7
-  maximum: 60.02
-  average: 43.84
-  UpdateDay: '2022-06-25T18:35:10.788250'
-  PFirstFoundDay: '2022-06-25T18:35:10.788257'
-  Rank: 73
-- name: nm1-2.getnjnd.com:5501@ssr
+  minimum: 35.68
+  maximum: 124.69
+  average: 67.19
+  UpdateDay: '2022-06-25T21:31:19.669357'
+  PFirstFoundDay: '2022-06-25T18:35:10.882819'
+  Rank: 131
+- name: nm1-2.getnjnd.com:3025@ssr
   server: nm1-2.getnjnd.com
   type: ssr
   country: "\U0001F1E8\U0001F1F3CN"
-  port: 5501
+  port: 3025
   password: renzhecloud
   cipher: chacha20-ietf
   protocol: auth_aes128_sha1
@@ -1188,12 +1137,30 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 35.79
-  maximum: 42.54
-  average: 38.64
-  UpdateDay: '2022-06-25T18:35:10.860261'
-  PFirstFoundDay: '2022-06-25T18:35:10.860267'
-  Rank: 68
+  minimum: 37.1
+  maximum: 130.29
+  average: 68.49
+  UpdateDay: '2022-06-25T21:31:19.814077'
+  PFirstFoundDay: '2022-06-25T18:35:10.871836'
+  Rank: 126
+- name: bs2-2.getnjnd.com:6503@ssr
+  server: bs2-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 6503
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 40.02
+  maximum: 120.7
+  average: 67.14
+  UpdateDay: '2022-06-25T21:31:19.831083'
+  PFirstFoundDay: '2022-06-25T18:35:10.907754'
+  Rank: 123
 - name: nm1-2.getnjnd.com:6501@ssr
   server: nm1-2.getnjnd.com
   type: ssr
@@ -1206,35 +1173,17 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 36.29
-  maximum: 53.74
-  average: 42.8
-  UpdateDay: '2022-06-25T18:35:10.805808'
+  minimum: 37.97
+  maximum: 116.11
+  average: 65.13
+  UpdateDay: '2022-06-25T21:31:19.665048'
   PFirstFoundDay: '2022-06-25T18:35:10.805816'
-  Rank: 61
-- name: bs2-2.getnjnd.com:4503@ssr
-  server: bs2-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 4503
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: TWpNNU1qTXhOVEl3TURZdWJXbGpjbTl6YjJaMExtTnZiUQ
-  success_rate: 100.0
-  minimum: 36.87
-  maximum: 53.23
-  average: 42.59
-  UpdateDay: '2022-06-25T18:35:10.806758'
-  PFirstFoundDay: '2022-06-25T18:35:10.806765'
-  Rank: 47
-- name: nm1-2.getnjnd.com:4503@ssr
+  Rank: 122
+- name: nm1-2.getnjnd.com:5501@ssr
   server: nm1-2.getnjnd.com
   type: ssr
   country: "\U0001F1E8\U0001F1F3CN"
-  port: 4503
+  port: 5501
   password: renzhecloud
   cipher: chacha20-ietf
   protocol: auth_aes128_sha1
@@ -1242,12 +1191,48 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 34.7
-  maximum: 38.87
-  average: 36.49
-  UpdateDay: '2022-06-25T18:35:10.850798'
-  PFirstFoundDay: '2022-06-25T18:35:10.850803'
-  Rank: 42
+  minimum: 38.53
+  maximum: 95.31
+  average: 58.18
+  UpdateDay: '2022-06-25T21:31:19.671473'
+  PFirstFoundDay: '2022-06-25T18:35:10.860267'
+  Rank: 119
+- name: nm1-2.getnjnd.com:5503@ssr
+  server: nm1-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 5503
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 36.08
+  maximum: 96.71
+  average: 57.36
+  UpdateDay: '2022-06-25T21:31:19.681502'
+  PFirstFoundDay: '2022-06-25T18:35:10.788257'
+  Rank: 98
+- name: bs1-1.getnjnd.com:3505@ssr
+  server: bs1-1.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 3505
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 38.06
+  maximum: 92.04
+  average: 56.41
+  UpdateDay: '2022-06-25T21:31:19.831851'
+  PFirstFoundDay: '2022-06-25T18:35:10.895090'
+  Rank: 92
 - name: nm1-2.getnjnd.com:4502@ssr
   server: nm1-2.getnjnd.com
   type: ssr
@@ -1260,12 +1245,48 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 34.44
-  maximum: 62.69
-  average: 44.62
-  UpdateDay: '2022-06-25T18:35:10.848044'
+  minimum: 34.4
+  maximum: 98.26
+  average: 57.24
+  UpdateDay: '2022-06-25T21:31:19.660759'
   PFirstFoundDay: '2022-06-25T18:35:10.848049'
-  Rank: 39
+  Rank: 85
+- name: bs1-1.getnjnd.com:3502@ssr
+  server: bs1-1.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 3502
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 37.06
+  maximum: 122.31
+  average: 65.61
+  UpdateDay: '2022-06-25T21:31:19.828100'
+  PFirstFoundDay: '2022-06-25T18:35:10.857655'
+  Rank: 83
+- name: bs2-1.getnjnd.com:3502@ssr
+  server: bs2-1.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 3502
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 36.79
+  maximum: 121.42
+  average: 65.47
+  UpdateDay: '2022-06-25T21:31:19.789332'
+  PFirstFoundDay: '2022-06-25T18:35:10.759427'
+  Rank: 66
 - name: 42.3.19.58:39999@vmess
   server: 42.3.19.58
   type: vmess
@@ -1281,30 +1302,12 @@ proxies:
   tls: true
   skip-cert-verify: true
   success_rate: 100.0
-  minimum: 65.61
-  maximum: 72.97
-  average: 68.12
-  UpdateDay: '2022-06-25T18:35:10.922769'
+  minimum: 65.68
+  maximum: 93.26
+  average: 75.24
+  UpdateDay: '2022-06-25T21:31:19.813856'
   PFirstFoundDay: '2022-06-25T18:35:10.922795'
-  Rank: 32
-- name: bs2-1.getnjnd.com:3502@ssr
-  server: bs2-1.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3502
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 35.26
-  maximum: 47.09
-  average: 40.29
-  UpdateDay: '2022-06-25T18:35:10.759422'
-  PFirstFoundDay: '2022-06-25T18:35:10.759427'
-  Rank: 27
+  Rank: 53
 - name: bs2-1.getnjnd.com:3503@ssr
   server: bs2-1.getnjnd.com
   type: ssr
@@ -1317,33 +1320,63 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 33.3
-  maximum: 55.81
-  average: 41.93
-  UpdateDay: '2022-06-25T18:35:10.762863'
+  minimum: 35.11
+  maximum: 132.95
+  average: 68.44
+  UpdateDay: '2022-06-25T21:31:19.800405'
   PFirstFoundDay: '2022-06-25T18:35:10.762868'
-  Rank: 24
-- name: 36.227.223.133:39999@vmess
-  server: 36.227.223.133
-  type: vmess
-  country: "\U0001F1F9\U0001F1FCTW"
-  port: 39999
-  uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d
-  alterId: 0
-  cipher: auto
-  network: tcp
-  ws-path: /
-  http-opts: {}
-  h2-opts: {}
-  tls: true
+  Rank: 47
+- name: 103.173.255.234:28443@trojan
+  server: 103.173.255.234
+  port: 28443
+  type: trojan
+  country: "\U0001F3C1 ZZ"
+  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
   skip-cert-verify: true
+  udp: true
   success_rate: 100.0
-  minimum: 143.23
-  maximum: 1190.25
-  average: 492.41
-  UpdateDay: '2022-06-25T18:35:30.112820'
-  PFirstFoundDay: '2022-06-25T18:35:30.112826'
-  Rank: 24
+  minimum: 215.61
+  maximum: 220.41
+  average: 218.62
+  UpdateDay: '2022-06-25T21:32:11.725308'
+  PFirstFoundDay: '2022-06-09T06:34:58.547161'
+  Rank: 36
+- name: bs1-1.getnjnd.com:3504@ssr
+  server: bs1-1.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 3504
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 34.64
+  maximum: 100.37
+  average: 57.02
+  UpdateDay: '2022-06-25T21:31:19.642896'
+  PFirstFoundDay: '2022-06-25T18:35:10.821729'
+  Rank: 30
+- name: nm1-2.getnjnd.com:5500@ssr
+  server: nm1-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 5500
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 37.23
+  maximum: 91.67
+  average: 56.0
+  UpdateDay: '2022-06-25T21:31:19.820203'
+  PFirstFoundDay: '2022-06-25T18:35:10.912996'
+  Rank: 27
 - name: 111.241.109.247:39998@vmess
   server: 111.241.109.247
   type: vmess
@@ -1359,17 +1392,17 @@ proxies:
   tls: true
   skip-cert-verify: true
   success_rate: 100.0
-  minimum: 148.81
-  maximum: 161.84
-  average: 154.36
-  UpdateDay: '2022-06-25T18:35:29.100262'
+  minimum: 149.66
+  maximum: 153.39
+  average: 151.42
+  UpdateDay: '2022-06-25T21:31:37.400654'
   PFirstFoundDay: '2022-06-25T18:35:29.100267'
-  Rank: 22
-- name: bs2-2.getnjnd.com:5502@ssr
-  server: bs2-2.getnjnd.com
+  Rank: 27
+- name: bs1-1.getnjnd.com:3506@ssr
+  server: bs1-1.getnjnd.com
   type: ssr
   country: "\U0001F1E8\U0001F1F3CN"
-  port: 5502
+  port: 3506
   password: renzhecloud
   cipher: chacha20-ietf
   protocol: auth_aes128_sha1
@@ -1377,27 +1410,104 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 38.88
-  maximum: 50.23
-  average: 43.18
-  UpdateDay: '2022-06-25T18:35:10.843703'
-  PFirstFoundDay: '2022-06-25T18:35:10.843731'
-  Rank: 15
-- name: 103.173.255.234:28443@trojan
-  server: 103.173.255.234
+  minimum: 35.19
+  maximum: 90.43
+  average: 54.54
+  UpdateDay: '2022-06-25T21:31:19.809679'
+  PFirstFoundDay: '2022-06-25T18:35:10.894028'
+  Rank: 18
+- name: bs2-2.getnjnd.com:4502@ssr
+  server: bs2-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 4502
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 35.17
+  maximum: 90.6
+  average: 55.05
+  UpdateDay: '2022-06-25T21:31:19.667931'
+  PFirstFoundDay: '2022-06-25T21:31:19.667935'
+  Rank: 1
+- name: gz-cm-kl.hinetwork.tw:11136@trojan
+  server: gz-cm-kl.hinetwork.tw
+  port: 11136
   type: trojan
-  country: "\U0001F3C1ZZ"
-  port: 28443
-  password: 6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: d46abf38-3a4c-3dfc-91e0-d8d3f1616c73
   skip-cert-verify: true
   udp: true
   success_rate: 100.0
-  minimum: 215.05
-  maximum: 222.16
-  average: 219.19
-  UpdateDay: '2022-06-25T18:35:47.403872'
-  PFirstFoundDay: '2022-06-09T06:34:58.547161'
-  Rank: 15
+  minimum: 44.76
+  maximum: 69.01
+  average: 55.26
+  UpdateDay: '2022-06-25T21:32:06.622469'
+  PFirstFoundDay: '2022-06-25T21:32:06.622475'
+  Rank: 1
+- name: gz-cm-kl.hinetwork.tw:11199@trojan
+  server: gz-cm-kl.hinetwork.tw
+  port: 11199
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: d46abf38-3a4c-3dfc-91e0-d8d3f1616c73
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 59.14
+  maximum: 63.55
+  average: 60.98
+  UpdateDay: '2022-06-25T21:32:06.729888'
+  PFirstFoundDay: '2022-06-25T21:32:06.729892'
+  Rank: 1
+- name: gz-cm1-kl.hinetwork.tw:11112@trojan
+  server: gz-cm1-kl.hinetwork.tw
+  port: 11112
+  type: trojan
+  country: "\U0001F1E8\U0001F1F3 CN"
+  password: d46abf38-3a4c-3dfc-91e0-d8d3f1616c73
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 59.83
+  maximum: 70.74
+  average: 63.47
+  UpdateDay: '2022-06-25T21:32:06.729561'
+  PFirstFoundDay: '2022-06-25T21:32:06.729566'
+  Rank: 1
+- name: 14.29.124.168:24000@ss
+  server: 14.29.124.168
+  type: ss
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 24000
+  password: QazEdcTgb159@$*
+  cipher: aes-128-cfb
+  success_rate: 100.0
+  minimum: 54.4
+  maximum: 122.21
+  average: 77.41
+  UpdateDay: '2022-06-25T21:31:19.802251'
+  PFirstFoundDay: '2022-06-25T21:31:19.802255'
+  Rank: 1
+- name: 20.239.179.123:12388@trojan
+  server: 20.239.179.123
+  port: 12388
+  type: trojan
+  country: "\U0001F1FA\U0001F1F8 US"
+  password: 9ff4a104-d00e-4867-96e7-6f5f63070005
+  skip-cert-verify: true
+  udp: true
+  success_rate: 100.0
+  minimum: 103.02
+  maximum: 106.23
+  average: 104.47
+  UpdateDay: '2022-06-25T21:32:10.575209'
+  PFirstFoundDay: '2022-06-25T21:32:10.575214'
+  Rank: 1
 - alterId: 32
   cipher: auto
   name: 51.81.223.32:443@vmess
@@ -1408,12 +1518,12 @@ proxies:
   type: vmess
   uuid: c0156451-4efb-45e2-84fc-8d315c4650db
   success_rate: 100.0
-  minimum: 258.67
-  maximum: 274.15
-  average: 264.18
-  UpdateDay: '2022-06-25T18:35:51.206974'
+  minimum: 262.53
+  maximum: 1275.59
+  average: 935.52
+  UpdateDay: '2022-06-25T21:32:01.909892'
   PFirstFoundDay: '2022-06-24T21:32:07.042934'
-  Rank: -8
+  Rank: 1
 - name: 116.49.76.103:39999@vmess
   server: 116.49.76.103
   type: vmess
@@ -1429,53 +1539,17 @@ proxies:
   tls: true
   skip-cert-verify: true
   success_rate: 100.0
-  minimum: 67.25
-  maximum: 71.3
-  average: 69.22
-  UpdateDay: '2022-06-25T18:35:10.931620'
+  minimum: 68.15
+  maximum: 96.02
+  average: 77.6
+  UpdateDay: '2022-06-25T21:31:20.022774'
   PFirstFoundDay: '2022-06-25T18:35:10.931625'
-  Rank: -15
-- name: bs1-1.getnjnd.com:3504@ssr
-  server: bs1-1.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3504
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 36.49
-  maximum: 40.81
-  average: 38.0
-  UpdateDay: '2022-06-25T18:35:10.821722'
-  PFirstFoundDay: '2022-06-25T18:35:10.821729'
-  Rank: -21
-- name: nm1-2.getnjnd.com:5500@ssr
-  server: nm1-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 5500
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 37.33
-  maximum: 43.19
-  average: 39.52
-  UpdateDay: '2022-06-25T18:35:10.912991'
-  PFirstFoundDay: '2022-06-25T18:35:10.912996'
-  Rank: -21
-- name: bs2-2.getnjnd.com:4501@ssr
+  Rank: -5
+- name: bs2-2.getnjnd.com:5501@ssr
   server: bs2-2.getnjnd.com
   type: ssr
   country: "\U0001F1E8\U0001F1F3CN"
-  port: 4501
+  port: 5501
   password: renzhecloud
   cipher: chacha20-ietf
   protocol: auth_aes128_sha1
@@ -1483,12 +1557,81 @@ proxies:
   obfs: plain
   obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
   success_rate: 100.0
-  minimum: 36.88
-  maximum: 41.58
-  average: 38.98
-  UpdateDay: '2022-06-25T18:35:10.841875'
-  PFirstFoundDay: '2022-06-25T18:35:10.841884'
-  Rank: -30
+  minimum: 37.29
+  maximum: 96.23
+  average: 57.51
+  UpdateDay: '2022-06-25T21:31:19.676484'
+  PFirstFoundDay: '2022-06-25T18:35:10.814502'
+  Rank: -9
+- name: 36.227.223.133:39999@vmess
+  server: 36.227.223.133
+  type: vmess
+  country: "\U0001F1F9\U0001F1FCTW"
+  port: 39999
+  uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d
+  alterId: 0
+  cipher: auto
+  network: tcp
+  ws-path: /
+  http-opts: {}
+  h2-opts: {}
+  tls: true
+  skip-cert-verify: true
+  success_rate: 100.0
+  minimum: 143.29
+  maximum: 1160.71
+  average: 482.44
+  UpdateDay: '2022-06-25T21:31:38.398672'
+  PFirstFoundDay: '2022-06-25T18:35:30.112826'
+  Rank: -17
+- name: bs2-2.getnjnd.com:5502@ssr
+  server: bs2-2.getnjnd.com
+  type: ssr
+  country: "\U0001F1E8\U0001F1F3CN"
+  port: 5502
+  password: renzhecloud
+  cipher: chacha20-ietf
+  protocol: auth_aes128_sha1
+  protocol-param: 152006:OeRRkC
+  obfs: plain
+  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
+  success_rate: 100.0
+  minimum: 37.61
+  maximum: 124.24
+  average: 66.72
+  UpdateDay: '2022-06-25T21:31:19.838592'
+  PFirstFoundDay: '2022-06-25T18:35:10.843731'
+  Rank: -19
+- name: s285.s2022.xyz:35798@trojan
+  password: 5a0c130c-31f7-31dc-89c3-5c26865d56f9
+  port: 35798
+  server: s285.s2022.xyz
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  uuid: 042e8825-5da8-ccb7-1775-c320ec61dede
+  success_rate: 100.0
+  minimum: 69.04
+  maximum: 80.6
+  average: 75.84
+  UpdateDay: '2022-04-28T03:32:03.568313'
+  PFirstFoundDay: '2022-04-28T03:32:03.568330'
+  Rank: -41
+- name: 103.173.255.21:28000@trojan
+  password: 2cee2f05-9351-4a6d-9f80-ff859a54a0b3
+  port: 28000
+  server: 103.173.255.21
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  uuid: 24cf7359-bf9d-cb8e-9936-360e6cf911ce
+  success_rate: 100.0
+  minimum: 209.84
+  maximum: 216.7
+  average: 213.81
+  UpdateDay: '2022-06-25T21:31:59.724617'
+  PFirstFoundDay: '2022-06-25T12:30:20.381532'
+  Rank: -53
 - name: 203.218.84.13:39999@vmess
   server: 203.218.84.13
   type: vmess
@@ -1504,78 +1647,27 @@ proxies:
   tls: true
   skip-cert-verify: true
   success_rate: 100.0
-  minimum: 41.52
-  maximum: 44.96
-  average: 43.03
-  UpdateDay: '2022-06-25T18:35:10.903842'
+  minimum: 44.78
+  maximum: 50.48
+  average: 46.9
+  UpdateDay: '2022-06-25T21:31:20.029408'
   PFirstFoundDay: '2022-06-25T18:35:10.903847'
-  Rank: -41
-- name: bs2-2.getnjnd.com:5501@ssr
-  server: bs2-2.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 5501
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 34.58
-  maximum: 44.96
-  average: 38.17
-  UpdateDay: '2022-06-25T18:35:10.814495'
-  PFirstFoundDay: '2022-06-25T18:35:10.814502'
-  Rank: -42
-- name: bs1-1.getnjnd.com:3506@ssr
-  server: bs1-1.getnjnd.com
-  type: ssr
-  country: "\U0001F1E8\U0001F1F3CN"
-  port: 3506
-  password: renzhecloud
-  cipher: chacha20-ietf
-  protocol: auth_aes128_sha1
-  protocol-param: 152006:OeRRkC
-  obfs: plain
-  obfs-param: MjM5MjMxNTIwMDYubWljcm9zb2Z0LmNvbQ
-  success_rate: 100.0
-  minimum: 34.39
-  maximum: 37.86
-  average: 36.7
-  UpdateDay: '2022-06-25T18:35:10.894023'
-  PFirstFoundDay: '2022-06-25T18:35:10.894028'
-  Rank: -43
-- name: 103.173.255.21:28000@trojan
-  server: 103.173.255.21
-  port: 28000
-  type: trojan
-  country: "\U0001F3C1 ZZ"
-  password: 2cee2f05-9351-4a6d-9f80-ff859a54a0b3
-  skip-cert-verify: true
-  udp: true
-  success_rate: 100.0
-  minimum: 211.04
-  maximum: 215.46
-  average: 213.89
-  UpdateDay: '2022-06-25T18:36:04.099525'
-  PFirstFoundDay: '2022-06-25T12:30:20.381532'
-  Rank: -64
+  Rank: -61
 - name: 103.173.155.72:28000@trojan
-  server: 103.173.155.72
-  type: trojan
-  country: "\U0001F3C1ZZ"
-  port: 28000
   password: 2cee2f05-9351-4a6d-9f80-ff859a54a0b3
+  port: 28000
+  server: 103.173.155.72
   skip-cert-verify: true
+  type: trojan
   udp: true
+  uuid: 84710f21-71a6-ee8c-7897-9b6c5023c8c4
   success_rate: 100.0
-  minimum: 224.41
-  maximum: 226.24
-  average: 225.23
-  UpdateDay: '2022-06-25T18:35:47.418836'
+  minimum: 219.76
+  maximum: 225.09
+  average: 221.65
+  UpdateDay: '2022-06-25T21:31:59.746490'
   PFirstFoundDay: '2022-06-25T12:30:20.426739'
-  Rank: -132
+  Rank: -110
 - name: 198.211.45.184:4586@trojan
   password: ed407b65-ffdf-3eff-87c8-01f094d355e7
   port: 4586
@@ -1591,103 +1683,7 @@ proxies:
   average: 197.78
   UpdateDay: '2022-05-05T15:30:29.568756'
   PFirstFoundDay: '2022-05-04T15:30:30.952826'
-  Rank: -200
-- name: 103.173.255.234:28000@trojan
-  password: 2cee2f05-9351-4a6d-9f80-ff859a54a0b3
-  port: 28000
-  server: 103.173.255.234
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-  uuid: 1bd14640-60a5-11b3-329e-61486268cad6
-  success_rate: 100.0
-  minimum: 219.27
-  maximum: 221.44
-  average: 220.18
-  UpdateDay: '2022-06-25T18:35:50.654666'
-  PFirstFoundDay: '2022-06-25T18:35:50.654671'
-  Rank: -223
-- name: 103.173.255.228:28000@trojan
-  password: 2cee2f05-9351-4a6d-9f80-ff859a54a0b3
-  port: 28000
-  server: 103.173.255.228
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-  uuid: 966ef023-3606-2452-4f98-9d1f6267d488
-  success_rate: 100.0
-  minimum: 219.97
-  maximum: 225.04
-  average: 221.71
-  UpdateDay: '2022-06-25T18:35:50.660237'
-  PFirstFoundDay: '2022-06-25T18:35:50.660241'
-  Rank: -228
-- name: 103.173.255.127:28000@trojan
-  password: 2cee2f05-9351-4a6d-9f80-ff859a54a0b3
-  port: 28000
-  server: 103.173.255.127
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-  uuid: bbe9ea65-b75c-06a8-d848-3325632bdee4
-  success_rate: 100.0
-  minimum: 213.29
-  maximum: 217.1
-  average: 215.81
-  UpdateDay: '2022-06-25T18:35:50.643255'
-  PFirstFoundDay: '2022-06-25T18:35:50.643260'
-  Rank: -232
-- alterId: 32
-  cipher: auto
-  name: 51.81.223.6:443@vmess
-  port: 443
-  server: 51.81.223.6
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: c0156451-4efb-45e2-84fc-8d315c4650db
-  success_rate: 100.0
-  minimum: 252.48
-  maximum: 315.0
-  average: 293.57
-  UpdateDay: '2022-06-25T18:35:51.301796'
-  PFirstFoundDay: '2022-06-24T21:32:08.115455'
-  Rank: -349
-- name: 20.24.197.210:8313@ss
-  server: 20.24.197.210
-  port: 8313
-  type: ss
-  country: "\U0001F1FA\U0001F1F8 US"
-  password: ljqdalu13..
-  cipher: chacha20-ietf-poly1305
-  success_rate: 100.0
-  minimum: 100.15
-  maximum: 110.23
-  average: 104.01
-  UpdateDay: '2022-06-25T15:31:24.902219'
-  PFirstFoundDay: '2022-06-25T12:30:20.047989'
-  Rank: -460
-- alterId: 0
-  cipher: auto
-  name: v125.v2dns.bar:80@vmess
-  network: ws
-  port: 80
-  server: v125.v2dns.bar
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 0c68af8a-961a-3065-a3a7-1800ebc70bdb
-  ws-headers:
-    Host: v125.v2dns.bar
-  ws-path: /v1252N93nZez6Py
-  success_rate: 66.67
-  minimum: 273.8
-  maximum: 3319.98
-  average: 1796.89
-  UpdateDay: '2022-06-25T18:35:59.077581'
-  PFirstFoundDay: '2022-06-25T18:35:59.077586'
-  Rank: -549
+  Rank: -182
 proxy-groups:
 - name: PG-default
   type: fallback
@@ -1718,83 +1714,83 @@ proxy-groups:
   - cn2hn.sub-nthu.com:35003@trojan
   - 172.104.251.52:28443@trojan
   - 2.58.242.43:443@trojan
-  - 184.168.127.50:443@trojan
   - cn2hn.sub-nthu.com:35007@trojan
+  - 184.168.127.50:443@trojan
   - ygzyd.sub-nthu.com:35003@trojan
   - www.tokyo2021.ga:443@trojan
   - jp.useanlo.cf:6523@trojan
   - 23.225.77.222:28443@trojan
-  - s315.s2022.xyz:40385@trojan
   - ygzyd.sub-nthu.com:35005@trojan
   - 3.35.48.120:28443@trojan
+  - s315.s2022.xyz:40385@trojan
   - cn2hn.sub-nthu.com:35000@trojan
   - s306.s2022.xyz:37117@trojan
-  - jp.useanlo.cf:10203@trojan
   - 23.225.77.192:28443@trojan
   - shlt.sub-nthu.com:35000@trojan
+  - jp.useanlo.cf:10203@trojan
   - 155.248.172.87:28443@trojan
   - 23.225.77.187:28443@trojan
+  - nm1-2.getnjnd.com:6503@ssr
   - 165.154.243.157:48004@trojan
   - 103.173.255.127:28443@trojan
-  - 23.225.77.226:28443@trojan
   - bs2-2.getnjnd.com:6502@ssr
+  - 23.225.77.226:28443@trojan
   - bs2-1.getnjnd.com:3501@ssr
   - 51.81.223.10:443@vmess
-  - nm1-2.getnjnd.com:6503@ssr
-  - bs1-1.getnjnd.com:3508@ssr
   - 155.248.172.87:28000@trojan
-  - nm1-2.getnjnd.com:6502@ssr
   - bs2-2.getnjnd.com:6500@ssr
-  - bs2-1.getnjnd.com:3505@ssr
-  - s285.s2022.xyz:35798@trojan
-  - nm1-2.getnjnd.com:4500@ssr
-  - cm.spacez.cloud:30002@trojan
-  - bs2-2.getnjnd.com:6501@ssr
-  - bs1-1.getnjnd.com:3505@ssr
-  - bs1-1.getnjnd.com:3509@ssr
-  - bs1-1.getnjnd.com:3502@ssr
-  - nm1-2.getnjnd.com:3045@ssr
-  - bs2-1.getnjnd.com:3500@ssr
-  - nm1-2.getnjnd.com:3025@ssr
+  - nm1-2.getnjnd.com:6502@ssr
   - nm1-2.getnjnd.com:4501@ssr
-  - bs2-2.getnjnd.com:3035@ssr
-  - bs2-2.getnjnd.com:6503@ssr
-  - nm1-2.getnjnd.com:6500@ssr
-  - bs1-1.getnjnd.com:3501@ssr
-  - bs2-2.getnjnd.com:3045@ssr
-  - bs1-1.getnjnd.com:3507@ssr
-  - bs2-1.getnjnd.com:3509@ssr
-  - bs2-1.getnjnd.com:3508@ssr
-  - nm1-2.getnjnd.com:5503@ssr
-  - nm1-2.getnjnd.com:5501@ssr
-  - nm1-2.getnjnd.com:6501@ssr
-  - bs2-2.getnjnd.com:4503@ssr
   - nm1-2.getnjnd.com:4503@ssr
+  - bs1-1.getnjnd.com:3508@ssr
+  - bs2-2.getnjnd.com:4503@ssr
+  - bs2-1.getnjnd.com:3505@ssr
+  - bs2-2.getnjnd.com:4501@ssr
+  - nm1-2.getnjnd.com:4500@ssr
+  - nm1-2.getnjnd.com:6500@ssr
+  - bs2-1.getnjnd.com:3500@ssr
+  - bs2-2.getnjnd.com:6501@ssr
+  - bs1-1.getnjnd.com:3507@ssr
+  - bs2-2.getnjnd.com:3035@ssr
+  - cm.spacez.cloud:30002@trojan
+  - bs1-1.getnjnd.com:3501@ssr
+  - bs2-1.getnjnd.com:3509@ssr
+  - bs2-2.getnjnd.com:3045@ssr
+  - nm1-2.getnjnd.com:3045@ssr
+  - bs2-1.getnjnd.com:3508@ssr
+  - bs1-1.getnjnd.com:3509@ssr
+  - nm1-2.getnjnd.com:3025@ssr
+  - bs2-2.getnjnd.com:6503@ssr
+  - nm1-2.getnjnd.com:6501@ssr
+  - nm1-2.getnjnd.com:5501@ssr
+  - nm1-2.getnjnd.com:5503@ssr
+  - bs1-1.getnjnd.com:3505@ssr
   - nm1-2.getnjnd.com:4502@ssr
-  - 42.3.19.58:39999@vmess
+  - bs1-1.getnjnd.com:3502@ssr
   - bs2-1.getnjnd.com:3502@ssr
+  - 42.3.19.58:39999@vmess
   - bs2-1.getnjnd.com:3503@ssr
-  - 36.227.223.133:39999@vmess
-  - 111.241.109.247:39998@vmess
-  - bs2-2.getnjnd.com:5502@ssr
   - 103.173.255.234:28443@trojan
-  - 51.81.223.32:443@vmess
-  - 116.49.76.103:39999@vmess
   - bs1-1.getnjnd.com:3504@ssr
   - nm1-2.getnjnd.com:5500@ssr
-  - bs2-2.getnjnd.com:4501@ssr
-  - 203.218.84.13:39999@vmess
-  - bs2-2.getnjnd.com:5501@ssr
+  - 111.241.109.247:39998@vmess
   - bs1-1.getnjnd.com:3506@ssr
+  - bs2-2.getnjnd.com:4502@ssr
+  - gz-cm-kl.hinetwork.tw:11136@trojan
+  - gz-cm-kl.hinetwork.tw:11199@trojan
+  - gz-cm1-kl.hinetwork.tw:11112@trojan
+  - 14.29.124.168:24000@ss
+  - 20.239.179.123:12388@trojan
+  - 51.81.223.32:443@vmess
+  - 116.49.76.103:39999@vmess
+  - bs2-2.getnjnd.com:5501@ssr
+  - 36.227.223.133:39999@vmess
+  - bs2-2.getnjnd.com:5502@ssr
+  - s285.s2022.xyz:35798@trojan
   - 103.173.255.21:28000@trojan
+  - 203.218.84.13:39999@vmess
   - 103.173.155.72:28000@trojan
   - 198.211.45.184:4586@trojan
-  - 103.173.255.234:28000@trojan
-  - 103.173.255.228:28000@trojan
-  - 103.173.255.127:28000@trojan
-  - 51.81.223.6:443@vmess
-  - 20.24.197.210:8313@ss
-  - v125.v2dns.bar:80@vmess
   tolerance: 250
 rules:
 - MATCH,PG-default
